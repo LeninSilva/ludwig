@@ -1,1 +1,76 @@
-# ludwig
+# Ludwig — A place to think
+
+An installable, offline companion to Ludwig Wittgenstein. Designed for readers who want serious philosophical explanations without needing an academic vocabulary first.
+
+## What is inside
+
+- **26 guided readings** with original plain-language analysis, daily-life examples, academic implications, criticisms, takeaways, questions, and reflection exercises.
+- **56 German–English glossary entries** explaining translation choices, everyday meanings, and interpretive pitfalls.
+- **Six interactive experiments:** language-games, continuing a rule, family resemblance, picture theory, aspect-seeing, and hinge certainty.
+- **A daily idea** selected by the device’s local date. No notifications, account, or server scheduler.
+- **A local notebook:** notes tied to a reading or section, automatic saving, search, reading bookmarks, and JSON/Markdown export. Backup imports merge by note ID and retain newer versions.
+- **An annotated bookshelf:** all 16 supplied files accounted for, plus the Stanford Encyclopedia of Philosophy. PDF/EPUB imports remain in IndexedDB on the device. EPUBs have a sanitized, offline text reader; PDFs use the browser’s viewer or an external reader.
+- **Two original illustrations**, a phone layout, Daylight/Lamplight modes, adjustable reading text, keyboard navigation, and reduced-motion support.
+
+The whole original reading pack is about **0.81 MB**, excluding books you import. No runtime dependencies, CDN scripts, remote fonts, AI endpoint, analytics, login, or cloud notebook are required.
+
+## Install on a phone
+
+1. Open the deployed HTTPS address in Chrome on Android.
+2. Open the browser menu and choose **Install app** or **Add to Home screen**.
+3. Keep the first visit online until Settings reports that the complete reading pack is saved offline.
+4. Open Ludwig from its new icon. Readings, glossary, experiments, daily ideas, and notes work without a connection.
+5. In **The bookshelf**, import your own matching PDFs or EPUBs for local access.
+
+On iPhone, use Safari → Share → Add to Home Screen. On desktop, use the browser’s install control.
+
+Notes belong to the origin and browser profile in which they were created. A PWA and the Android APK have separate notebooks. Export/import a backup to move between them. Browser storage can be cleared by the user or operating system; export regularly. Notes are local, not application-level encrypted. Original source links need an internet connection.
+
+## Run and deploy
+
+Node 20 or newer; no `npm install` is needed.
+
+```sh
+npm run check
+```
+
+This checks syntax, tests backup validation/merge behavior, daily selection, search and escaping, validates content links, and creates `dist/` with a content-versioned offline pack.
+
+For a local web server after building:
+
+```sh
+python3 -m http.server 8080 --directory dist
+```
+
+Open `http://localhost:8080`. Service workers need HTTPS or localhost. Do not open `index.html` with a `file://` URL.
+
+Deploy `dist/` on static HTTPS hosting. The manifest, assets, worker, and hash routes use relative URLs, so a subdirectory deployment works too. `vercel.json` supplies static Vercel settings; `.openai/hosting.json` records the companion hosted Site. Hosting configuration contains no private runtime data.
+
+After changing source files, run `npm run build`. An existing installation keeps its complete current pack until the user chooses **Apply app update** in Settings. Notes and imported books remain in the same IndexedDB database across app updates. Do not change the origin if you want existing notes to remain directly accessible.
+
+## Optional Android APK
+
+An Android wrapper is included in `android/`. It bundles `dist/` inside the APK and serves assets through AndroidX `WebViewAssetLoader` on its reserved HTTPS origin. It uses a local notebook and Android’s document picker for imports and exports. Source links open in the external browser. Android automatic app backup is disabled; export notes to retain a second copy.
+
+The **Build Android APK** GitHub Actions workflow checks the web app, builds the Android package, and uploads `Ludwig-Android-APK`. It runs for main-branch app changes and can be started manually. Download its artifact from the repository’s Actions tab and extract `app-debug.apk`. This is a development APK signed with a debug key; it is not a Play Store release. A release needs your own stable signing key. A fresh CI debug key can prevent updating an older debug installation in place, so export notes before changing APK installations.
+
+To build locally, install Android SDK 35, Java 17, and Gradle 8.9:
+
+```sh
+npm run build
+gradle -p android assembleDebug --no-daemon
+```
+
+The output is `android/app/build/outputs/apk/debug/app-debug.apk`. Update Android System WebView for module, IndexedDB, EPUB decompression, and file export support. The Android package has a separate storage origin from the hosted PWA. No physical-device testing is implied by a successful compilation.
+
+Technical references: [load in-app content](https://developer.android.com/develop/ui/views/layout/webapps/load-local-content), [AGP 8.7 compatibility](https://developer.android.com/build/releases/agp-8-7-0-release-notes).
+
+## Content and sources
+
+`data/lessons.json`, `data/glossary.json`, and `data/sources.json` separate the curriculum from the interface. Readings are original commentary on selected concepts and passages, not an exhaustive commentary on every remark in all the books. They deliberately distinguish the text, teaching examples, applications, competing interpretations, and criticism.
+
+The supplied collection was checked for identity and relevant passages. It includes a German-only Tractatus, multiple Investigations editions, mediated lecture material, a critical Peacocke article, and one interview about a different Ludwig. These are explicitly identified in the bookshelf. Textual section numbers are preferred over unverified PDF page offsets. The Blue and Brown Books and the Lecture on Ethics were originally in English; the glossary does not invent a German source text behind them.
+
+The full copyrighted books are not redistributed in this public repository. The user imports their own copies locally. EPUB rendering is a text aid, not a preservation-quality replacement for a full EPUB reader: original images, mathematical layout, typography, and footnote navigation may need the usual reader.
+
+Original artwork and interpretation notes are in `assets/ARTWORK.md`. The small local symbol font is a subset of DejaVu Sans; its license is in `assets/FONT-LICENSE.txt`.

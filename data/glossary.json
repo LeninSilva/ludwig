@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "language-game",
+    "german": "Sprachspiel",
+    "english": "Language-game",
+    "definition": "An activity in which words and human actions work together: asking, ordering, joking, counting, or expressing a feeling. Understanding a move means knowing what role it has in the activity.",
+    "nuance": "Spiel can suggest play as well as a game. The compound does not require competition, entertainment, deception, or a complete written rulebook. §7 connects language with the activities into which it is woven; §23 emphasizes variety.",
+    "example": "Invented example: Water! can request a drink, warn of a leak, or supply a word to repeat.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§7; 23"
+      }
+    ],
+    "related": [
+      "builders",
+      "meaning-use",
+      "life"
+    ]
+  },
+  {
+    "id": "form-of-life",
+    "german": "Lebensform",
+    "english": "Form of life",
+    "definition": "The background of activities, responses, and practices in which a language has a place. Language depends on ways of living and acting, rather than a vocabulary list alone.",
+    "nuance": "Form of life is the established English rendering. Whether the emphasis should be on shared human capacities or particular cultural practices is disputed. The phrase does not by itself establish that every community has its own uncriticizable truth.",
+    "example": "Invented example: Promising presupposes practices of commitment, reliance, keeping one’s word, and responding to failure.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§19; 23; 241–242"
+      }
+    ],
+    "related": [
+      "life",
+      "builders",
+      "hinges"
+    ]
+  },
+  {
+    "id": "going-on",
+    "german": "weiterwissen / fortsetzen",
+    "english": "Knowing how to go on",
+    "definition": "Being able to continue a learned activity appropriately, including in cases not explicitly demonstrated. A feeling of sudden insight can accompany this ability without being identical with it.",
+    "nuance": "Weiterwissen in the Investigations concerns knowing how to continue; fortsetzen means to continue. These are not a single mysterious technical noun. Applications to the question of how to live extend the discussion beyond its immediate examples.",
+    "example": "The pupil can continue a number series and respond to correction, rather than merely announce that they understand.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§151–155; 179–181; 185–202"
+      }
+    ],
+    "related": [
+      "going-on",
+      "interpretation",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "rule-following",
+    "german": "einer Regel folgen",
+    "english": "Following a rule",
+    "definition": "Acting within a practice in which there is a distinction between correct application and merely thinking that an application is correct.",
+    "nuance": "The German is an ordinary verbal expression. §201 presents a paradox and then a response; §202 connects following a rule with practice. Neither majority preference nor a private feeling automatically settles correctness.",
+    "example": "Adding two involves a learned technique for applying the instruction, not only looking at a written formula.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§198–202; 217–219"
+      }
+    ],
+    "related": [
+      "going-on",
+      "interpretation",
+      "grammar"
+    ]
+  },
+  {
+    "id": "grammar",
+    "german": "Grammatik",
+    "english": "Philosophical grammar",
+    "definition": "The conceptual roles and relations that make expressions usable: what counts as promising, knowing, remembering, or making a correction. This goes beyond spelling and sentence construction.",
+    "nuance": "Wittgenstein extends an ordinary German word. Philosophical grammar is not a hidden list of metaphysical objects or a claim that every existing use is morally right. A grammatical investigation asks how a concept operates.",
+    "example": "Invented example: The difference between predicting an action and promising it involves evidence and responsibility, not just verb tense.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§90; 371–373"
+      },
+      {
+        "source": "grammar",
+        "locator": "Part I §§8–10"
+      }
+    ],
+    "related": [
+      "grammar",
+      "method",
+      "meaning-use"
+    ]
+  },
+  {
+    "id": "meaning",
+    "german": "Bedeutung / meinen",
+    "english": "Meaning",
+    "definition": "What an expression amounts to in its use, and sometimes what a speaker intends by it. Meaning need not be an object silently attached to a written mark.",
+    "nuance": "Bedeutung often concerns a word’s meaning; meinen is a verb used in saying what someone means or intends. In the Tractatus, Bedeutung and Sinn have distinct roles. Do not assume one English word preserves every distinction across works.",
+    "example": "Invented example: By professional, a speaker might mean reliable rather than emotionally distant.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§40–43; 185–190"
+      },
+      {
+        "source": "tractatus",
+        "locator": "3.203; 4.022"
+      }
+    ],
+    "related": [
+      "meaning-use",
+      "going-on",
+      "picture"
+    ]
+  },
+  {
+    "id": "use",
+    "german": "Gebrauch / Verwendung",
+    "english": "Use",
+    "definition": "The role an expression has in a practice, including how it is taught, understood, applied, corrected, and responded to.",
+    "nuance": "English use can render more than one German expression. It does not mean any behavior a speaker happens to perform. At §43 the association of meaning with use is explicitly qualified: a large class of cases, though not all.",
+    "example": "A request is understood partly through what would count as complying with or refusing it.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§11–14; 43"
+      }
+    ],
+    "related": [
+      "meaning-use",
+      "builders",
+      "family"
+    ]
+  },
+  {
+    "id": "family-resemblance",
+    "german": "Familienähnlichkeit",
+    "english": "Family resemblance",
+    "definition": "A pattern of overlapping similarities connecting cases without one obvious feature appearing in every member. Games provide the main example in the Investigations.",
+    "nuance": "The family image compares crisscrossing likenesses; it does not establish that all concepts lack definitions or that any similarity is sufficient. A precise boundary can still be drawn for a particular purpose.",
+    "example": "Different games can share skill, competition, amusement, or chance in varying combinations.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§65–71"
+      }
+    ],
+    "related": [
+      "family",
+      "grammar",
+      "meaning-use"
+    ]
+  },
+  {
+    "id": "surveyable",
+    "german": "übersichtliche Darstellung",
+    "english": "Surveyable representation",
+    "definition": "An arrangement of uses or examples that lets us see connections we were missing. Its purpose is to make a particular conceptual difficulty easier to understand.",
+    "nuance": "The fourth edition uses surveyable representation; older Anscombe versions use perspicuous representation. Übersicht concerns an overview or grasp of connections. This need not be one all-encompassing theory or a literal diagram.",
+    "example": "A comparison table can reveal that the same word is doing different work in different situations.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§122"
+      }
+    ],
+    "related": [
+      "method",
+      "reading-lab",
+      "grammar"
+    ]
+  },
+  {
+    "id": "interpretation",
+    "german": "Deutung",
+    "english": "Interpretation",
+    "definition": "A way of explaining or taking an expression. In the rule-following discussion, substituting one expression of a rule for another is distinguished from the practical grasp exhibited in application.",
+    "nuance": "Deutung does not always mean a free choice among equally valid readings. §201 questions the regress produced when every application is supposed to require another interpretation before it can occur.",
+    "example": "Explaining an arrow with a sentence helps only if the learner can use the explanation.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§198–202"
+      }
+    ],
+    "related": [
+      "interpretation",
+      "going-on",
+      "reading-lab"
+    ]
+  },
+  {
+    "id": "understanding",
+    "german": "Verstehen",
+    "english": "Understanding",
+    "definition": "Mastery of an expression or technique that can appear in its application. Understanding is not automatically identical with a feeling, image, or brief mental event accompanying it.",
+    "nuance": "The ordinary German verb is important: Wittgenstein examines uses rather than introducing a new inner substance called understanding. An experience of grasping something and a capacity to continue can be connected without being the same.",
+    "example": "You can feel you have solved a pattern, yet later continuation can reveal a misunderstanding.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§143–155"
+      },
+      {
+        "source": "grammar",
+        "locator": "Part I §10, p.47"
+      }
+    ],
+    "related": [
+      "going-on",
+      "grammar",
+      "meaning-use"
+    ]
+  },
+  {
+    "id": "practice",
+    "german": "Praxis / Gepflogenheit",
+    "english": "Practice and custom",
+    "definition": "An established way of doing something in which actions, expectations, and standards of correction have a role. Practice is more than a sequence of similar movements.",
+    "nuance": "Praxis appears in the rule-following discussion; Gepflogenheit suggests custom or established usage. English practice can also mean rehearsal, which is related but not identical. Do not equate an established practice with moral justification.",
+    "example": "Playing chess depends on techniques and standards that distinguish a move from merely relocating a carved object.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§198–202"
+      }
+    ],
+    "related": [
+      "going-on",
+      "life",
+      "grammar"
+    ]
+  },
+  {
+    "id": "training",
+    "german": "Abrichtung",
+    "english": "Training",
+    "definition": "Learning through demonstrations, repetitions, responses, and correction. Wittgenstein uses training examples to investigate how a learner enters a technique.",
+    "nuance": "Abrichtung can carry a stronger sense of drill or conditioning than education or cultivation. Preserve that tone without turning every example into a theory that human understanding is nothing but animal conditioning.",
+    "example": "A child learns to bring a requested object through participation before mastering an explicit theory of reference.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§5–7; 198; 206"
+      }
+    ],
+    "related": [
+      "builders",
+      "going-on",
+      "life"
+    ]
+  },
+  {
+    "id": "agreement",
+    "german": "Übereinstimmung",
+    "english": "Agreement",
+    "definition": "Accord in language, judgments, or the application of a rule. What kind of agreement matters depends on the particular discussion.",
+    "nuance": "Übereinstimmung can mean correspondence or accord, not merely a negotiated opinion. §§241–242 distinguish agreement in language and judgments from the claim that a majority vote makes every proposition true.",
+    "example": "People can dispute a measurement because they share enough procedures to identify the same measuring task.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§201; 241–242"
+      }
+    ],
+    "related": [
+      "life",
+      "going-on",
+      "hinges"
+    ]
+  },
+  {
+    "id": "ostensive",
+    "german": "hinweisende Erklärung / Definition",
+    "english": "Ostensive explanation",
+    "definition": "An explanation given by pointing or presenting a sample. Its success depends on understanding what kind of feature or role is being indicated.",
+    "nuance": "Ostensive is a technical English label for showing or pointing out. A gesture toward a blue cup does not alone settle whether the word concerns colour, material, shape, number, or the object itself.",
+    "example": "Pointing at a cup while saying blue works only against a background that directs attention to colour.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§28–35; 258"
+      }
+    ],
+    "related": [
+      "meaning-use",
+      "private",
+      "builders"
+    ]
+  },
+  {
+    "id": "private-language",
+    "german": "Privatsprache",
+    "english": "Private language",
+    "definition": "The philosophical proposal of a language whose signs refer to what only the speaker can know, with understanding unavailable to anyone else in principle.",
+    "nuance": "This is different from a secret code, an unread diary, or talking to oneself. The question concerns the standards of meaning and correctness in the proposed practice, not whether anyone can have private experiences.",
+    "example": "A diary sign supposedly fixed only by an inward impression raises the problem of distinguishing right from seeming right.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§243; 258–271"
+      }
+    ],
+    "related": [
+      "private",
+      "beetle",
+      "criteria"
+    ]
+  },
+  {
+    "id": "beetle",
+    "german": "Käfer",
+    "english": "Beetle",
+    "definition": "The object in the box comparison at §293. It tests the idea that an inaccessible object alone could supply the meaning of a shared sensation word.",
+    "nuance": "Käfer ordinarily means beetle. Its philosophical importance lies in the setup of the comparison, not a special German meaning. The hidden item’s dropping out of this explanation does not establish that experience is unreal.",
+    "example": "If contents vary without changing the shared use, those contents do not perform the explanatory role initially assigned to them.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§293"
+      }
+    ],
+    "related": [
+      "beetle",
+      "private",
+      "psychology"
+    ]
+  },
+  {
+    "id": "sensation",
+    "german": "Empfindung",
+    "english": "Sensation",
+    "definition": "A felt experience such as pain, considered in discussions of how sensation expressions are learned and used. Having a sensation differs from observing an external object.",
+    "nuance": "Empfindung and Gefühl have overlapping ordinary uses but should not be treated as interchangeable in every passage. The private-language discussion questions one account of sensation naming; it does not deny that people feel pain.",
+    "example": "A child’s verbal expression of pain can replace crying without merely describing the sound of crying.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§243–246; 293–304"
+      }
+    ],
+    "related": [
+      "private",
+      "beetle",
+      "psychology"
+    ]
+  },
+  {
+    "id": "criterion",
+    "german": "Kriterium",
+    "english": "Criterion",
+    "definition": "A consideration connected with how a concept is applied or a phenomenon recognized. Criteria differ from merely accidental correlations, although the precise distinction is contested.",
+    "nuance": "The English term follows the German closely. It does not imply an infallible outward signal for every inner state. Particular judgments can be mistaken, and context matters to the role a sign plays.",
+    "example": "What counts as demonstrating understanding differs from a chance sign that someone may be knowledgeable.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§354; 580–585"
+      },
+      {
+        "source": "blue-brown",
+        "locator": "Blue Book, criteria and symptoms discussion"
+      }
+    ],
+    "related": [
+      "criteria",
+      "private",
+      "psychology"
+    ]
+  },
+  {
+    "id": "evidence",
+    "german": "Belege / Anzeichen / Gründe",
+    "english": "Evidence",
+    "definition": "Information or considerations that support a judgment about a case. Evidence is assessed within practices of checking, comparing, and correcting.",
+    "nuance": "This is an explanatory grouping, not one fixed German technical equivalent. English evidence does not automatically mean German Evidenz, which can suggest self-evidence. Check the particular original passage and its role.",
+    "example": "A reliable record may support a historical claim; rules for identifying a record are a different part of the investigation.",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§1–24; 204–205"
+      },
+      {
+        "source": "pi-bilingual",
+        "locator": "§§354; 580"
+      }
+    ],
+    "related": [
+      "criteria",
+      "hinges",
+      "doubt"
+    ]
+  },
+  {
+    "id": "expression",
+    "german": "Ausdruck / Äußerung",
+    "english": "Expression or utterance",
+    "definition": "A manifestation of feeling, thought, or attitude, and sometimes an utterance or linguistic form. Expression need not be a report based on observing an inner object.",
+    "nuance": "Ausdruck and Äußerung have overlapping but distinct ranges. English expression can conceal the difference between the form of words and someone expressing a feeling. Attend to the local sentence rather than forcing one translation everywhere.",
+    "example": "I am in pain can express pain, while a clinician’s description of the patient has a different role.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§244; 580–585"
+      }
+    ],
+    "related": [
+      "criteria",
+      "psychology",
+      "ritual"
+    ]
+  },
+  {
+    "id": "aspect",
+    "german": "Aspekt",
+    "english": "Aspect",
+    "definition": "A way something appears or is recognized within a pattern, such as seeing the duck–rabbit as a rabbit after seeing only the duck.",
+    "nuance": "The text distinguishes an aspect’s continuous presence from its lighting up. German Aufleuchten conveys appearing or lighting up. A change in aspect need not involve a change in the lines of the drawing.",
+    "example": "You suddenly see the animal you previously could not see in the unchanged image.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "Philosophy of Psychology – A Fragment §§111–139; especially §118"
+      }
+    ],
+    "related": [
+      "aspects",
+      "psychology",
+      "criteria"
+    ]
+  },
+  {
+    "id": "seeing-as",
+    "german": "als … sehen",
+    "english": "Seeing as",
+    "definition": "Seeing a figure under an aspect, rather than only describing its lines or accepting a verbal claim about what it depicts.",
+    "nuance": "This is an ordinary construction, not one German technical noun. Wittgenstein compares uses of seeing, noticing, and interpreting. Social applications of seeing a person differently are extensions, not identical instances of the duck–rabbit experiment.",
+    "example": "You may know the figure can be called a rabbit without yet seeing the rabbit aspect yourself.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "Philosophy of Psychology – A Fragment §§111–139"
+      }
+    ],
+    "related": [
+      "aspects",
+      "daily-life",
+      "psychology"
+    ]
+  },
+  {
+    "id": "hinge",
+    "german": "Angeln",
+    "english": "Hinge",
+    "definition": "A comparison for commitments that stand fast while questions and doubts turn on them within an inquiry. They help make the practice of testing possible.",
+    "nuance": "Angeln means hinges in the relevant German comparison. Hinge epistemology is a later family of interpretations, not the title of a complete theory explicitly formulated in these notebooks. A strong feeling alone does not make a hinge.",
+    "example": "Checking one instrument relies on other standards that are not all being checked at that moment.",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§341–343"
+      }
+    ],
+    "related": [
+      "hinges",
+      "doubt",
+      "life"
+    ]
+  },
+  {
+    "id": "certainty",
+    "german": "Gewißheit / Gewissheit",
+    "english": "Certainty",
+    "definition": "What stands fast in our thought and action, examined in relation to knowledge, doubt, evidence, and the practices that give those concepts a role.",
+    "nuance": "Gewißheit uses the older spelling; Gewissheit is modern orthography. Do not reduce the concept to maximal confidence or assume that every practical certainty is a knowledge claim supported by a proof.",
+    "example": "The background you rely on while checking a record has a different role from the disputed date you investigate.",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§1–24; 94–99; 204; 341–343"
+      }
+    ],
+    "related": [
+      "hinges",
+      "doubt",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "world-picture",
+    "german": "Weltbild",
+    "english": "World-picture",
+    "definition": "An inherited background against which a person distinguishes true from false and learns practices of inquiry. It need not be acquired by first proving all its parts.",
+    "nuance": "Weltbild is often rendered world-picture. It is not automatically a consciously chosen ideology or a visual image in the mind. The riverbed discussion also allows shifts in what functions as fixed or testable.",
+    "example": "A child learns what records, places, and events are before being able to check every historical assertion independently.",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§94–99"
+      }
+    ],
+    "related": [
+      "hinges",
+      "life",
+      "doubt"
+    ]
+  },
+  {
+    "id": "doubt",
+    "german": "Zweifel / zweifeln",
+    "english": "Doubt",
+    "definition": "A challenge with a place in an activity: some possibility of error is raised against a background that makes testing and correction intelligible.",
+    "nuance": "Zweifel is the noun and zweifeln the verb. Wittgenstein asks what happens when philosophical doubt tries to unsettle every standard at once. This is not a ban on questioning an established belief.",
+    "example": "Doubting a date suggests checks in records; doubting every record and standard changes the kind of question.",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§114–115; 341–345"
+      }
+    ],
+    "related": [
+      "doubt",
+      "hinges",
+      "reading-lab"
+    ]
+  },
+  {
+    "id": "knowledge",
+    "german": "Wissen",
+    "english": "Knowledge",
+    "definition": "Knowing, as examined through the roles of knowledge claims, their grounds, possible mistakes, and the situations in which they are made.",
+    "nuance": "Wissen often corresponds to knowing that; German also has kennen for familiarity, though no simple translation rule solves every case. On Certainty questions the move from something’s standing fast to a philosophical claim of knowing.",
+    "example": "I know I have a hand has a different point in a medical setting from its use as a universal answer to skepticism.",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§1–24"
+      },
+      {
+        "source": "pi-bilingual",
+        "locator": "§§150–155; 246"
+      }
+    ],
+    "related": [
+      "doubt",
+      "hinges",
+      "going-on"
+    ]
+  },
+  {
+    "id": "justification",
+    "german": "Rechtfertigung",
+    "english": "Justification",
+    "definition": "Reasons that support a judgment or action as appropriate or correct. A justification differs from an account of what caused the person to act.",
+    "nuance": "Rechtfertigung appears in §217’s question about following a rule. Reaching an end to reasons is not the same as declaring every personal preference immune to criticism. The particular challenge and practice still matter.",
+    "example": "A traffic rule can justify stopping; a history of conditioning can instead help explain how the response arose.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§217"
+      },
+      {
+        "source": "certainty",
+        "locator": "§204"
+      }
+    ],
+    "related": [
+      "interpretation",
+      "will",
+      "hinges"
+    ]
+  },
+  {
+    "id": "picture",
+    "german": "Bild",
+    "english": "Picture or representation",
+    "definition": "In the Tractatus, a structured representation of a possible situation. It can agree or disagree with reality because its elements can correspond to elements of that situation.",
+    "nuance": "Bild can mean picture, image, or model. The picture theory does not require a photograph or visual resemblance. Later references to a misleading picture can concern an analogy organizing thought, so context matters.",
+    "example": "Buttons arranged to represent cars can model a junction despite looking nothing like vehicles.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "2.1–2.225; 4.01"
+      }
+    ],
+    "related": [
+      "picture",
+      "limits",
+      "method"
+    ]
+  },
+  {
+    "id": "proposition",
+    "german": "Satz",
+    "english": "Proposition or sentence",
+    "definition": "A statement with a sense that can be assessed as true or false in the early investigation. In other contexts, the discussion may concern a sentence or its use.",
+    "nuance": "Satz can be translated sentence or proposition. English can encourage a sharper separation than the German word itself supplies. Name the work and purpose before assuming that each occurrence carries one technical meaning.",
+    "example": "The cup is on the table describes a possibility that can be compared with reality.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "3; 4–4.03"
+      },
+      {
+        "source": "pi-bilingual",
+        "locator": "§§19–23"
+      }
+    ],
+    "related": [
+      "picture",
+      "logic",
+      "grammar"
+    ]
+  },
+  {
+    "id": "fact",
+    "german": "Tatsache",
+    "english": "Fact",
+    "definition": "What is the case, rather than an item in a mere inventory of things. A fact concerns an arrangement or situation that obtains.",
+    "nuance": "Tatsache should be distinguished from Sachverhalt in the Tractatus. Treating both English renderings as interchangeable can obscure the relation between possible arrangements and existing arrangements.",
+    "example": "Listing a cup and a table does not yet say that the cup is on the table.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "1–2.063"
+      }
+    ],
+    "related": [
+      "facts",
+      "picture",
+      "limits"
+    ]
+  },
+  {
+    "id": "state-of-affairs",
+    "german": "Sachverhalt",
+    "english": "State of affairs / atomic fact",
+    "definition": "A possible combination of objects in the early account. Its obtaining or not obtaining matters to what is actually the case.",
+    "nuance": "State of affairs is common in later English renderings; Ogden uses atomic fact. The latter can suggest an already actual event, so check the numbered propositions rather than importing that suggestion automatically. The supplied text is German.",
+    "example": "The possible arrangement of one object beside another can be represented even when it does not obtain.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "2–2.063"
+      }
+    ],
+    "related": [
+      "facts",
+      "picture",
+      "logic"
+    ]
+  },
+  {
+    "id": "object",
+    "german": "Gegenstand",
+    "english": "Object",
+    "definition": "An element capable of combination in the Tractatus account of states of affairs. The book’s simple objects should not automatically be identified with ordinary everyday things.",
+    "nuance": "Gegenstand is usually translated object. The later Investigations asks what counts as simple or composite in different activities. A change in context can change the explanatory task, rather than merely supply a new list of the old objects.",
+    "example": "A cup is an ordinary object, but calling it one does not establish that it is a Tractarian simple.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "2.01–2.0231"
+      },
+      {
+        "source": "pi-bilingual",
+        "locator": "§§46–48"
+      }
+    ],
+    "related": [
+      "facts",
+      "picture",
+      "grammar"
+    ]
+  },
+  {
+    "id": "logical-form",
+    "german": "logische Form",
+    "english": "Logical form",
+    "definition": "The shared structural possibility that enables a picture or proposition to represent a possible arrangement in reality in the early account.",
+    "nuance": "The familiar English rendering follows the German closely. Logical form is not an additional object named alongside the things represented. The Tractatus connects it with what representation shows rather than states as another fact.",
+    "example": "A model can represent that two things stand in a relation because its elements can be arranged correspondingly.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "2.18; 4.12–4.1212"
+      }
+    ],
+    "related": [
+      "picture",
+      "logic",
+      "limits"
+    ]
+  },
+  {
+    "id": "sense",
+    "german": "Sinn",
+    "english": "Sense",
+    "definition": "In the Tractatus, what a proposition represents as possible: understanding its sense involves understanding what would make it true or false.",
+    "nuance": "Sinn and Bedeutung are not simply interchangeable. Early remarks distinguish the sense of a proposition from what a name stands for. Later use should be read in context rather than forced into an unchanged technical scheme.",
+    "example": "You can understand the cup is outside even when you do not know whether it is true.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "3.203; 4.022–4.024"
+      }
+    ],
+    "related": [
+      "picture",
+      "limits",
+      "logic"
+    ]
+  },
+  {
+    "id": "senseless",
+    "german": "sinnlos",
+    "english": "Senseless",
+    "definition": "The Tractatus term applied to tautologies and contradictions, which do not select one contingent situation rather than another.",
+    "nuance": "The everyday English word can sound dismissive. Here it is a technical contrast with unsinnig, nonsensical. Logical propositions have a legitimate role in the symbolism even though they do not picture a particular fact.",
+    "example": "It is raining or it is not raining leaves all relevant weather possibilities open in the classical reading.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.46–4.4611"
+      }
+    ],
+    "related": [
+      "logic",
+      "limits",
+      "picture"
+    ]
+  },
+  {
+    "id": "nonsense",
+    "german": "unsinnig",
+    "english": "Nonsensical",
+    "definition": "An expression that fails to say something with the required sense in the Tractatus investigation. It is different from a meaningful factual claim that is merely false.",
+    "nuance": "Keep unsinnig separate from sinnlos. The ladder passage creates a further interpretive difficulty about the book’s own sentences: readers disagree about whether elucidation points to ineffable truths or releases that temptation.",
+    "example": "A failed representation is not repaired merely by deciding that it is an unusually profound false proposition.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.003; 4.4611; 6.54"
+      }
+    ],
+    "related": [
+      "limits",
+      "logic",
+      "method"
+    ]
+  },
+  {
+    "id": "tautology",
+    "german": "Tautologie",
+    "english": "Tautology",
+    "definition": "A logical form true under every assignment of truth values to its component propositions in the relevant classical system.",
+    "nuance": "The technical definition is narrower than the everyday complaint that someone has repeated themselves. In the Tractatus a tautology does not provide contingent information, and is called sinnlos rather than unsinnig.",
+    "example": "Either it is raining or it is not raining tells you nothing about which weather actually occurs.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.46–4.4661; 6.1"
+      }
+    ],
+    "related": [
+      "logic",
+      "picture",
+      "limits"
+    ]
+  },
+  {
+    "id": "contradiction",
+    "german": "Kontradiktion",
+    "english": "Contradiction",
+    "definition": "In the logical discussion, a form false under every assignment of truth values to its components. It rules out every possibility rather than describing one possible situation.",
+    "nuance": "Kontradiktion is the relevant Tractatus term; Widerspruch has a wider ordinary range as well. A person’s inconsistent conduct is not automatically the same phenomenon as a truth-functional contradiction.",
+    "example": "It is raining and it is not raining, with the same place, time, and sense held fixed.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.46–4.4661"
+      }
+    ],
+    "related": [
+      "logic",
+      "limits",
+      "picture"
+    ]
+  },
+  {
+    "id": "showing",
+    "german": "zeigen / sich zeigen",
+    "english": "Showing",
+    "definition": "What is manifested in representation or activity rather than stated as an additional fact in the Tractatus distinction between saying and showing.",
+    "nuance": "Zeigen can be transitive, to show, or reflexive, to show itself. It should not automatically be equated with pointing at a visible object. Its connection with value and the ladder is a major subject of interpretive disagreement.",
+    "example": "A proposition exhibits the structural possibility that lets it represent; it does not simply name logical form as another object.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.12–4.1212; 6.522"
+      }
+    ],
+    "related": [
+      "limits",
+      "logic",
+      "ethics"
+    ]
+  },
+  {
+    "id": "ladder",
+    "german": "Leiter",
+    "english": "Ladder",
+    "definition": "The comparison at Tractatus 6.54 for the elucidations that the reader is asked to get beyond and discard after using them.",
+    "nuance": "Leiter is an ordinary word, not a technical name for a theory. The disagreement concerns what discarding the ladder entails, including whether the book leaves ineffable insights or dismantles that very picture.",
+    "example": "A reading must explain why a work apparently making philosophical claims asks its reader to recognize its own sentences as problematic.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "6.54; 7"
+      }
+    ],
+    "related": [
+      "limits",
+      "method",
+      "reading-lab"
+    ]
+  },
+  {
+    "id": "ontology",
+    "german": "Ontologie",
+    "english": "Ontology",
+    "definition": "The branch of philosophy that asks what exists and how its basic kinds fit together. The Tractatus discussion of objects and facts can be approached through these questions.",
+    "nuance": "This is a scholarly classification used to orient the reader, not a claim that every supplied passage employs Ontologie as its own technical term. Whether the early book finally states an ontology is contested.",
+    "example": "Asking what a fact is differs from asking how we know that a particular fact obtains.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "1–2.063"
+      }
+    ],
+    "related": [
+      "facts",
+      "grammar",
+      "limits"
+    ]
+  },
+  {
+    "id": "essence",
+    "german": "Wesen",
+    "english": "Essence",
+    "definition": "What something fundamentally is, or a feature supposed to determine what every instance must have. Wittgenstein investigates the demand for essence rather than simply endorsing it everywhere.",
+    "nuance": "Wesen can be rendered essence or nature depending on the passage. Family resemblance challenges one expectation about unity; the grammatical remarks connect questions about essence with the uses of expressions.",
+    "example": "Do all games need one shared feature, or can the concept work through overlapping similarities?",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§65–71; 371–373"
+      }
+    ],
+    "related": [
+      "family",
+      "grammar",
+      "facts"
+    ]
+  },
+  {
+    "id": "concept",
+    "german": "Begriff",
+    "english": "Concept",
+    "definition": "A way of identifying, classifying, and reasoning about something, understood through its applications and the contrasts that give those applications a role.",
+    "nuance": "Begriff is ordinarily translated concept. Do not assume it names a little mental picture or an abstract object independently discovered behind each word. The particular inquiry determines what explanation is needed.",
+    "example": "The concept promise involves circumstances and responses that differ from those involved in a prediction.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§65–77; 135"
+      }
+    ],
+    "related": [
+      "family",
+      "grammar",
+      "colour"
+    ]
+  },
+  {
+    "id": "colour",
+    "german": "Farbe",
+    "english": "Colour",
+    "definition": "A subject through which Wittgenstein investigates comparisons, conceptual relations, appearance, materials, and pictures. Different colour questions can belong to different activities.",
+    "nuance": "Farbe can mean colour and, in some contexts, paint. The supplied Remarks on Colour is an English translation, but this glossary does not claim to reproduce a bilingual comparison for every remark.",
+    "example": "A white page can look grey beside snow while still being called white in an ordinary description.",
+    "sourceRefs": [
+      {
+        "source": "colour",
+        "locator": "Part I §§1–5; 17–20"
+      }
+    ],
+    "related": [
+      "colour",
+      "aspects",
+      "grammar"
+    ]
+  },
+  {
+    "id": "value",
+    "german": "Wert",
+    "english": "Value",
+    "definition": "What is good or important, considered in the difference between usefulness for a purpose and the aspiration to absolute ethical importance.",
+    "nuance": "Wert is relevant to the German Tractatus. The supplied Lecture on Ethics was composed in English, so its English value should not be presented as a translation of a hidden German original.",
+    "example": "A route can be good for reaching a destination without settling whether the journey’s purpose is worth pursuing.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "6.4–6.42"
+      },
+      {
+        "source": "ethics",
+        "locator": "pp.4–12"
+      }
+    ],
+    "related": [
+      "ethics",
+      "limits",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "ethics",
+    "german": "Ethik",
+    "english": "Ethics",
+    "definition": "Inquiry into how to live, what matters, and what we owe others. Wittgenstein’s early and middle discussions examine the aspiration to absolute value and its relation to factual description.",
+    "nuance": "Ethik appears in the Tractatus, but the English ethics lecture is an English original. The discussion is not a complete moral theory or a simple claim that ethical concern is meaningless in every ordinary sense.",
+    "example": "Success at a chosen goal may leave unanswered whether pursuing it wrongs another person.",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "6.4–6.422"
+      },
+      {
+        "source": "ethics",
+        "locator": "pp.4–12"
+      }
+    ],
+    "related": [
+      "ethics",
+      "limits",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "reason",
+    "german": "Grund",
+    "english": "Reason",
+    "definition": "A consideration offered to make an action or judgment intelligible or justified. A person’s reason can be questioned for its truth, relevance, or adequacy.",
+    "nuance": "Grund can mean reason, ground, or basis; it is different from Vernunft, reason as a capacity. The supplied mediated materials compare reasons with causes. Do not assume every occurrence supplies one rigid philosophical distinction.",
+    "example": "I returned because I promised gives a reason, rather than a measurement of the mechanism producing the movement.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§217"
+      },
+      {
+        "source": "voices",
+        "locator": "pp.109–113"
+      }
+    ],
+    "related": [
+      "will",
+      "interpretation",
+      "ethics"
+    ]
+  },
+  {
+    "id": "cause",
+    "german": "Ursache",
+    "english": "Cause",
+    "definition": "A condition or process that helps explain why an event occurred. A causal explanation differs in role from a justification, even when both concern the same action.",
+    "nuance": "Ursache is a standard German counterpart, but some supplied discussions were recorded or composed in English. Clarifying causation does not refute empirical science or establish that reasons can never have causal relevance.",
+    "example": "Training may help explain how a response developed; a rule can be offered as a justification for this response now.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§217"
+      },
+      {
+        "source": "voices",
+        "locator": "pp.109–113"
+      },
+      {
+        "source": "free-will",
+        "locator": "pp.85–88"
+      }
+    ],
+    "related": [
+      "will",
+      "interpretation",
+      "ritual"
+    ]
+  },
+  {
+    "id": "freedom",
+    "german": "Willensfreiheit",
+    "english": "Freedom of the will",
+    "definition": "The philosophical issue of choice, control, compulsion, and responsibility. The lecture examines how descriptions of natural law and prediction can shape that issue.",
+    "nuance": "Willensfreiheit is an ordinary German label for the topic, not proof that the English Smythies lecture notes translate a specific German phrase at every point. Distinguish prediction, determinism, coercion, and deliberation.",
+    "example": "Predicting a purchase does not by itself show that the buyer was coerced.",
+    "sourceRefs": [
+      {
+        "source": "free-will",
+        "locator": "pp.85–88; 98–100"
+      }
+    ],
+    "related": [
+      "will",
+      "ethics",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "disposition",
+    "german": "Disposition",
+    "english": "Disposition",
+    "definition": "A capacity or tendency that can persist while it is not being exercised. It differs from an episode currently being experienced, although drawing the distinction can be difficult.",
+    "nuance": "The word has a similar form in German and English. The supplied Peacocke study asks whether proposed criteria distinguish experiences from dispositions without circularity; that objection is Peacocke’s argument.",
+    "example": "Knowing how to swim can persist while sitting still; an episode of imagining a lake has a different temporal role.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "Philosophy of Psychology – A Fragment §§101–104"
+      },
+      {
+        "source": "peacocke",
+        "locator": "Section II, pp.166–167"
+      }
+    ],
+    "related": [
+      "psychology",
+      "going-on",
+      "aspects"
+    ]
+  },
+  {
+    "id": "ritual",
+    "german": "Ritual / Zeremonie",
+    "english": "Ritual",
+    "definition": "An action or ceremony whose significance may involve expression, remembrance, belonging, or attitude, rather than only an attempt to cause a physical result.",
+    "nuance": "These are ordinary orienting terms, not a claim that the Frazer article gives one technical definition. A practice can have expressive and causal aspects, and understanding it does not automatically justify it.",
+    "example": "Kissing a photograph need not involve believing that paper can receive affection.",
+    "sourceRefs": [
+      {
+        "source": "language-use",
+        "locator": "pp.234–236; article pp.233–253"
+      }
+    ],
+    "related": [
+      "ritual",
+      "life",
+      "ethics"
+    ]
+  },
+  {
+    "id": "method",
+    "german": "Methode",
+    "english": "Method",
+    "definition": "A way of investigating a particular philosophical difficulty through comparisons, reminders, and attention to use. Different difficulties can require different procedures.",
+    "nuance": "At §133 the Investigations resists one single philosophical method. Do not turn the association with therapy into a clinical treatment claim or a demand that every philosophical question disappear.",
+    "example": "A comparison can expose a misleading analogy, while an unknown factual detail still requires evidence.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "§§109–133"
+      },
+      {
+        "source": "philosophy",
+        "locator": "§89, pp.9–13"
+      }
+    ],
+    "related": [
+      "method",
+      "begin",
+      "reading-lab"
+    ]
+  },
+  {
+    "id": "citation",
+    "german": "Beleg / Zitieren",
+    "english": "Citation",
+    "definition": "A reference that lets another reader locate and check the passage supporting a claim. Accurate citation also preserves who is speaking and how strongly the passage supports the interpretation.",
+    "nuance": "This is an editorial study term, not one fixed Wittgensteinian technical expression. Numbered remarks are usually more stable than PDF pages; each work’s numbering and edition need to be identified.",
+    "example": "Cite PI §201 together with its response, rather than using the opening paradox as Wittgenstein’s final position.",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§201–202"
+      },
+      {
+        "source": "notes-logic",
+        "locator": "Costello’s introduction, pp.230–231"
+      }
+    ],
+    "related": [
+      "reading-lab",
+      "method",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "translation",
+    "german": "Übersetzung",
+    "english": "Translation",
+    "definition": "A rendering into another language that can clarify one aspect of an expression while leaving another less visible. Compare the immediate passage and editions, rather than assuming a perfect one-word equivalence.",
+    "nuance": "German is the original language of the Investigations; it is not a German translation of the English. The Blue and Brown Books and the ethics lecture are English originals. The supplied bilingual PI is the 2009 fourth edition.",
+    "example": "Übersichtliche Darstellung becomes surveyable representation in the fourth edition and perspicuous representation in older Anscombe versions.",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "Editorial Preface; §122"
+      },
+      {
+        "source": "blue-brown",
+        "locator": "Preface"
+      },
+      {
+        "source": "ethics",
+        "locator": "Editorial introduction"
+      }
+    ],
+    "related": [
+      "reading-lab",
+      "grammar",
+      "meaning-use"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#254e43">
+  <meta name="description" content="A place to think with Ludwig Wittgenstein. Guided readings, ordinary experiments, and your own notebook. Works offline, with your notes on your device.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Ludwig — A place to think</title>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <aside class="sidebar" aria-label="Main navigation">
+    <a class="brand" href="#/home" aria-label="Ludwig home"><span class="brand-symbol">L<span>·</span></span><span>Ludwig<small>A PLACE TO THINK</small></span></a>
+    <nav id="desktop-nav"></nav>
+    <div class="sidebar-bottom"><p class="small-label">A LITTLE, EVERY DAY</p><p class="sidebar-invitation">Look again.<br>There is more to see.</p><button class="status-button" data-action="settings"><span class="status-dot"></span><span id="offline-label">Preparing offline reading</span></button><small>Your thoughts stay on this device.</small></div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><a href="#/home" class="mobile-brand">Ludwig<span>·</span></a><span class="breadcrumb" id="breadcrumb">Your companion to Wittgenstein</span><div class="topbar-actions"><button class="icon-button" data-action="search" aria-label="Search Ludwig" title="Search (Ctrl+K)"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><span class="search-label">Search anything</span><kbd>⌘ K</kbd></button><button class="icon-button" data-action="settings" aria-label="Settings and offline access"><svg viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M4 16v4h16v-4"/></svg></button></div></header>
+    <main id="main" tabindex="-1"><div class="loading"><span class="brand-symbol">L·</span><p>Making room for a thought…</p></div></main>
+    <footer class="footer"><span>Ludwig · An invitation to look more closely.</span><a href="#/sources">Read with the sources ↗</a></footer>
+  </div>
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Main navigation"></nav>
+  <dialog id="modal" aria-label="Details"><div class="modal-top"><span id="modal-label">A closer look</span><button class="icon-button" data-action="close-modal" aria-label="Close dialog">✕</button></div><div id="modal-body"></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="backup-input" accept="application/json,.json" hidden>
+  <input type="file" id="source-input" accept="application/pdf,application/epub+zip,.pdf,.epub" hidden>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

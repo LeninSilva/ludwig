@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Ludwig — A place to think",
+  "short_name": "Ludwig",
+  "description": "An offline companion to Ludwig Wittgenstein. Read, explore, and keep your thoughts on your device.",
+  "start_url": "./#/home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ec",
+  "theme_color": "#254e43",
+  "lang": "en",
+  "categories": ["education", "books"],
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ],
+  "shortcuts": [
+    {"name":"Today's idea","url":"./#/daily"},
+    {"name":"My notebook","url":"./#/notebook"}
+  ]
+}

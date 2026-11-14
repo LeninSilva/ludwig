@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "begin",
+    "title": "A different way of looking",
+    "subtitle": "Why Wittgenstein matters, and how to read him",
+    "period": "Later",
+    "category": "Method",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "Preface; §§109–133",
+        "note": "His approach to philosophical investigation."
+      },
+      {
+        "source": "tractatus",
+        "locator": "4.112; 6.54",
+        "note": "An earlier conception of philosophy as an activity."
+      }
+    ],
+    "summary": "Wittgenstein asks us to examine the pictures that quietly organize our thinking. Understanding him means learning a practice of clarification, rather than collecting a set of impressive sayings.",
+    "sections": [
+      {
+        "title": "Begin with a familiar difficulty",
+        "body": "You can know every word in a question and still feel lost. What is meaning? What is knowledge? What makes an action free? Wittgenstein thinks that some philosophical difficulties arise when we detach expressions from the activities that make them intelligible. His response is to return to examples, comparisons, and distinctions. This is why a discussion of deep questions may begin with builders, shopping, a child learning arithmetic, or someone saying that they are in pain."
+      },
+      {
+        "title": "An early project and a later reconsideration",
+        "body": "The Tractatus explores what a meaningful representation of the world must be like. The Philosophical Investigations questions the demand for one general model of language. There is a substantial change, but the exact continuity is disputed: both works also connect philosophy with clarification. Treat the labels early and later as a map for orientation. They do not mean that he suddenly acquired an unrelated personality or that every later remark refutes an earlier one."
+      },
+      {
+        "title": "What this changes in daily life",
+        "body": "Invented example: two friends argue about whether a reply was honest. One means factually accurate; the other means open about an intention. A dictionary definition alone may conceal their disagreement. Ask what each person was doing, what counted as misleading, and what a correction would look like. This may reveal a disagreement about conduct rather than the discovery that one person does not know English. Clarification can make an ethical disagreement more precise without settling it."
+      },
+      {
+        "title": "Why this matters academically",
+        "body": "His work shaped discussions of language, mind, logic, knowledge, and philosophical method. The practical academic skill is to distinguish a question about facts from a question about the use of a concept. A brain experiment might illuminate the causes of a feeling. It will not, by itself, explain the difference between reporting a feeling and expressing it. These are connected investigations, but the questions need to be stated before evidence can answer them."
+      },
+      {
+        "title": "Read with resistance",
+        "body": "Do not assume that ordinary language is always wise, fair, or complete. A critic can ask whether clarification leaves oppressive habits intact, or whether philosophy sometimes needs to invent better concepts. Wittgenstein also writes through imagined objections; the voice on the page is not always his settled view. Read a remark with its neighboring remarks, identify the tempting picture, and ask what the example actually establishes. An attractive analogy is a beginning of thought, not a proof."
+      }
+    ],
+    "takeaways": [
+      "Start from an example before seeking a universal definition.",
+      "Separate a factual question from a question about how words function.",
+      "Keep interpretation open where the text supports competing readings."
+    ],
+    "questions": [
+      "What picture makes this question feel unavoidable?",
+      "Would a concrete example change what I am asking?",
+      "Which speaker in the passage is voicing the temptation or objection?"
+    ],
+    "exercise": {
+      "title": "Untangle a question",
+      "prompt": "Consider the question: Is an online friend a real friend?",
+      "options": [
+        {
+          "text": "Look for a single hidden property called real friendship.",
+          "feedback": "This may prejudge the issue. Compare what friendship involves in several lives before assuming one essence."
+        },
+        {
+          "text": "Ask what contrasts real is making in this situation.",
+          "feedback": "A useful opening: perhaps the contrast is with a fake account, an unreliable friend, or a relationship without meeting in person. These are different questions."
+        }
+      ],
+      "reflection": "Write down a disagreement from your life. Describe the circumstances before trying to define its central word."
+    },
+    "related": [
+      "method",
+      "reading-lab",
+      "meaning-use"
+    ],
+    "terms": [
+      "grammar",
+      "surveyable",
+      "language-game"
+    ]
+  },
+  {
+    "id": "picture",
+    "title": "A sentence as a picture",
+    "subtitle": "How language can represent a possible world",
+    "period": "Early",
+    "category": "Language",
+    "readingMinutes": 4,
+    "accent": "ochre",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "2.1–2.225; 4.01–4.0312",
+        "note": "Pictures, representation, and propositions."
+      }
+    ],
+    "summary": "A picture need not look like what it represents. In the Tractatus, representation depends on an arrangement of elements that can correspond to an arrangement in reality.",
+    "sections": [
+      {
+        "title": "A model you can compare with reality",
+        "body": "Imagine placing two buttons on a table to represent two cars at a junction. The buttons are not tiny motor vehicles. They represent the cars because we assign a role to each element and arrange them in a way that can match the situation. The arrangement says something that might be correct or incorrect. Wittgenstein uses the idea of picturing to investigate how a proposition, a statement that can be true or false, can have sense."
+      },
+      {
+        "title": "Sense is different from truth",
+        "body": "A picture can represent a possibility that does not actually occur. The statement that the cup is beside the book is intelligible even when the cup is on a shelf. To understand it, you need not already know whether it is true. You need to understand what would make it true. In the early account, a proposition divides possibilities: it agrees with some arrangements of reality and disagrees with others. That contrast matters to its sense."
+      },
+      {
+        "title": "Logical form is a shared possibility",
+        "body": "The relevant similarity is structural. Elements must be capable of standing in corresponding relations. This shared possibility is what the Tractatus calls logical form. A map can represent a route without copying the texture of the pavement. The lesson is not that every sentence is a photograph. It is that meaningful representation requires something that makes comparison possible. Saying which things the symbols represent is part of establishing the representational connection."
+      },
+      {
+        "title": "Use it carefully today",
+        "body": "Invented example: a dashboard marks a task as complete. Ask which state of affairs the symbol is intended to represent, and how you would check it. Does complete mean the work was done, reviewed, or approved? The picture comparison helps expose a vague representation. But this is an application of the idea, not evidence that Wittgenstein anticipated digital dashboards. Later language-games will also show why a request or promise cannot simply be treated as a report."
+      },
+      {
+        "title": "The pressure on the theory",
+        "body": "A major difficulty is whether all meaningful language fits this model. Greetings, jokes, orders, and expressions of grief do not obviously depict possible facts in the same way. The later investigations resist treating one model as the essence of language. Even within the Tractatus, readers disagree about how to understand its objects and elementary propositions. The text investigates conditions of representation; it does not hand us a completed list of reality’s ultimate ingredients."
+      }
+    ],
+    "takeaways": [
+      "A representation can be meaningful without being true.",
+      "Structural correspondence matters more than visual resemblance.",
+      "Ask whether a model fits the kind of utterance being examined."
+    ],
+    "questions": [
+      "What must a representation share with what it represents?",
+      "Does a promise picture a fact, create a commitment, or do both?",
+      "Can we specify logical form without trying to represent it again?"
+    ],
+    "exercise": {
+      "title": "Test a representation",
+      "prompt": "An empty calendar slot is shown as available. What do you need to know?",
+      "options": [
+        {
+          "text": "The display is green, so the person is certainly free.",
+          "feedback": "The appearance of the symbol does not guarantee that the representation is true."
+        },
+        {
+          "text": "What available represents and which facts would verify it.",
+          "feedback": "Yes. You need a representational connection and an independent comparison with the situation."
+        }
+      ],
+      "reflection": "Draw a simple model of a daily situation. Label what each element represents and describe one way the model could be false."
+    },
+    "related": [
+      "facts",
+      "logic",
+      "limits",
+      "meaning-use"
+    ],
+    "terms": [
+      "picture",
+      "proposition",
+      "logical-form",
+      "sense"
+    ]
+  },
+  {
+    "id": "facts",
+    "title": "A world of facts",
+    "subtitle": "Why an inventory of things is not yet a description",
+    "period": "Early",
+    "category": "Logic",
+    "readingMinutes": 4,
+    "accent": "ochre",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "1–2.063; 2.021–2.0231",
+        "note": "Facts, states of affairs, objects, and substance."
+      }
+    ],
+    "summary": "The Tractatus begins by emphasizing what is the case. Knowing that certain objects exist does not yet tell us how they are arranged, or what is happening.",
+    "sections": [
+      {
+        "title": "Things and their arrangements",
+        "body": "An inventory says that there is a cup, a book, and a table. It does not say whether the cup is on the table, beside the book, or broken on the floor. A fact concerns how things stand. The opening of the Tractatus directs attention from a mere collection of things to the situations that obtain. This is an ontological investigation: ontology asks what there is and how the basic kinds of reality fit together."
+      },
+      {
+        "title": "The important German distinction",
+        "body": "Tatsache is normally rendered fact. Sachverhalt is rendered state of affairs in some translations and atomic fact in the Ogden translation. These English choices can suggest different pictures. Atomic fact may sound like a tiny actual event; state of affairs more readily suggests a possible arrangement. Read the numbered remarks together: 2.01 concerns a combination of objects, while 2.04 concerns the totality of existing states of affairs. Do not build an interpretation from the English noun alone."
+      },
+      {
+        "title": "Possibility before actuality",
+        "body": "The early account links objects with possibilities of combination. Understanding an object involves understanding possible ways it can occur in states of affairs. A rook in chess offers a helpful limited comparison: knowing the carved object exists is not yet knowing its possible role in the game. This is only an analogy. The Tractatus does not identify its simple objects with ordinary chess pieces or provide a straightforward empirical search for them."
+      },
+      {
+        "title": "A practical gain in precision",
+        "body": "Invented example: a workplace report lists that a policy, a supervisor, and a complaint exist. That inventory omits whether the policy was followed, whether the supervisor received the complaint, and whether anyone acted. Asking for facts means asking how the elements stand in relation. Academically, distinguish an ontological claim about what exists from an epistemological claim about what we can know. The two questions interact, but the existence of a fact does not guarantee our access to it."
+      },
+      {
+        "title": "A substantial interpretive disagreement",
+        "body": "A realist reading treats the book as describing a mind-independent structure that language can represent. Other readers give greater priority to its investigation of symbolism, or question whether its apparent metaphysical claims survive the concluding ladder. The later Wittgenstein also asks what counts as simple or composite in different contexts. The responsible takeaway is a useful distinction between objects and facts, alongside an open question about the ultimate status of the early ontology."
+      }
+    ],
+    "takeaways": [
+      "An inventory of objects leaves their arrangement unspecified.",
+      "Compare Tatsache and Sachverhalt rather than assuming their translations are interchangeable.",
+      "Distinguish what exists from what is known."
+    ],
+    "questions": [
+      "Can an absent arrangement be a state of affairs without being an existing fact?",
+      "What makes an object simple in the early account?",
+      "Does the book state an ontology or try to dissolve the need for one?"
+    ],
+    "exercise": {
+      "title": "Inventory or fact?",
+      "prompt": "Which report tells you how things stand?",
+      "options": [
+        {
+          "text": "There is a key, a door, and a person.",
+          "feedback": "An inventory identifies elements but leaves their relationship unspecified."
+        },
+        {
+          "text": "The person used the key to lock the door.",
+          "feedback": "This reports an arrangement or occurrence that could be checked against reality."
+        }
+      ],
+      "reflection": "Take a vague report and replace its inventory of nouns with a precise description of their relations."
+    },
+    "related": [
+      "picture",
+      "limits",
+      "grammar"
+    ],
+    "terms": [
+      "fact",
+      "state-of-affairs",
+      "object",
+      "ontology"
+    ]
+  },
+  {
+    "id": "logic",
+    "title": "What logic tells us",
+    "subtitle": "Tautology, contradiction, and the space of possibilities",
+    "period": "Early",
+    "category": "Logic",
+    "readingMinutes": 4,
+    "accent": "ochre",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.46–4.4661; 6.1–6.13",
+        "note": "Tautologies, contradictions, and logical propositions."
+      }
+    ],
+    "summary": "A logical truth does not pick out one particular weather, place, or event. This helps explain the Tractatus distinction between factual information and logical structure.",
+    "sections": [
+      {
+        "title": "Compare two kinds of statement",
+        "body": "The statement that it is raining rules out some possibilities and accepts others. The statement that it is raining or it is not raining accepts every possibility in the relevant classical framework. You cannot learn the weather by being told the second statement. A tautology is true for every assignment of truth values to its components. A contradiction is false for every assignment. These technical definitions concern logical form, rather than whether the statement sounds repetitive or emotionally inconsistent."
+      },
+      {
+        "title": "Why a logical truth is not a useless mistake",
+        "body": "The Tractatus calls tautologies and contradictions sinnlos, commonly translated senseless. That is not the same as unsinnig, nonsensical. A tautology belongs to the symbolism and displays its logical organization; it simply does not picture one contingent arrangement rather than another. The distinction prevents a serious misunderstanding: Wittgenstein is not saying that logic is gibberish. He is asking how its necessity differs from the truth of an ordinary report about the world."
+      },
+      {
+        "title": "The limit cases of representation",
+        "body": "In this account, ordinary factual propositions can be true or false according to how reality is. A tautology cannot be false, and a contradiction cannot be true. Their limiting status makes them unlike factual pictures. Logical constants such as and and not are not names of additional objects sitting beside cups and tables. Their function is to organize propositions. Treating every meaningful sign as a label for a thing would miss this function."
+      },
+      {
+        "title": "Apply the distinction to an argument",
+        "body": "Invented example: a proposal will either succeed or it will not. This exhausts the two possibilities, but gives no evidence about which will occur. In ordinary discussion, a logical truism can create the impression of insight while leaving the practical issue untouched. Ask what additional premises concern the actual situation. In academic work, logic can establish that a conclusion follows from premises; it does not by itself establish that every empirical premise is true."
+      },
+      {
+        "title": "Where the questions remain",
+        "body": "This lesson describes the Tractatus within its classical logical setting. It is not a proof that every modern logical system must have the same formal features. Critics also dispute how mathematics relates to logic in Wittgenstein’s work, and how much philosophical weight logical form can bear. Avoid the leap from logical necessity to certainty about every statement expressed in symbols. A formally impressive sentence can still depend on contestable assumptions about a particular situation."
+      }
+    ],
+    "takeaways": [
+      "Logical validity and empirical truth answer different questions.",
+      "A tautology provides no contingent information about the world.",
+      "Senseless and nonsensical have distinct technical uses here."
+    ],
+    "questions": [
+      "What possibilities does this statement rule out?",
+      "Which premises in this argument require evidence?",
+      "How can a proposition illuminate logical form without reporting a fact?"
+    ],
+    "exercise": {
+      "title": "Find the information",
+      "prompt": "Which utterance tells you something about today’s weather?",
+      "options": [
+        {
+          "text": "It is raining or it is not raining.",
+          "feedback": "In the classical reading this is a tautology; it leaves every relevant weather possibility open."
+        },
+        {
+          "text": "It is raining outside my window now.",
+          "feedback": "This makes a contingent claim that can be true or false according to the situation."
+        }
+      ],
+      "reflection": "Find a discussion in which a truism sounds informative. Write down the missing factual premise."
+    },
+    "related": [
+      "picture",
+      "limits",
+      "facts"
+    ],
+    "terms": [
+      "tautology",
+      "contradiction",
+      "senseless",
+      "nonsense"
+    ]
+  },
+  {
+    "id": "limits",
+    "title": "Saying, showing, and the ladder",
+    "subtitle": "What happens when the book reaches its own boundary?",
+    "period": "Early",
+    "category": "Method",
+    "readingMinutes": 4,
+    "accent": "ochre",
+    "sourceRefs": [
+      {
+        "source": "tractatus",
+        "locator": "4.12–4.1212; 6.41–6.54; 7",
+        "note": "Showing, value, and the concluding ladder."
+      }
+    ],
+    "summary": "The Tractatus distinguishes what can be stated from what a symbolism or a life can manifest. Its concluding ladder then makes the status of its own sentences a difficult question.",
+    "sections": [
+      {
+        "title": "A boundary that cannot be described from outside",
+        "body": "To represent the world, a proposition shares logical form with reality. The book argues that this shared form cannot itself be represented in the same way as another fact. It is exhibited in representation. This is one central use of the distinction between saying and showing. A helpful limited analogy is a map’s way of representing: you use its structure in reading it. But do not assume that any missing verbal explanation therefore expresses a mysterious additional fact."
+      },
+      {
+        "title": "What does nonsense mean here?",
+        "body": "Unsinnig is usually translated nonsensical. In the Tractatus it marks an expression that fails to say something with the required sense, not merely a claim that is false or a remark we dislike. That creates an unsettling possibility: sentences that sound philosophically profound may fail by the book’s own standard. Distinguish this from sinnlos, the special status of tautologies and contradictions. A false map, a tautology, and a failed representation are three different cases."
+      },
+      {
+        "title": "The ladder turns back on the reader",
+        "body": "At 6.54 Wittgenstein compares his elucidations to a ladder that the reader eventually discards. Traditional interpretations often understand the book as leading us to recognize something that cannot be stated directly. Resolute interpretations resist turning its nonsense into a vehicle for hidden truths. On that approach, the book works against the temptation to imagine such truths. The lesson is a live interpretive dispute. Neither reading should be smuggled into a supposedly neutral summary."
+      },
+      {
+        "title": "The importance of what is not a report",
+        "body": "The closing remarks connect these limits with ethics, value, and the world as a whole. They do not straightforwardly say that caring, responsibility, or beauty are worthless. Invented application: a factual biography may tell you what someone did without settling what makes a life admirable. This illustrates a difference between factual description and evaluation. It does not prove the entire early argument or establish that ethics is beyond all rational conversation."
+      },
+      {
+        "title": "A criticism worth keeping",
+        "body": "If the book gives us insights about the limits of meaningful language, how can it express those insights without contradicting itself? The ladder addresses this pressure but does not make the disagreement disappear. Critics ask whether the distinction between meaningful and nonsensical discourse is too restrictive, or whether philosophical explanation can consistently cancel itself. In your notes, separate the text’s explicit conclusion from the interpretation that makes best sense of it for you."
+      }
+    ],
+    "takeaways": [
+      "A false statement is different from an expression that lacks the required sense.",
+      "The ladder creates a problem about the book’s own status.",
+      "Competing readings disagree about whether anything ineffable remains."
+    ],
+    "questions": [
+      "What exactly is shown by a meaningful proposition?",
+      "Can a sentence help me understand while failing to state a fact?",
+      "Does discarding the ladder include discarding the saying/showing distinction?"
+    ],
+    "exercise": {
+      "title": "Locate the disagreement",
+      "prompt": "Two readers agree that 6.54 asks us to discard the ladder. What might they still dispute?",
+      "options": [
+        {
+          "text": "Whether the book reveals ineffable truths or releases that very temptation.",
+          "feedback": "Yes. Agreement on the image does not settle its philosophical interpretation."
+        },
+        {
+          "text": "Whether Wittgenstein literally recommends throwing away wooden ladders.",
+          "feedback": "The physical object is a comparison; this reading misses the problem of the book’s sentences."
+        }
+      ],
+      "reflection": "Write two rival interpretations of 6.54. Identify one nearby passage that each would need to explain."
+    },
+    "related": [
+      "ethics",
+      "logic",
+      "method"
+    ],
+    "terms": [
+      "showing",
+      "nonsense",
+      "sense",
+      "ladder"
+    ]
+  },
+  {
+    "id": "ethics",
+    "title": "Value is not another measurement",
+    "subtitle": "Ethics, absolute importance, and their limits",
+    "period": "Middle",
+    "category": "Ethics",
+    "readingMinutes": 4,
+    "accent": "clay",
+    "sourceRefs": [
+      {
+        "source": "ethics",
+        "locator": "pp. 4–12",
+        "note": "The supplied Philosophical Review lecture; relative and absolute value."
+      },
+      {
+        "source": "tractatus",
+        "locator": "6.4–6.522",
+        "note": "Value and the limits of factual discourse."
+      }
+    ],
+    "summary": "In the Lecture on Ethics, Wittgenstein distinguishes being good for a purpose from the idea of absolute value. He examines why ethical importance resists being treated like one more fact.",
+    "sections": [
+      {
+        "title": "Good for what?",
+        "body": "A good chair supports its sitter. A good route gets us somewhere efficiently. These evaluations involve a purpose or standard: something can be good for one use and poor for another. The lecture calls attention to a different aspiration in ethical language, when people speak of what is absolutely good or of how one ought to live. Wittgenstein is not just collecting moral rules. He is examining what that aspiration tries to express."
+      },
+      {
+        "title": "Why a complete factual book would not settle everything",
+        "body": "Imagine a book containing all the facts about people, their actions, and their experiences. Wittgenstein argues that factual descriptions, however extensive, would not themselves contain an absolute ethical judgment in the sense he is investigating. This is stronger than saying that we lack enough information to decide a difficult case. It questions the idea that absolute value could be one additional item in a comprehensive record of events."
+      },
+      {
+        "title": "Take the aspiration seriously without inventing a theory",
+        "body": "The lecture discusses experiences such as wondering at the existence of the world and feeling absolutely safe. It connects ethical and religious expression with attempts to go beyond the limits of significant language. That diagnosis is not a neat moral theory or a list of actions to approve. Interpretations differ over whether the lecture preserves an ineffable dimension of value or primarily clarifies a persistent human tendency in speech."
+      },
+      {
+        "title": "Bring the question into a decision",
+        "body": "Invented example: a job pays well, earns praise, and suits your skills, yet you worry that it involves deceiving vulnerable people. Listing benefits and facts about your satisfaction may not answer the question of what you owe them. The Wittgensteinian prompt is to notice a change in what good is doing. This application does not tell you which action is right. It helps prevent an instrumental measure from silently replacing the moral question."
+      },
+      {
+        "title": "A critic’s challenge",
+        "body": "A critic can argue that ethical judgments are meaningful, reasoned, and sometimes true, even though they are not straightforward scientific reports. Later approaches to language may also make room for ethical practices without requiring them to imitate physical description. Do not infer from the lecture that ethics is a private feeling, that reasons are irrelevant, or that moral disagreement is pointless. Its account of absolute value creates a problem to examine rather than permission to stop thinking."
+      }
+    ],
+    "takeaways": [
+      "Distinguish good for a purpose from the aspiration to absolute value.",
+      "More factual detail does not automatically answer every evaluative question.",
+      "The lecture offers an investigation of ethical expression, not a decision procedure."
+    ],
+    "questions": [
+      "When I say good, which standard or purpose am I using?",
+      "Does the difference between facts and value require ethical silence?",
+      "Could ethical language be meaningful without describing an additional object?"
+    ],
+    "exercise": {
+      "title": "Hear two uses of good",
+      "prompt": "A useful tool and a decent action can both be called good. What follows?",
+      "options": [
+        {
+          "text": "They must be measured by exactly the same scale.",
+          "feedback": "The shared word does not establish one identical standard across these uses."
+        },
+        {
+          "text": "Ask what kind of assessment each situation calls for.",
+          "feedback": "Yes. Clarifying the use helps reveal what a justification would need to address."
+        }
+      ],
+      "reflection": "Describe a decision where success at a goal did not settle whether the goal or action was worth pursuing."
+    },
+    "related": [
+      "limits",
+      "ritual",
+      "daily-life"
+    ],
+    "terms": [
+      "value",
+      "ethics",
+      "sense"
+    ]
+  },
+  {
+    "id": "builders",
+    "title": "What is a language-game?",
+    "subtitle": "Words woven into what people do",
+    "period": "Later",
+    "category": "Language",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§1–7; 19–23",
+        "note": "The builders, training, and the variety of language-games."
+      },
+      {
+        "source": "blue-brown",
+        "locator": "Brown Book, opening language-games",
+        "note": "Earlier development of simplified language examples."
+      }
+    ],
+    "summary": "A language-game is an activity in which speaking, understanding, and acting belong together. The term does not mean that communication is frivolous or that reality is a game.",
+    "sections": [
+      {
+        "title": "Begin at the building site",
+        "body": "In the Investigations, a builder calls for building stones and an assistant brings them. To understand this little language, you need more than a list pairing sounds with objects. You need to know what is being done: one participant calls, another responds, and the stones have a place in a shared activity. The example challenges a picture in which all words function primarily as names and understanding is simply attaching the right object to each sound."
+      },
+      {
+        "title": "Why Wittgenstein chooses the word game",
+        "body": "Games make rules, learned moves, and practical participation easy to notice. But the comparison does not say that language is always competitive, entertaining, or explicitly governed by a rulebook. At §7 Wittgenstein connects a language-game with language and the activities into which it is woven. At §23 he presents a variety of uses, including requesting, describing, joking, thanking, and praying. Their differences are part of what the investigation asks us to notice."
+      },
+      {
+        "title": "The same sound can do different work",
+        "body": "Invented example: someone says water at a café, beside a burning stove, and during a vocabulary lesson. It might be an order, a warning, or a sample to repeat. The sound alone does not fix the practical role. Tone and gesture may help, but the larger circumstances matter as well. Do not reduce the lesson to context matters: ask which activity is underway, what counts as a fitting response, and how participants learn that response."
+      },
+      {
+        "title": "What this changes about disagreement",
+        "body": "You might hear a factual objection to an utterance that was functioning as a promise, a complaint, or an expression of grief. Clarifying the language-game can reveal why the response misses its target. Academically, this helps distinguish functions that a single grammatical sentence form can carry. It does not follow that people in different practices cannot criticize or understand each other. The question becomes how their standards connect, overlap, or conflict in concrete cases."
+      },
+      {
+        "title": "The limitation of a small model",
+        "body": "The builders’ language is deliberately simplified. Real conversations include ambiguity, histories, irony, power, and changing purposes. A critic can ask whether isolating little games hides these relations. Another danger is treating a language-game as a sealed box with no shared standards beyond it. The Investigations offers comparisons for looking at language, not a final taxonomy in which every utterance has exactly one label. Use the model to improve attention, then test where it stops helping."
+      }
+    ],
+    "takeaways": [
+      "Look at words together with the activities in which they are used.",
+      "A language-game need not be entertainment or competition.",
+      "Ask what a response would count as in this setting."
+    ],
+    "questions": [
+      "What must the assistant have learned besides the names of stones?",
+      "Can one utterance belong to more than one activity?",
+      "What gets hidden when we draw the boundary of a language-game?"
+    ],
+    "exercise": {
+      "title": "One word, several moves",
+      "prompt": "Someone shouts Fire! Which question best opens an interpretation?",
+      "options": [
+        {
+          "text": "Which object does fire always name?",
+          "feedback": "Naming may matter, but it does not distinguish a warning from an instruction or theatrical cue."
+        },
+        {
+          "text": "What is happening, and what response is being called for?",
+          "feedback": "This places the word within an activity, which is the point of the language-game comparison."
+        }
+      ],
+      "reflection": "Collect three uses of one everyday word. Describe the response that would count as understanding in each."
+    },
+    "related": [
+      "meaning-use",
+      "life",
+      "going-on"
+    ],
+    "terms": [
+      "language-game",
+      "training",
+      "use"
+    ]
+  },
+  {
+    "id": "meaning-use",
+    "title": "Meaning in use",
+    "subtitle": "Beyond the idea that every word names a thing",
+    "period": "Later",
+    "category": "Language",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§11–14; 30; 40–43",
+        "note": "Tools, explanation by pointing, and the qualified remark about meaning."
+      },
+      {
+        "source": "blue-brown",
+        "locator": "Blue Book, opening discussion of meaning",
+        "note": "A background investigation of what a word’s meaning is."
+      }
+    ],
+    "summary": "Looking at use redirects attention from a hidden object called the meaning to the roles an expression plays. Wittgenstein explicitly qualifies the proposal: it concerns a large class of cases, not all.",
+    "sections": [
+      {
+        "title": "A toolbox instead of one master function",
+        "body": "A hammer, a ruler, and glue can all be found in a toolbox, but they do not work in the same way. Wittgenstein uses this sort of comparison to loosen the expectation that all words must have one identical function. A name, a question word, and an expression of thanks need different descriptions. Their surface similarity as written marks can conceal how differently they operate within a language."
+      },
+      {
+        "title": "The careful wording of §43",
+        "body": "The famous remark about meaning and use is qualified. It applies to a large class of cases involving the word meaning, though not to all. It should not be inflated into the slogan that anything a speaker happens to do determines meaning. Established uses, explanations, corrections, and learned abilities all matter. A person can misunderstand an expression, use it misleadingly, or innovate with it. Looking at use opens these questions; it does not abolish the distinction between them."
+      },
+      {
+        "title": "Why pointing is not a complete solution",
+        "body": "If I point to an object and say a word, you might take me to mean its colour, its shape, its material, or its number. The gesture becomes an explanation only against some understanding of what kind of explanation is being given. Naming is a real and important use, but it cannot single-handedly explain the whole of language. The practical setting helps establish what is being pointed out and how the learner should go on."
+      },
+      {
+        "title": "Try a word that causes friction",
+        "body": "Invented example: people call a colleague professional. One means emotionally restrained; another means technically skilled; a third means reliable and accountable. Ask for cases and contrasts: what conduct would each person praise or criticize? You may find different established uses or a disagreement over which standard should govern the workplace. The task is more precise than replacing one dictionary definition with another, because actual expectations and consequences are part of the disagreement."
+      },
+      {
+        "title": "What a critic can press",
+        "body": "Does explaining a word’s use merely describe a pattern, or also explain why one use is correct? Rule-following makes this question sharper. A critic may also ask how the approach handles novel sentences that nobody has used before. Wittgenstein’s emphasis on mastery and technique offers resources, but it is not a complete formal theory of language processing. Avoid presenting him as denying mental life or denying that words can refer to things. The objection concerns turning one explanation into a universal model."
+      }
+    ],
+    "takeaways": [
+      "Use includes standards of understanding and correction.",
+      "Pointing requires a background that makes the gesture interpretable.",
+      "Keep the qualification in §43 attached to the famous claim."
+    ],
+    "questions": [
+      "What would count as using this word correctly here?",
+      "Am I looking for a hidden entity when I should be comparing examples?",
+      "Can a use be established and still be ethically objectionable?"
+    ],
+    "exercise": {
+      "title": "Explain by pointing",
+      "prompt": "You point at a blue mug and say dax. What remains unsettled?",
+      "options": [
+        {
+          "text": "Whether dax concerns colour, shape, material, object, or something else.",
+          "feedback": "Yes. The ostensive gesture does not interpret itself."
+        },
+        {
+          "text": "Nothing: pointing always fixes a unique meaning.",
+          "feedback": "The example is designed to expose the background understanding that this answer assumes."
+        }
+      ],
+      "reflection": "Choose a word you use often. Explain it through two ordinary cases, one borderline case, and one clear misuse."
+    },
+    "related": [
+      "builders",
+      "family",
+      "going-on"
+    ],
+    "terms": [
+      "meaning",
+      "use",
+      "ostensive",
+      "grammar"
+    ]
+  },
+  {
+    "id": "family",
+    "title": "Family resemblances",
+    "subtitle": "How a concept can hold together without one shared essence",
+    "period": "Later",
+    "category": "Language",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§65–77",
+        "note": "Games, family resemblances, blurred boundaries, and explanation."
+      }
+    ],
+    "summary": "Some concepts work through overlapping similarities rather than a single feature present in every case. The example of games challenges an assumption about what a useful concept must look like.",
+    "sections": [
+      {
+        "title": "The temptation to demand an essence",
+        "body": "Suppose someone asks what all games have in common. Competition seems promising, until you consider a child playing alone. Winning does not fit every case. Entertainment may fail to capture a serious tournament or a tedious game played out of obligation. Wittgenstein asks the reader to compare the examples rather than decide in advance that one common feature must be there. The grammatical unity of the word does not itself prove a single hidden essence."
+      },
+      {
+        "title": "An overlapping pattern",
+        "body": "Family members may resemble one another in face, gait, voice, or temperament without one feature running unchanged through every member. Similarly, activities called games can overlap in different respects. This is a way to understand a concept’s unity, not a demonstration that no concept ever has a precise definition. Mathematics, law, and particular practices can impose exact definitions for particular purposes. Wittgenstein challenges the demand that all meaningful concepts must already fit that model."
+      },
+      {
+        "title": "Blurred edges can still guide us",
+        "body": "A photograph can be useful even if it is not sharp in every detail. A concept can guide ordinary activity while leaving some cases undecided. At §§68–71 Wittgenstein explores the relation between boundaries and use. We can draw a boundary when a purpose requires one; that need does not show that ordinary understanding was impossible beforehand. Knowing how to use a word can include knowing that some cases require further discussion."
+      },
+      {
+        "title": "Application: definitions that affect people",
+        "body": "Invented example: a grant application requires a definition of art. Rather than assuming one eternal property will settle every case, compare the purposes of the grant and the range of practices it should support. An administrative boundary may be necessary, but it is a decision with consequences, not automatically a discovery of art’s timeless essence. Academic use involves explaining why your definition suits your inquiry and which cases it includes or excludes."
+      },
+      {
+        "title": "What this does not settle",
+        "body": "A critic might find a common feature that Wittgenstein’s initial examples overlook, or argue that resemblance itself needs explanation. Another can ask how to distinguish a useful extension of a concept from a strained analogy. These are serious pressures. Family resemblance is not permission to call anything anything. It directs us to inspect patterns and practices, including how participants justify comparisons. The absence of one neat definition is not the absence of reasons."
+      }
+    ],
+    "takeaways": [
+      "Do not infer a shared essence from a shared word alone.",
+      "A concept can be useful without having sharply drawn edges.",
+      "A stipulated boundary should be justified by its purpose."
+    ],
+    "questions": [
+      "Which similarities actually matter in these examples?",
+      "Does my inquiry need a sharp boundary?",
+      "How would I distinguish a revealing resemblance from a superficial one?"
+    ],
+    "exercise": {
+      "title": "Compare the cases",
+      "prompt": "You cannot find one obvious property shared by every artwork. What is a reasonable next step?",
+      "options": [
+        {
+          "text": "Conclude that art is meaningless.",
+          "feedback": "Lack of a simple essence does not establish that the concept cannot function."
+        },
+        {
+          "text": "Map overlapping similarities and clarify your present purpose.",
+          "feedback": "This keeps inquiry tied to examples while leaving open whether a useful definition can be given."
+        }
+      ],
+      "reflection": "Make a small map for the concept friend, game, or art. Connect cases by different similarities and mark a borderline case."
+    },
+    "related": [
+      "meaning-use",
+      "grammar",
+      "daily-life"
+    ],
+    "terms": [
+      "family-resemblance",
+      "essence",
+      "concept"
+    ]
+  },
+  {
+    "id": "life",
+    "title": "Forms of life",
+    "subtitle": "The background of speaking and understanding",
+    "period": "Later",
+    "category": "Language",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§19; 23; 206; 241–242",
+        "note": "Language, shared behavior, judgments, and agreement."
+      }
+    ],
+    "summary": "Speaking depends on a background of human activities, responses, and practices. Form of life names this background without supplying a simple theory of culture or a license for relativism.",
+    "sections": [
+      {
+        "title": "Language does not float by itself",
+        "body": "Imagine a language with words for buying and selling but no exchange, ownership, goods, needs, or established responses to requests. The familiar words would have lost much of their setting. At §19, imagining a language is connected with imagining a form of life. At §23, speaking is treated as part of an activity. The point is to see the lived background that an isolated vocabulary list can leave invisible."
+      },
+      {
+        "title": "More than agreement in opinions",
+        "body": "At §241 Wittgenstein distinguishes agreement in language from merely sharing opinions. People can argue about the weather because they already share ways of identifying places, reading instruments, making assertions, and correcting mistakes. At §242, agreement in judgments is also relevant. The exact philosophical role of this agreement is disputed. A careful reading does not equate truth with a majority vote or claim that communities can make any proposition true by deciding to accept it."
+      },
+      {
+        "title": "A term with competing emphases",
+        "body": "Lebensform is ordinarily translated form of life. Some interpreters emphasize a shared human background, including natural responses and bodily capacities. Others emphasize historically and culturally specific practices. The text’s sparse uses do not hand us a complete sociological classification. Keep the difference between an interpretive emphasis and a verified definition. The useful question is what background makes a particular activity intelligible and which changes in that background would change it."
+      },
+      {
+        "title": "A daily exercise in charitable attention",
+        "body": "Invented example: a new coworker does not recognize a supposedly obvious expectation. Before judging their intelligence or goodwill, ask what practice they have been taught and what demonstrations would make the expectation clear. This can make communication fairer. But understanding another background does not require approving every practice within it. A harmful custom can be intelligible and still demand criticism. Clarification helps state what is being criticized."
+      },
+      {
+        "title": "The political challenge",
+        "body": "Critics worry that appeals to what we do can conceal who is included in we, who has authority to correct, and whose experience is ignored. These questions are especially important where a community’s apparent agreement reflects exclusion or coercion. A Wittgensteinian inquiry can respond by looking more closely at the actual practice rather than idealizing it. It cannot simply invoke form of life as the last word that ends ethical or political disagreement."
+      }
+    ],
+    "takeaways": [
+      "Meaning depends on a background of activities and responses.",
+      "Shared language does not make every shared opinion true.",
+      "Ask who is included when a practice is described as what we do."
+    ],
+    "questions": [
+      "Which background abilities does this conversation assume?",
+      "What is humanly shared here, and what is historically specific?",
+      "Can an appeal to agreement hide unequal power?"
+    ],
+    "exercise": {
+      "title": "Question the obvious",
+      "prompt": "A newcomer responds unexpectedly to an unwritten rule. What helps first?",
+      "options": [
+        {
+          "text": "Ask what examples and practice make the rule intelligible.",
+          "feedback": "This investigates a background that experienced participants may take for granted."
+        },
+        {
+          "text": "Assume all reasonable people must already understand it.",
+          "feedback": "That converts a familiar practice into an unexplained standard of reasonableness."
+        }
+      ],
+      "reflection": "Describe a custom that once felt natural to you. What learning, institutions, or bodily habits support it?"
+    },
+    "related": [
+      "builders",
+      "going-on",
+      "hinges"
+    ],
+    "terms": [
+      "form-of-life",
+      "agreement",
+      "training"
+    ]
+  },
+  {
+    "id": "going-on",
+    "title": "How do I go on?",
+    "subtitle": "Understanding a rule beyond the examples",
+    "period": "Later",
+    "category": "Knowledge",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§143–155; 185–202; 217–219",
+        "note": "Learning, understanding, and continuing a series."
+      },
+      {
+        "source": "grammar",
+        "locator": "Part I, §10, p. 47",
+        "note": "Understanding considered as ability to apply."
+      }
+    ],
+    "summary": "Going on concerns the ability to continue a practice appropriately. Wittgenstein tests the thought that a formula or an inner flash must already contain every future application.",
+    "sections": [
+      {
+        "title": "The pupil who surprises the teacher",
+        "body": "A pupil learns to continue a number series by adding two. Beyond 1000, the pupil writes 1004, 1008, and so on, insisting that this follows the instruction as understood. The example in §185 is not a puzzle about whether 1002 is secretly wrong. It asks what makes our familiar continuation correct and how understanding a finite set of examples relates to an indefinitely extendable rule. Repeating the same explanation may leave the difficulty untouched."
+      },
+      {
+        "title": "Understanding is more than a passing feeling",
+        "body": "You may suddenly feel that you have grasped a pattern. That experience is real, but it does not by itself establish that you can continue correctly. Later performance can reveal a misunderstanding. Wittgenstein examines the temptation to identify understanding with a private event that somehow contains the entire technique. The contrast is between the experience of getting it and the ability that justifies saying you understand. The experience can accompany the ability without being its definition."
+      },
+      {
+        "title": "Practice without an infinite rulebook",
+        "body": "A formula does not mechanically apply itself. We learn to use it through demonstrations, correction, comparisons, and participation in a technique. This does not mean that any continuation becomes correct if enough people applaud it. The practice includes a distinction between following the rule and merely thinking that you are. The philosophical task is to understand that distinction without imagining infinitely many future steps stored as a hidden object in the mind."
+      },
+      {
+        "title": "A careful daily application",
+        "body": "Invented example: you learn to write respectful feedback from several examples, then face a sensitive case the examples never mentioned. Going on involves extending a learned practice with attention to what matters in this case. You may need discussion and correction, rather than another slogan. This is an application of the investigation, not a promise that Wittgenstein supplies a complete guide to life. Practical and moral judgment involve questions that arithmetic examples alone do not settle."
+      },
+      {
+        "title": "The hard question about correctness",
+        "body": "A critic can ask whether a description of training explains genuine normativity: the difference between what people do and what they ought to do under the rule. Disagreement, innovation, and minority insight make that pressure especially vivid. Wittgenstein’s reply at §201 resists an endless chain of interpretations, and §202 identifies rule-following as a practice. Read those remarks together before concluding that his position is skepticism, conventionalism, or a theory that truth is determined by consensus."
+      }
+    ],
+    "takeaways": [
+      "Knowing how to continue is not identical with feeling that you understand.",
+      "Rules operate within learned practices of application and correction.",
+      "The existential use of how do I go on is an application, not the sole subject of the argument."
+    ],
+    "questions": [
+      "What would show that I have mastered this technique?",
+      "What distinguishes a correction from a change of rule?",
+      "Does a shared practice explain correctness or merely describe agreement?"
+    ],
+    "exercise": {
+      "title": "Continue and justify",
+      "prompt": "The series is 2, 4, 6, 8. You write 10. What has the philosophical example established?",
+      "options": [
+        {
+          "text": "That four examples logically exclude every other possible pattern.",
+          "feedback": "Finite examples can be fitted by many formulas. The question concerns our established technique for continuing."
+        },
+        {
+          "text": "That understanding the instruction involves knowing its application within a practice.",
+          "feedback": "Yes. The investigation asks what this ability amounts to and how correctness is sustained."
+        }
+      ],
+      "reflection": "Choose a skill you have learned. Describe a novel case, how you would proceed, and what correction you would accept."
+    },
+    "related": [
+      "interpretation",
+      "life",
+      "daily-life"
+    ],
+    "terms": [
+      "going-on",
+      "rule-following",
+      "understanding",
+      "practice"
+    ]
+  },
+  {
+    "id": "interpretation",
+    "title": "When explanations come to an end",
+    "subtitle": "A rule is not an infinite chain of interpretations",
+    "period": "Later",
+    "category": "Method",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§198–202; 211–219",
+        "note": "Interpretation, custom, justification, and bedrock."
+      },
+      {
+        "source": "grammar",
+        "locator": "Part I, §§8–9, pp. 45–47",
+        "note": "The regress of interpretation."
+      }
+    ],
+    "summary": "If each interpretation needs another interpretation before we can act, understanding never gets started. Wittgenstein asks us to notice a grasp of a rule that is exhibited in practice.",
+    "sections": [
+      {
+        "title": "The signpost that cannot interpret itself",
+        "body": "A signpost seems to tell us which way to go. But someone could take the arrow to point from its tip toward its base. If we answer with another sign or explanatory sentence, that explanation can also be reinterpreted. The point is not that signposts fail in ordinary life. It is that an explanation cannot get its practical force from being accompanied by yet another interpretation indefinitely. Our ability to use signs already belongs in the account."
+      },
+      {
+        "title": "The paradox is not the final verdict",
+        "body": "At §201 the imagined paradox says that any action can be brought into accord with a rule. Wittgenstein immediately treats a misunderstanding as involved: if every action counts as agreement, conflict disappears too. He redirects attention to a grasp of the rule that is expressed in what we call following it and going against it. Quoting the paradox alone would turn the problem being investigated into his unqualified conclusion."
+      },
+      {
+        "title": "Bedrock is about justification",
+        "body": "At §217 he distinguishes a question about causes from a question about justification. A person can explain how training produced a response, or offer reasons that support its correctness. Those are different explanations. Eventually reasons can reach an end in what is done. This does not establish that every stubborn refusal to give reasons is legitimate bedrock. Whether someone has exhausted relevant justification depends on the particular practice and the challenge being raised."
+      },
+      {
+        "title": "Use it to examine an argument",
+        "body": "Invented example: a committee explains fairness by saying everyone is treated equally, then explains equality by returning to fairness. Another definition may only move the same difficulty. Concrete cases can reveal which standards the committee actually applies and where disagreement begins. Ask for a demonstration, a contrast, and a case they would correct. Ending a circular explanation with an example can help; invoking our practice to silence criticism can simply conceal the issue."
+      },
+      {
+        "title": "A disputed philosophical legacy",
+        "body": "A skeptical reading associated with later debate emphasizes the apparent inability of past facts about a speaker to determine one unique future continuation. Other interpretations argue that Wittgenstein dissolves that skeptical picture rather than endorsing it. The Investigations itself should remain the first reference here. The defensible shared lesson is narrower: correctness cannot be explained by an interpretation that is required to interpret its own application without any practical background."
+      }
+    ],
+    "takeaways": [
+      "Do not read the paradox of §201 without its response.",
+      "A causal explanation and a justification answer different questions.",
+      "The end of reasons is not automatically an excuse for refusing criticism."
+    ],
+    "questions": [
+      "What would this further explanation add in practice?",
+      "Am I asking how the response was caused or why it is correct?",
+      "What would distinguish genuine mastery from an entrenched habit?"
+    ],
+    "exercise": {
+      "title": "Two questions",
+      "prompt": "Someone asks why you stopped at a red light. Which response offers a justification?",
+      "options": [
+        {
+          "text": "My driving instructor conditioned me to respond this way.",
+          "feedback": "This offers a causal history. It may explain the behavior without stating the rule-based reason."
+        },
+        {
+          "text": "The signal requires traffic in my direction to stop here.",
+          "feedback": "This places the action within a rule and offers a reason for it in the circumstances."
+        }
+      ],
+      "reflection": "Find an explanation that keeps substituting synonyms. Replace it with a demonstration of the practice and one possible mistake."
+    },
+    "related": [
+      "going-on",
+      "grammar",
+      "will"
+    ],
+    "terms": [
+      "interpretation",
+      "justification",
+      "practice",
+      "rule-following"
+    ]
+  },
+  {
+    "id": "private",
+    "title": "Could a language be private?",
+    "subtitle": "A secret diary is not the target",
+    "period": "Later",
+    "category": "Mind",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§243–271",
+        "note": "The private-language setup and sensation diary."
+      },
+      {
+        "source": "private-experience",
+        "locator": "pp. 275–320",
+        "note": "Background investigation of private experience and its expression."
+      }
+    ],
+    "summary": "The private-language investigation concerns signs whose correctness could be fixed only by a speaker’s inaccessible inner impressions. It does not deny private experience or ordinary private writing.",
+    "sections": [
+      {
+        "title": "What private means in the argument",
+        "body": "You can write a diary nobody else reads, invent a code, or speak to yourself. These are not automatically private languages in the relevant sense. Their expressions can still be understood, translated, or checked in principle. At §243 Wittgenstein introduces a stronger proposal: words are supposed to refer to what only the speaker can know, so that another person cannot understand them. The issue concerns the possibility of meaning and correctness under that condition."
+      },
+      {
+        "title": "The sensation diary",
+        "body": "At §258 a person associates a sign with a recurring sensation and marks its occurrence in a calendar. The person proposes to establish the connection by concentrating inwardly on the sensation. Wittgenstein asks what would count as remembering that connection correctly. If whatever later seems correct is thereby counted as correct, the distinction between being right and merely seeming right has not been supplied. The objection is not simply that human memory is sometimes unreliable."
+      },
+      {
+        "title": "An ordinary contrast that helps",
+        "body": "You can make a mistake in an ordinary diary: record yesterday’s headache on the wrong date, misremember its duration, or later revise a description. Those distinctions depend on an intelligible practice of recording and checking. The private-language proposal removes the relevant distinction while continuing to speak as if a sign has a fixed use. The investigation asks whether the proposed inward ceremony establishes a rule, rather than assuming that attention alone must do so."
+      },
+      {
+        "title": "What this means for experience",
+        "body": "Wittgenstein is not showing that pain does not hurt or that every inner difference is visible. In §244 he examines how words for sensations can be learned in connection with natural expressions, such as a child crying after injury. Verbal pain expression need not be a report based on inspecting an inner object. This helps distinguish the reality of experience from a particular philosophical account of how sensation words acquire meaning."
+      },
+      {
+        "title": "A serious objection",
+        "body": "A critic can ask whether publicly accessible criteria are really needed for a stable private practice, or whether the argument assumes what it seeks to establish. Other debates concern how this investigation relates to rule-following. Keep the target exact when assessing the objection: it is not solitude, secrecy, or the possibility of experience that others cannot share directly. It is a proposed account in which inaccessible impressions are supposed to fix correctness all by themselves."
+      }
+    ],
+    "takeaways": [
+      "Private writing and a logically private language are different ideas.",
+      "The diary argument concerns a standard of correctness, not mere forgetfulness.",
+      "Rejecting a theory of sensation naming does not deny sensations."
+    ],
+    "questions": [
+      "How could this speaker distinguish remembering correctly from merely seeming to?",
+      "What makes an ordinary diary entry a genuine record?",
+      "Does the argument require other speakers, or a practice with intelligible criteria?"
+    ],
+    "exercise": {
+      "title": "Identify the target",
+      "prompt": "Which case most closely matches the philosophical problem?",
+      "options": [
+        {
+          "text": "A journal written in ordinary English and locked in a drawer.",
+          "feedback": "Its secrecy does not remove shared meanings or possible standards of correction."
+        },
+        {
+          "text": "A sign claimed to be correct solely whenever its use feels correct to its inventor.",
+          "feedback": "This removes the distinction between seeming right and being right that the investigation examines."
+        }
+      ],
+      "reflection": "Describe an ordinary private experience in several ways. Which parts concern the experience, and which concern how the descriptions are learned and corrected?"
+    },
+    "related": [
+      "beetle",
+      "criteria",
+      "psychology"
+    ],
+    "terms": [
+      "private-language",
+      "sensation",
+      "criterion",
+      "ostensive"
+    ]
+  },
+  {
+    "id": "beetle",
+    "title": "The beetle in the box",
+    "subtitle": "What a hidden object cannot do by itself",
+    "period": "Later",
+    "category": "Mind",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§290–304; especially §293",
+        "note": "The beetle comparison and what it is intended to challenge."
+      }
+    ],
+    "summary": "The beetle example asks whether an inaccessible inner object can supply the shared meaning of a word. Its point is not to declare that experience is empty or unreal.",
+    "sections": [
+      {
+        "title": "Set up the comparison exactly",
+        "body": "At §293 each person has a box containing something called a beetle. Nobody can look into anyone else’s box, and each claims to know what a beetle is only from looking at their own. Wittgenstein asks what would happen if the word nevertheless had a use in their language. The contents could differ, change, or even be absent without supplying the standards that govern the word’s public use. That is the pressure the comparison creates."
+      },
+      {
+        "title": "What drops out, and what does not",
+        "body": "The hidden item drops out of this proposed explanation of the word’s role. It does not follow that every box is empty. Similarly, the investigation of pain words does not establish that pain is nothing. Nearby remarks explicitly resist the assumption that the options must be a mysterious inner object or no experience at all. The target is a picture of naming that makes an inaccessible object the decisive source of shared meaning."
+      },
+      {
+        "title": "A distinction about first-person authority",
+        "body": "When you say you are in pain, you generally do not inspect evidence about yourself in the way another person might. But that difference in grammar does not entail that everyone else can only make an unsupported guess. Others can often know that you are in pain, although deception and error remain possible. The interesting question is how first-person expression and third-person recognition fit together without being treated as identical forms of observation."
+      },
+      {
+        "title": "A daily application with limits",
+        "body": "Invented example: someone says that no one can know whether another person is distressed because distress is entirely inside. This can turn an important difference in access into excessive skepticism. Attention to speech, situation, history, and response can justify taking another person’s distress seriously. The beetle comparison does not authorize diagnosing strangers, ignoring their own testimony, or assuming that behavior reveals every detail. It challenges a misleading picture of what understanding requires."
+      },
+      {
+        "title": "A philosophical criticism",
+        "body": "A critic may accept the point about linguistic meaning but insist that subjective experience still poses unanswered scientific or metaphysical questions. That objection helps mark the scope of the example. An argument against one account of how pain language works is not a completed theory of consciousness. Readers disagree about how far Wittgenstein’s clarification reaches. Ask which question the comparison actually addresses before treating it as a universal solution to the philosophy of mind."
+      }
+    ],
+    "takeaways": [
+      "The comparison concerns the role of an inaccessible object in explaining meaning.",
+      "Dropping out of an explanation does not mean ceasing to exist.",
+      "First-person expression and third-person recognition need different descriptions."
+    ],
+    "questions": [
+      "What would changing the contents of the boxes change in the practice?",
+      "Am I confusing a claim about meaning with a claim about consciousness?",
+      "What can I know about another person without sharing their sensation?"
+    ],
+    "exercise": {
+      "title": "Avoid the overreach",
+      "prompt": "Which conclusion is warranted by the comparison as presented?",
+      "options": [
+        {
+          "text": "Pain is an illusion and every inner life is empty.",
+          "feedback": "That does not follow. The argument challenges a model of meaning, not the reality of pain."
+        },
+        {
+          "text": "An inaccessible item alone cannot explain the shared use under discussion.",
+          "feedback": "This keeps the conclusion connected with the comparison’s actual task."
+        }
+      ],
+      "reflection": "Write a two-sentence explanation of the beetle example for a friend. Include one sentence about what it does not establish."
+    },
+    "related": [
+      "private",
+      "criteria",
+      "psychology"
+    ],
+    "terms": [
+      "beetle",
+      "sensation",
+      "meaning",
+      "criterion"
+    ]
+  },
+  {
+    "id": "criteria",
+    "title": "Criteria and evidence",
+    "subtitle": "How recognition is more than a guess at something hidden",
+    "period": "Later",
+    "category": "Knowledge",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§244–246; 354; 580–585",
+        "note": "Pain expression, criteria, and psychological context."
+      },
+      {
+        "source": "blue-brown",
+        "locator": "Blue Book, pp. 24–25",
+        "note": "Criteria and symptoms."
+      }
+    ],
+    "summary": "A criterion concerns how a concept is applied; evidence can support a claim about what is happening. The distinction is useful, but its details in Wittgenstein are philosophically contested.",
+    "sections": [
+      {
+        "title": "Two roles a sign can play",
+        "body": "A thermometer reading can be evidence of fever. Knowing what counts as a valid measurement also depends on rules about instruments, units, and appropriate circumstances. In a broad first approach, evidence supports a judgment about a case, while criteria help articulate what counts as applying the concept. The distinction is not a universal labeling machine. One sign can play different roles in different investigations, and Wittgenstein’s use of criteria has prompted substantial disagreement among interpreters."
+      },
+      {
+        "title": "Why psychological concepts make this difficult",
+        "body": "We often know that someone is hoping, grieving, or in pain through their expressions and situation. If every expression were treated as a merely accidental clue to an utterly independent hidden object, recognition would become puzzling. Wittgenstein asks us to examine how psychological concepts are connected with their expression. At §580 an inner process is linked with outward criteria. The surrounding remarks matter: hope, for example, is embedded in a human situation, rather than located by one isolated bodily movement."
+      },
+      {
+        "title": "No simple behaviorist reduction",
+        "body": "The claim is not that grief is identical with crying or that a smile conclusively proves happiness. People can conceal feelings, perform roles, or respond atypically. A criterion-based account must explain these possibilities rather than deny them. It attends to the conceptual connection between a human phenomenon and its expression while recognizing that any particular judgment can be mistaken. The nature and strength of that connection remain a topic of interpretation and criticism."
+      },
+      {
+        "title": "Application: ask what your assessment rests on",
+        "body": "Invented example: a supervisor calls a worker engaged because they speak frequently at meetings. Is this an adequate criterion of engagement, a rough piece of evidence, or an unfair shortcut that misses attentive work? Clarifying the role of the sign makes the assessment easier to challenge. You can ask what would count against the judgment and whether the standard excludes people whose expressions differ. Philosophy here improves the question; evidence about the workplace still matters."
+      },
+      {
+        "title": "The challenge of changing criteria",
+        "body": "A critic can ask whether established criteria obscure experiences that a community has not learned to recognize. New testimony may lead us to revise the concept’s application. This makes the distinction between conceptual description and ethical criticism important. Describing current criteria does not prove they are complete or just. Academically, state whether you are interpreting Wittgenstein’s account, reporting a community’s actual practice, or defending a better standard for a particular purpose."
+      }
+    ],
+    "takeaways": [
+      "Ask whether a sign is functioning as evidence or helping fix an application.",
+      "Psychological criteria do not make every judgment infallible.",
+      "Describing a standard does not establish its ethical adequacy."
+    ],
+    "questions": [
+      "What would count against this judgment?",
+      "Is this sign connected with the concept or only contingently correlated?",
+      "Whose expressions does the proposed criterion fail to recognize?"
+    ],
+    "exercise": {
+      "title": "Assess a shortcut",
+      "prompt": "Someone says that silence in a meeting proves indifference. What is the strongest opening?",
+      "options": [
+        {
+          "text": "Examine the situation and the standard used to identify indifference.",
+          "feedback": "Yes. The proposed sign may ignore attention, anxiety, role, language, or other relevant circumstances."
+        },
+        {
+          "text": "Assume every inner state has one infallible behavioral signal.",
+          "feedback": "That is exactly the simplification a careful reading should resist."
+        }
+      ],
+      "reflection": "Choose a judgment about another person. Separate its evidence, the concept’s application, and the possibility that your standard needs revision."
+    },
+    "related": [
+      "private",
+      "beetle",
+      "psychology"
+    ],
+    "terms": [
+      "criterion",
+      "evidence",
+      "expression",
+      "grammar"
+    ]
+  },
+  {
+    "id": "aspects",
+    "title": "Seeing an aspect",
+    "subtitle": "The duck–rabbit and a change in understanding",
+    "period": "Later",
+    "category": "Mind",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi-bilingual",
+        "locator": "Philosophy of Psychology – A Fragment, §§111–139; especially §118",
+        "note": "The duck–rabbit and the lighting up of an aspect."
+      },
+      {
+        "source": "pi",
+        "locator": "Part II, xi",
+        "note": "Earlier-edition location of the aspect discussion; pagination differs."
+      }
+    ],
+    "summary": "You can look at the same drawing and suddenly see it differently. Aspect seeing investigates a change that is neither simply a new object nor merely an added verbal description.",
+    "sections": [
+      {
+        "title": "A familiar image with a surprising shift",
+        "body": "The duck–rabbit can be seen as a duck’s head or a rabbit’s head. The lines need not change when one aspect gives way to another. Yet something about your experience changes. In the fourth edition of the Investigations, this discussion belongs to Philosophy of Psychology – A Fragment, and the figure is introduced at §118. Older editions place the material in Part II, section xi. Keep those reference systems distinct."
+      },
+      {
+        "title": "Seeing and interpreting are connected but not identical",
+        "body": "You could describe the lines geometrically without seeing an animal. You might also memorize the answer that it depicts a rabbit without experiencing the aspect yourself. Wittgenstein explores these differences rather than settling them with a single theory. When an aspect lights up, you may exclaim as if something new has appeared, although you also recognize that the drawing stayed the same. That combination is what makes the case philosophically interesting."
+      },
+      {
+        "title": "Ability and background matter",
+        "body": "Recognizing an aspect can depend on familiarity with pictures, animals, gestures, or a way of using the image. This connects perception with acquired capacities without reducing every perception to an inference. The lesson is also narrower than the slogan that we see only what we believe. Unexpected aspects can challenge what we had noticed. The investigation asks how our descriptions of seeing, noticing, and understanding work across these different cases."
+      },
+      {
+        "title": "A daily application, not an identity",
+        "body": "Invented example: a terse message initially looks hostile; learning that its sender was rushing to help someone changes how you hear it. The comparison with aspect seeing can encourage a second look. But a social reinterpretation is not literally the same phenomenon as the duck–rabbit, and not every kinder interpretation is correct. Evidence, context, and the other person’s response still matter. The practical question is which possibilities you have failed to notice."
+      },
+      {
+        "title": "A philosophical and ethical limit",
+        "body": "A critic can ask whether Wittgenstein adequately explains the phenomenology, the character of the experience, or mainly clarifies our descriptions of it. Another concern arises in moral applications: seeing a person under a new aspect can deepen attention but can also romanticize, excuse, or distort. The mere experience of a shift does not certify the truth or goodness of the resulting judgment. Keep the change in appearance distinct from the reasons for accepting it."
+      }
+    ],
+    "takeaways": [
+      "A change of aspect can occur without a change in the drawing.",
+      "Being told an interpretation and seeing the aspect can differ.",
+      "A new perspective should still be assessed for accuracy and fairness."
+    ],
+    "questions": [
+      "What stays the same when an aspect changes?",
+      "What abilities make this way of seeing possible?",
+      "When does a second look correct a judgment, and when does it rationalize one?"
+    ],
+    "exercise": {
+      "title": "Describe the shift",
+      "prompt": "You suddenly see the rabbit after seeing only the duck. What should you compare?",
+      "options": [
+        {
+          "text": "The unchanged lines and the changed way the image appears.",
+          "feedback": "Yes. Holding both descriptions together opens the philosophical problem."
+        },
+        {
+          "text": "Only the hypothesis that the screen secretly changed the picture.",
+          "feedback": "That would evade the case. The example concerns a shift while the figure remains unchanged."
+        }
+      ],
+      "reflection": "Describe a time a picture, sentence, or person struck you differently. Separate new evidence from a changed organization of what was already visible."
+    },
+    "related": [
+      "psychology",
+      "criteria",
+      "daily-life"
+    ],
+    "terms": [
+      "aspect",
+      "seeing-as",
+      "expression"
+    ]
+  },
+  {
+    "id": "hinges",
+    "title": "What inquiry stands on",
+    "subtitle": "Certainty without an endless chain of proofs",
+    "period": "Last writings",
+    "category": "Knowledge",
+    "readingMinutes": 4,
+    "accent": "blue",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§94–99; 204–205; 341–343",
+        "note": "World-picture, action, and the hinge comparison."
+      }
+    ],
+    "summary": "On Certainty asks what makes doubt and testing possible. Some commitments function as a background to inquiry rather than as conclusions established by that inquiry.",
+    "sections": [
+      {
+        "title": "A doubt needs a setting",
+        "body": "Suppose you wonder whether a historical document is authentic. You check handwriting, dates, materials, and other records. The investigation relies on many things that are not simultaneously being tested: how instruments work, what counts as a record, and the basic continuity of the world. Wittgenstein’s hinge comparison asks how such a background supports particular questions. It is not simply a recommendation to be psychologically confident or to avoid uncomfortable doubts."
+      },
+      {
+        "title": "Why the door needs hinges",
+        "body": "At §§341–343, questions and doubts are connected with propositions that are exempt from doubt in the practice. The point is not merely that we lack time to test everything. An activity of testing has a structure: something must serve as a standard while something else is checked. If every standard were treated as equally unsettled at the same moment, the familiar activity would lose its footing. Which things play that role can depend on the inquiry."
+      },
+      {
+        "title": "A background can change",
+        "body": "At §§96–99, Wittgenstein uses a river and riverbed comparison. What functions as a fixed channel at one time may later be subject to examination. That resists a simplistic list of timeless, indubitable sentences. He also emphasizes acting at the end of justification in §204. Interpreters disagree over whether hinges are beliefs, rules, animal certainties, or some combination. Keep the distinction between the useful hinge image and a complete theory of justification."
+      },
+      {
+        "title": "Use it when checking information",
+        "body": "Invented example: you verify an alarming claim by comparing independent reports. Ask which assumptions about records, testimony, and instruments your checking uses. That can reveal an unreliable source or an unexamined dependence. It does not follow that every background assumption is beyond criticism. The point is to make a particular investigation intelligible, including what would count as discovering an error. Suspicion without any standards for correction is different from careful inquiry."
+      },
+      {
+        "title": "The challenge from disagreement",
+        "body": "Different communities may treat conflicting commitments as basic. A critic asks how hinge thinking can support rational criticism across that difference without simply protecting each community’s assumptions. The text does not provide an easy universal referee. One response is to examine shared activities and the actual possibilities of learning, evidence, and change. Another is to argue that this does not yet supply enough justification. That dispute is part of why On Certainty remains philosophically important."
+      }
+    ],
+    "takeaways": [
+      "Doubt depends on background standards that are not all tested together.",
+      "The hinge role is different from feeling strongly convinced.",
+      "A fixed background can shift; certainty is not a license for dogmatism."
+    ],
+    "questions": [
+      "What is held fixed in this inquiry?",
+      "What would make this background commitment available for testing?",
+      "How can people assess incompatible starting points?"
+    ],
+    "exercise": {
+      "title": "Identify a hinge role",
+      "prompt": "While checking a thermometer, you use another calibrated instrument. What is the useful question?",
+      "options": [
+        {
+          "text": "Which standards am I using to test this reading?",
+          "feedback": "Yes. This identifies the background against which a particular doubt has a role."
+        },
+        {
+          "text": "How can I doubt every standard at once while performing exactly the same test?",
+          "feedback": "That removes the contrasts that make this testing activity intelligible."
+        }
+      ],
+      "reflection": "Choose a belief you recently checked. List the evidence and three background commitments that the checking took for granted."
+    },
+    "related": [
+      "doubt",
+      "life",
+      "interpretation"
+    ],
+    "terms": [
+      "hinge",
+      "certainty",
+      "world-picture",
+      "justification"
+    ]
+  },
+  {
+    "id": "doubt",
+    "title": "Doubting well",
+    "subtitle": "Why radical doubt is different from an ordinary correction",
+    "period": "Last writings",
+    "category": "Knowledge",
+    "readingMinutes": 4,
+    "accent": "blue",
+    "sourceRefs": [
+      {
+        "source": "certainty",
+        "locator": "§§1–24; 114–115; 341–345",
+        "note": "Moore, knowledge claims, and the background of doubt."
+      }
+    ],
+    "summary": "A meaningful doubt involves a possibility of error, a contrast with being right, and a place in an activity. Wittgenstein asks what happens when doubt tries to remove that entire setting.",
+    "sections": [
+      {
+        "title": "Begin with Moore’s hand",
+        "body": "On Certainty responds to a style of argument associated with G. E. Moore, who points to ordinary certainties to resist skepticism. Wittgenstein examines what someone is doing when they say they know they have a hand. In an ordinary medical or practical setting, such a statement can have a clear contrast. In a philosophical setting meant to settle all skepticism at once, its function becomes less obvious. The same sentence can play different roles."
+      },
+      {
+        "title": "Not every imaginable error is a working doubt",
+        "body": "You can invent a story in which records, memories, and perceptions all mislead you. But the mere ability to form that story does not establish how doubt operates in your present inquiry. What would count as finding the error? Which standards would survive to support a correction? Wittgenstein asks these questions to examine the skeptic’s demand. This is not the simple claim that anything hard to test must be false or unintelligible."
+      },
+      {
+        "title": "The difference between knowing and standing fast",
+        "body": "Being unable to doubt something in practice is not automatically equivalent to knowing it on the basis of overwhelming evidence. A knowledge claim normally admits a request for grounds and a possibility of checking. Some certainties provide the background for that traffic rather than a further move within it. The relation between certainty, knowledge, and truth is therefore part of the investigation. Interpreters disagree about the exact epistemological consequences."
+      },
+      {
+        "title": "Application: proportion your checking",
+        "body": "Invented example: after checking whether you locked a door, you question your eyesight, then your memory, then every record of the check. More checking may no longer answer the same practical question. The philosophical prompt is to identify what the doubt demands and whether any possible check could satisfy it. This is a conceptual exercise, not treatment advice or a diagnosis. It helps distinguish an inquiry with standards from an indefinitely expanding demand for reassurance."
+      },
+      {
+        "title": "A skeptic can still object",
+        "body": "The skeptic may grant that ordinary inquiry needs a background while asking whether that background is actually true. Showing how language normally works might seem to leave this concern unanswered. A Wittgensteinian reply may argue that the demand has been detached from the conditions that give it sense. Whether that dissolves the problem or evades it is a serious dispute. State both sides clearly instead of claiming that skepticism has been decisively refuted."
+      }
+    ],
+    "takeaways": [
+      "A doubt is more than a sentence beginning with what if.",
+      "Knowledge claims and practical certainties can play different roles.",
+      "The skeptical challenge and the proposed dissolution remain disputed."
+    ],
+    "questions": [
+      "What discovery would count as resolving this doubt?",
+      "Which standards does my challenge still rely on?",
+      "Has the request for certainty changed the activity I began with?"
+    ],
+    "exercise": {
+      "title": "Make the doubt precise",
+      "prompt": "Which question gives doubt a clearer role?",
+      "options": [
+        {
+          "text": "What observation would show that this particular claim is mistaken?",
+          "feedback": "This names a possible contrast and a route to correction."
+        },
+        {
+          "text": "Could absolutely everything be wrong, with no conceivable difference in any check?",
+          "feedback": "This raises a philosophical challenge, but it no longer functions like the ordinary check from which it began."
+        }
+      ],
+      "reflection": "Take one claim you doubt. Describe the error you suspect, a possible check, and what result would change your mind."
+    },
+    "related": [
+      "hinges",
+      "criteria",
+      "reading-lab"
+    ],
+    "terms": [
+      "doubt",
+      "knowledge",
+      "certainty",
+      "evidence"
+    ]
+  },
+  {
+    "id": "colour",
+    "title": "Thinking with colour",
+    "subtitle": "A small palette opens a large philosophical question",
+    "period": "Last writings",
+    "category": "Mind",
+    "readingMinutes": 4,
+    "accent": "blue",
+    "sourceRefs": [
+      {
+        "source": "colour",
+        "locator": "Part I §§1–5; 17–20",
+        "note": "Shade comparisons, white paper, transparency, and pictures."
+      }
+    ],
+    "summary": "Colour lets Wittgenstein compare an empirical investigation with an investigation of concepts. The same words can behave differently in ordinary viewing, a laboratory, and a painting.",
+    "sections": [
+      {
+        "title": "Two questions hidden in lighter",
+        "body": "In the opening remark, Wittgenstein distinguishes comparing bodies under particular conditions from comparing relations between shades. A white surface in shadow may look darker than a grey surface in strong light. A palette comparison may instead concern how the shades relate within a conceptual arrangement. Both discussions can use lighter and darker. Attending to the activity prevents a grammatical similarity from disguising a difference in the question being asked."
+      },
+      {
+        "title": "The white sheet beside the snow",
+        "body": "In Part I §§2–5, a sheet can remain ordinarily white even when it appears grey against snow. That is not automatically a failure to use a precise scientific standard. Ordinary colour identification and a refined ideal standard can be different language-games. A laboratory can answer important questions about reflectance and illumination. Those answers do not by themselves show that every everyday description must be replaced by a measurement report."
+      },
+      {
+        "title": "Transparent glass and opaque paint",
+        "body": "Part I §§17–20 explores the contrast between opaque white and transparent green, including the case of depicting transparent material with opaque pigments. What counts as transparent in a picture depends on relations among depicted surfaces, boundaries, and colours. Looking at one paint sample in isolation can miss its role in the picture. The philosophical interest concerns the organization of a concept and its application, not a claim that physical properties disappear."
+      },
+      {
+        "title": "Use a colour puzzle responsibly",
+        "body": "Invented example: two people disagree about the colour of a photographed garment. Ask whether they are reporting its appearance on a screen, inferring its material colour under ordinary lighting, or applying a design specification. These can be different tasks. The example suggests questions for investigation; it is not a quotation from Wittgenstein or a scientific explanation of colour perception. Measurements, display settings, and visual science may matter once the question is clear."
+      },
+      {
+        "title": "The challenge for conceptual necessity",
+        "body": "A critic can ask whether unusual materials, altered perception, or scientific developments might change what we consider possible in colour. Wittgenstein’s investigations invite attention to the difference between discovering a new fact and changing a system of description. Where exactly that boundary lies is difficult. Avoid claiming that a grammatical observation proves a permanent physical impossibility. An accurate academic argument specifies the sense of impossible and the practice within which it is being used."
+      }
+    ],
+    "takeaways": [
+      "Specify the activity before resolving a colour disagreement.",
+      "An ordinary colour word need not name a fixed measurement in every context.",
+      "Conceptual impossibility and physical impossibility require different arguments."
+    ],
+    "questions": [
+      "Am I comparing appearances, objects, or positions in a colour system?",
+      "What makes the same paint depict different materials?",
+      "Could a new example change our concept rather than merely contradict an old report?"
+    ],
+    "exercise": {
+      "title": "Name the task",
+      "prompt": "A white page looks grey beside snow. Which distinction helps?",
+      "options": [
+        {
+          "text": "The page’s ordinary colour designation and its present appearance in context.",
+          "feedback": "Yes. Wittgenstein uses such contrasts to make different roles of colour descriptions visible."
+        },
+        {
+          "text": "One of the observers must be using a meaningless word.",
+          "feedback": "A difference in task or comparison may explain the descriptions without making either meaningless."
+        }
+      ],
+      "reflection": "Place a sheet of paper in two lighting conditions. Record what changes and what you still call it, then state which question a measurement would answer."
+    },
+    "related": [
+      "grammar",
+      "aspects",
+      "meaning-use"
+    ],
+    "terms": [
+      "colour",
+      "grammar",
+      "concept",
+      "language-game"
+    ]
+  },
+  {
+    "id": "will",
+    "title": "Freedom, reasons, and causes",
+    "subtitle": "Does a law of nature push like a rail?",
+    "period": "Later",
+    "category": "Ethics",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "free-will",
+        "locator": "pp.85–88; 98–100",
+        "note": "Natural law, compulsion, and prediction; Smythies’s lecture notes."
+      },
+      {
+        "source": "voices",
+        "locator": "pp.109–113",
+        "note": "Reasons and causes in mediated Wittgenstein–Waismann material."
+      },
+      {
+        "source": "pi",
+        "locator": "§217",
+        "note": "The distinction between a causal question and a justificatory question."
+      }
+    ],
+    "summary": "The freedom-of-the-will lecture examines what we mean by compulsion, prediction, and choice. A description of regularity should not silently become an image of an external force commanding an action.",
+    "sections": [
+      {
+        "title": "Separate the questions first",
+        "body": "Why did someone act? The answer may describe a cause, such as a drug’s effect, or give the person’s reason, such as keeping a promise. Those explanations can interact, but their roles are not identical. A reason can be challenged as mistaken, inadequate, or insincere. A causal account asks about conditions and mechanisms. Collapsing them can make a philosophical problem look settled before we have specified which question the explanation is meant to answer."
+      },
+      {
+        "title": "A natural law is not automatically a command",
+        "body": "In the lecture’s opening discussion, Wittgenstein examines the thought that events must occur because laws of nature compel them. If a law states how events occur, the extra picture of an invisible agent pushing them along may add confusion rather than explanation. This is not an empirical refutation of determinism. Determinism, the claim that prior conditions and laws fix what happens, still needs careful formulation. The conceptual point concerns what we mean by must and compelled."
+      },
+      {
+        "title": "Prediction can alter an activity",
+        "body": "The lecture’s final examples consider prediction and deliberation. Being told what you will choose can change the situation in which you choose. A game of chance whose outcomes are predictable may no longer serve its familiar purpose. These examples ask how concepts operate when circumstances change. They do not show that every prediction defeats itself or that unpredictability by itself amounts to freedom. Randomness and responsible action are also different ideas."
+      },
+      {
+        "title": "A daily application",
+        "body": "Invented example: someone says that an algorithm predicted their purchase, so they had no choice. Ask what no choice is supposed to mean. Were alternatives unavailable? Was there coercion, manipulation, a strong habit, or simply a successful prediction? Each possibility raises different practical and ethical questions. Clarifying the description can identify a real loss of control without assuming that prediction alone proves it. Further facts about the design and the person’s situation remain relevant."
+      },
+      {
+        "title": "The unresolved debate",
+        "body": "A critic can accept these distinctions and still ask whether an agent could be responsible in a fully deterministic world. Others think Wittgenstein changes the philosophical demand rather than answering it in the usual terms. The supplied lecture is recorded in Yorick Smythies’s notes, so identify that mediation when citing its exact wording. Its value here is patient discrimination among kinds of explanation, rather than a slogan announcing that free will either obviously exists or obviously does not."
+      }
+    ],
+    "takeaways": [
+      "A causal explanation and a person’s reason need not answer the same question.",
+      "Prediction does not automatically equal compulsion.",
+      "Conceptual clarification does not replace an empirical investigation of influence or control."
+    ],
+    "questions": [
+      "Which meaning of could have done otherwise matters in this case?",
+      "Am I treating a descriptive law as though it were an order?",
+      "What additional argument connects predictability with responsibility?"
+    ],
+    "exercise": {
+      "title": "Describe the constraint",
+      "prompt": "A system predicts your choice. What follows without further argument?",
+      "options": [
+        {
+          "text": "You were necessarily coerced.",
+          "feedback": "Predictability alone does not identify coercion, lack of alternatives, or the absence of deliberation."
+        },
+        {
+          "text": "The prediction succeeded; the kind of freedom at issue still needs explanation.",
+          "feedback": "Yes. Distinguish the result from the philosophical or practical conclusion being drawn."
+        }
+      ],
+      "reflection": "Describe one action using a reason and one possible causal explanation. What would each account help you understand?"
+    },
+    "related": [
+      "interpretation",
+      "ethics",
+      "daily-life"
+    ],
+    "terms": [
+      "reason",
+      "cause",
+      "freedom",
+      "justification"
+    ]
+  },
+  {
+    "id": "grammar",
+    "title": "Grammar beyond punctuation",
+    "subtitle": "How a concept sets possibilities for saying things",
+    "period": "Middle",
+    "category": "Method",
+    "readingMinutes": 4,
+    "accent": "clay",
+    "sourceRefs": [
+      {
+        "source": "grammar",
+        "locator": "Part I §§8–10, pp.45–47; contents for §§14–16, pp.52–53",
+        "note": "Understanding, interpretation, and the constitutive role of rules."
+      },
+      {
+        "source": "pi",
+        "locator": "§§90; 122; 371–373",
+        "note": "Grammatical investigation and what a thing is taken to be."
+      },
+      {
+        "source": "voices",
+        "locator": "pp.67–69; 309–311",
+        "note": "Surroundings and an overview of uses."
+      }
+    ],
+    "summary": "Wittgenstein’s philosophical use of grammar concerns the roles and relations that give expressions a use. It reaches beyond spelling and syntax without becoming a hidden science of abstract objects.",
+    "sections": [
+      {
+        "title": "What kind of rule is this?",
+        "body": "A grammar textbook might explain when to use a plural verb. Wittgenstein’s philosophical grammar asks a broader question: what makes an expression part of a meaningful activity? Consider the difference between remembering, predicting, and promising. Their uses involve different relations to time, evidence, and responsibility. You cannot understand promising merely by finding a hidden object that every promise names. You need to see what counts as making, keeping, and breaking one."
+      },
+      {
+        "title": "Understanding appears in application",
+        "body": "In Philosophical Grammar §10, understanding a word is connected with knowing its use and being able to apply it. The preceding discussion questions the thought that every meaningful sentence requires an additional interpretation as an accompanying rider. These verified passages illuminate the transition toward the Investigations. They resist making understanding a silent duplicate of language that must be independently deciphered before any word can be used. The ability belongs to an intelligible technique."
+      },
+      {
+        "title": "Rules can help constitute an activity",
+        "body": "The collection’s contents locate a comparison between grammar and the geometry of negation in §§14–16. The following chess comparison is an explanatory analogy for this lesson. Such rules do not merely describe what happens by accident. They help determine what counts as a move of that kind. Compare a chess rule with a statistic about how often players move a bishop. The distinction is conceptual rather than a claim that all rules are explicitly written down. Many are learned through examples and correction."
+      },
+      {
+        "title": "Why this connects to ontology",
+        "body": "Ontology asks what there is. The Investigations connects questions about essence with grammar. This can redirect a question such as what is a promise toward the practices that make promising intelligible. It does not straightforwardly prove that reality is created by words. Invented application: when a platform calls an action ownership, inspect the rights and responsibilities attached to the term. The grammatical label may conceal an important difference between possessing a file and controlling a legal right."
+      },
+      {
+        "title": "The critical pressure",
+        "body": "A critic can ask whether the emphasis on grammar gives too little weight to discoveries about the world. A scientific finding can force a revision of classifications, and institutions can change their rules. Another worry is that what counts as our grammar may be disputed. Clarification should therefore specify the practice under discussion and remain open to revision. It can expose a misleading analogy without treating every existing distinction as sacred or every empirical question as merely verbal."
+      }
+    ],
+    "takeaways": [
+      "Philosophical grammar concerns conceptual roles, not only sentence correctness.",
+      "A rule of an activity differs from a statistic about behavior.",
+      "A grammatical investigation and an empirical inquiry can inform one another."
+    ],
+    "questions": [
+      "Which contrasts make this concept intelligible?",
+      "Is the rule describing a regularity or helping define the activity?",
+      "Could a new fact or a fairer practice require us to redraw the distinction?"
+    ],
+    "exercise": {
+      "title": "Rule or regularity?",
+      "prompt": "Which statement helps constitute chess rather than describe a common occurrence?",
+      "options": [
+        {
+          "text": "Bishops move diagonally according to the rules.",
+          "feedback": "This tells us what counts as a bishop move in the game."
+        },
+        {
+          "text": "This player often develops a bishop early.",
+          "feedback": "This reports a pattern that could change without changing the rules of chess."
+        }
+      ],
+      "reflection": "Choose a term used by an institution. List what its application allows, forbids, or obliges people to do."
+    },
+    "related": [
+      "going-on",
+      "meaning-use",
+      "colour",
+      "facts"
+    ],
+    "terms": [
+      "grammar",
+      "rule-following",
+      "essence",
+      "ontology"
+    ]
+  },
+  {
+    "id": "ritual",
+    "title": "Understanding a ritual",
+    "subtitle": "Expression is not always a failed explanation",
+    "period": "Middle",
+    "category": "Ethics",
+    "readingMinutes": 4,
+    "accent": "clay",
+    "sourceRefs": [
+      {
+        "source": "language-use",
+        "locator": "pp.234–236; article pp.233–253",
+        "note": "German remarks on Frazer’s The Golden Bough; app account is paraphrase."
+      },
+      {
+        "source": "philosophy",
+        "locator": "§93, pp.21–22",
+        "note": "Methodological comparisons involving ritual and Frazer."
+      }
+    ],
+    "summary": "In the Frazer remarks, Wittgenstein challenges the assumption that ritual must be a mistaken attempt at natural science. Understanding an action requires asking what role it has in a life.",
+    "sections": [
+      {
+        "title": "A mistake in the interpreter’s picture",
+        "body": "Frazer’s accounts of ritual invite Wittgenstein to question how we explain unfamiliar practices. If we assume that every ceremony is intended to produce a physical effect through a faulty causal theory, we may misunderstand what participants are doing. The issue is not whether people can hold false causal beliefs. They can. The question is whether that explanatory model is appropriate in every case, or whether it has been imposed before the activity is understood."
+      },
+      {
+        "title": "Start with an action you recognize",
+        "body": "Someone kisses a photograph, keeps a small object belonging to a deceased friend, or performs a gesture at a memorial. It would be hasty to assume that the person expects the photograph to feel the kiss. The action may express attachment, mourning, remembrance, or an attitude. These familiar comparisons can make another practice less alien without inventing a speculative story about its origin. Similarity can illuminate a role even when it does not establish a historical cause."
+      },
+      {
+        "title": "A comparison is not anthropology by itself",
+        "body": "Wittgenstein’s method here often juxtaposes examples to reveal connections. That can correct an interpreter’s prejudgment, but it does not replace learning what particular people believe, do, and say. A practice may have both expressive and causal aspects, and participants may disagree about its significance. The responsible inquiry attends to those details. Avoid using the word ritual as if it automatically settled whether an action is rational, harmless, valuable, or oppressive."
+      },
+      {
+        "title": "A daily application",
+        "body": "Invented example: a family repeats a greeting or meal custom that an outsider calls pointless. Ask what the custom acknowledges, who participates, and what its omission would mean. It may sustain belonging; it may also enforce an unfair hierarchy. Understanding the role makes ethical evaluation more informed. The lesson is not that tradition excuses harm. It is that criticism is stronger when it addresses the actual practice instead of a theory projected onto it."
+      },
+      {
+        "title": "A serious criticism of the method",
+        "body": "A critic can ask whether Wittgenstein’s comparisons project his own reactions onto people whose practices require more patient historical and social investigation. Another asks whether the rejection of one causal explanation overlooks genuine beliefs in efficacy. These objections limit how quickly the method should be applied. The supplied PDF is the German Frazer article, despite a catalogue filename that names the larger Language in Use issue. Its interpretation should be kept distinct from an English quotation or a claim to have read the whole symposium."
+      }
+    ],
+    "takeaways": [
+      "An expressive act need not be a failed scientific hypothesis.",
+      "A revealing comparison does not establish a historical explanation.",
+      "Understanding a practice can improve criticism without endorsing it."
+    ],
+    "questions": [
+      "What is the participant doing through this action?",
+      "Have I assumed a purpose before asking about it?",
+      "Which facts would distinguish expression, belief in efficacy, and social pressure here?"
+    ],
+    "exercise": {
+      "title": "Interpret the gesture",
+      "prompt": "Someone kisses a photograph of a person they miss. Which opening is more careful?",
+      "options": [
+        {
+          "text": "Assume a false belief that paper can receive affection.",
+          "feedback": "That imposes a causal model before understanding the gesture."
+        },
+        {
+          "text": "Ask what the gesture expresses and what place it has in their life.",
+          "feedback": "This leaves room to understand the action without prematurely treating it as an attempted physical intervention."
+        }
+      ],
+      "reflection": "Describe a familiar ceremony. Separate what it expresses, what participants believe it causes, and how you know those things."
+    },
+    "related": [
+      "life",
+      "ethics",
+      "method"
+    ],
+    "terms": [
+      "ritual",
+      "expression",
+      "cause",
+      "surveyable"
+    ]
+  },
+  {
+    "id": "psychology",
+    "title": "Does expression explain experience?",
+    "subtitle": "Read Wittgenstein with a serious critic",
+    "period": "Later",
+    "category": "Mind",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§244; 580–585",
+        "note": "Pain expression and the circumstances of hope."
+      },
+      {
+        "source": "private-experience",
+        "locator": "pp.275–277",
+        "note": "What an expression of private experience is doing."
+      },
+      {
+        "source": "voices",
+        "locator": "pp.413–479",
+        "note": "Mediated material on psychological concepts."
+      },
+      {
+        "source": "peacocke",
+        "locator": "Section I, pp.163–166; Sections II–III, pp.166–170",
+        "note": "A critical study, not the two volumes named in its file title."
+      }
+    ],
+    "summary": "Psychological words are connected with expression and human circumstances. Christopher Peacocke’s supplied critical study asks whether that connection establishes everything some interpretations claim for it.",
+    "sections": [
+      {
+        "title": "Why the surroundings matter",
+        "body": "A person’s hope is not merely a special feeling detached from everything before and after it. In the Investigations, the surrounding situation gives expressions of hope their significance. The person may wait, plan, ask, worry, and respond to news. This helps us understand the concept without assuming that each psychological word must label a self-contained inner object. It also leaves room for actual feelings, images, bodily reactions, and patterns of attention."
+      },
+      {
+        "title": "Expression is not just observation",
+        "body": "Saying that you are in pain can express pain rather than report a discovery obtained by inspecting yourself. This helps explain a difference between first-person speech and judgments about another person. It does not follow that every psychological utterance has exactly the same function. You can reflect, conceal, describe, compare, or misunderstand aspects of your own experience. Wittgenstein’s examples invite distinctions among these uses instead of substituting one new universal picture for the old one."
+      },
+      {
+        "title": "Peacocke’s objection deserves its own voice",
+        "body": "In the supplied 1982 critical study, Peacocke argues that an account of learning pain language and non-inferential first-person authority does not by itself prove that sensation terms cannot designate real states. In other words, explaining how expression works may leave open a further account of what the words refer to. This is Peacocke’s challenge to an interpretation, not a confession by Wittgenstein or a neutral restatement of his conclusion. The distinction in attribution matters."
+      },
+      {
+        "title": "Experience, disposition, and imagination",
+        "body": "Peacocke also considers how an ongoing experience differs from a capacity or disposition, and whether accounts of imagining neglect the experience of imagining. A disposition is an ability or tendency that can persist when it is not being exercised. An experience has a different temporal role. The critical study raises questions about proposed criteria without establishing a complete alternative theory. It gives a useful model of philosophical engagement that identifies a particular inferential gap."
+      },
+      {
+        "title": "A practical and academic takeaway",
+        "body": "Invented example: a person’s distress is dismissed because they do not show the expected expression. The conceptual connection between distress and expression should not become an inflexible diagnostic shortcut. Listen to the report and examine the circumstances. Academically, distinguish a claim about how a word is learned, a claim about its use, and a claim about the nature of its subject matter. Moving between those claims requires an argument. A good critique identifies that movement precisely."
+      }
+    ],
+    "takeaways": [
+      "Expression and reference are distinct questions that need connecting arguments.",
+      "Do not treat every psychological word as performing one identical role.",
+      "A critic’s interpretation must be identified as a critic’s interpretation."
+    ],
+    "questions": [
+      "Does this argument move from language learning to a claim about reality?",
+      "What makes a capacity different from an ongoing experience?",
+      "Which part of Peacocke’s objection would a Wittgensteinian need to answer?"
+    ],
+    "exercise": {
+      "title": "Find the inferential gap",
+      "prompt": "A child learns a word through expressions. What follows by that fact alone?",
+      "options": [
+        {
+          "text": "The word cannot refer to any real state.",
+          "feedback": "That is the kind of further inference Peacocke challenges; it needs additional argument."
+        },
+        {
+          "text": "We have learned something about acquisition, while reference remains a further question.",
+          "feedback": "This separates claims that are connected but not automatically equivalent."
+        }
+      ],
+      "reflection": "Write a short objection to one lesson in Ludwig. Identify the exact premise or inference you challenge and what evidence or argument would answer it."
+    },
+    "related": [
+      "private",
+      "beetle",
+      "criteria",
+      "aspects"
+    ],
+    "terms": [
+      "expression",
+      "disposition",
+      "sensation",
+      "criterion"
+    ]
+  },
+  {
+    "id": "method",
+    "title": "Philosophy as clarification",
+    "subtitle": "A surveyable view of what we already do",
+    "period": "Middle",
+    "category": "Method",
+    "readingMinutes": 4,
+    "accent": "clay",
+    "sourceRefs": [
+      {
+        "source": "philosophy",
+        "locator": "§86, pp.5–6; §89, pp.9–13; §§92–93, pp.19–22",
+        "note": "Attitude, factual questions, and patient clarification."
+      },
+      {
+        "source": "pi",
+        "locator": "§§109–133; especially §122",
+        "note": "Surveyable representation and a plurality of methods."
+      },
+      {
+        "source": "notes-logic",
+        "locator": "Notes following Costello’s introduction, pp.231–245",
+        "note": "The earlier development of questions about propositions and logic."
+      },
+      {
+        "source": "pi-bilingual",
+        "locator": "Part I §122",
+        "note": "Fourth-edition wording surveyable representation, compared with older Anscombe wording."
+      }
+    ],
+    "summary": "A philosophical problem can arise when a compelling analogy prevents us from seeing familiar connections. Wittgenstein proposes patient comparisons and reminders rather than one grand explanatory theory.",
+    "sections": [
+      {
+        "title": "A difficulty that intelligence alone may not remove",
+        "body": "The Big Typescript chapter Philosophy emphasizes that a philosophical difficulty can involve an attachment to a way of speaking or picturing. You may understand an alternative explanation yet resist giving up a familiar analogy. This is why the work can require patience and a change of attitude as well as technical skill. It is not a diagnosis that every opponent is psychologically blocked. An opponent can also have a good argument that your proposed clarification has missed."
+      },
+      {
+        "title": "Make connections visible",
+        "body": "At §122 of the Investigations, übersichtliche Darstellung is rendered surveyable representation in the fourth edition; older Anscombe editions use perspicuous representation. The practical idea concerns arranging uses and examples so that connections become visible. A map, comparison table, or well-chosen sequence of cases can help. This need not be a complete theory of everything that language is. The representation should serve the particular confusion and remain open to correction if it leaves something important out."
+      },
+      {
+        "title": "Do not mistake a factual gap for a conceptual knot",
+        "body": "In the Big Typescript discussion, clarification is distinguished from learning an unknown fact. Rearranging concepts cannot reveal whether a particular ship has a particular engine. That requires information about the ship. Invented application: if you do not know whether a service collected your data, examining the word privacy alone will not answer. You may need logs, a policy, or an investigation. Clarification helps identify what evidence is needed; it cannot manufacture it."
+      },
+      {
+        "title": "One method is not enough for every difficulty",
+        "body": "At §133 the Investigations resists the idea of a single philosophical method. Different confusions may call for different comparisons, reminders, or descriptions. Reading the early Notes on Logic beside later material can reveal a developing problem rather than a timeless set of doctrines. The supplied notes also contain Costello’s introduction and an unrelated preceding fragment by Russell. Historical context and attribution are part of clarification, not distracting formalities."
+      },
+      {
+        "title": "The challenge about philosophical progress",
+        "body": "A critic can ask whether describing language can answer questions that demand explanation, reform, or discovery. Another may argue that what counts as a dissolvable confusion is itself disputed. Wittgenstein’s approach is strongest when it shows a precise temptation and what becomes clearer when we loosen it. It is weaker when invoked as a slogan that all philosophical problems are merely verbal. Assess the result case by case: what difficulty was removed, and what legitimate question remains?"
+      }
+    ],
+    "takeaways": [
+      "Clarification can require loosening an attachment to a picture.",
+      "A surveyable representation should reveal specific connections.",
+      "Conceptual work cannot supply a missing empirical fact."
+    ],
+    "questions": [
+      "What concrete confusion is this comparison intended to remove?",
+      "Which part of the problem still needs evidence?",
+      "What would count as progress rather than a new slogan?"
+    ],
+    "exercise": {
+      "title": "Choose an investigation",
+      "prompt": "You ask whether an app sent a note to a server. Which work is needed?",
+      "options": [
+        {
+          "text": "Only define privacy more elegantly.",
+          "feedback": "A definition can clarify the concern, but cannot establish what the app actually transmitted."
+        },
+        {
+          "text": "Clarify the question and inspect the relevant technical evidence.",
+          "feedback": "Yes. The conceptual and factual tasks can support one another without being interchangeable."
+        }
+      ],
+      "reflection": "Turn one confusing problem into two columns: conceptual distinctions needed, and factual information needed."
+    },
+    "related": [
+      "begin",
+      "reading-lab",
+      "grammar",
+      "limits"
+    ],
+    "terms": [
+      "surveyable",
+      "grammar",
+      "interpretation",
+      "method"
+    ]
+  },
+  {
+    "id": "reading-lab",
+    "title": "Read a remark deeply",
+    "subtitle": "A repeatable method for primary-text study",
+    "period": "Later",
+    "category": "Method",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "Preface; §§43; 65–71; 201–202",
+        "note": "Examples for retaining qualifications and neighboring replies."
+      },
+      {
+        "source": "pi-bilingual",
+        "locator": "Editorial Preface; Part I §122",
+        "note": "Edition changes and translation comparison."
+      },
+      {
+        "source": "notes-logic",
+        "locator": "Costello’s introduction, pp.230–231",
+        "note": "An example of the need to distinguish editorial transmission from primary text."
+      }
+    ],
+    "summary": "A short numbered remark can carry a dialogue, a temptation, an objection, and a change of perspective. Read it as part of an investigation, rather than as a detachable quotation.",
+    "sections": [
+      {
+        "title": "First locate the text you actually have",
+        "body": "Record the work, edition, translator, and citation unit. The Tractatus uses proposition numbers, the Investigations uses numbered remarks in Part I, and On Certainty uses its own remark numbers. Do not silently substitute a screen position or PDF page for the printed locator. The fourth edition’s Philosophy of Psychology – A Fragment differs from older Part II organization. A precise reference lets someone check your argument even when their copy looks different."
+      },
+      {
+        "title": "Identify the voices and the target",
+        "body": "Ask who is speaking and what picture is being tried. Quotation marks, objections, and rhetorical questions often stage a dialogue. At §201, the paradox about rule-following is followed by a response; extracting only the first part can reverse the lesson. Write a plain-language paraphrase, then compare it with the surrounding passage. If the paraphrase resolves every difficulty too quickly, it may have discarded the point being investigated."
+      },
+      {
+        "title": "Keep the qualification",
+        "body": "At §43 the remark about meaning as use concerns a large class of cases, though not all. Retaining that phrase matters to the claim’s scope. At §§65–71 the comparison of games challenges a particular demand for essence; it does not prove that definitions are always useless. In academic reading, identify the strongest claim the passage actually supports and distinguish it from an attractive generalization that you have added."
+      },
+      {
+        "title": "Compare German without inventing a secret code",
+        "body": "Choose one expression, inspect its ordinary range and immediate use, then compare the English rendering. German is not automatically more profound, and one English word need not correspond to one German word throughout every work. Some supplied sources, including the Blue and Brown Books and the ethics lecture, were composed or dictated in English. A translation comparison there would require a different question, not the invention of a German original behind every English phrase."
+      },
+      {
+        "title": "End with an argument of your own",
+        "body": "Use four moves: state the passage’s question; paraphrase its response; try a new case; raise one serious objection. Label the new case as your application. Give the source locator next to the interpretive claim, and distinguish an editor’s account from Wittgenstein’s text. Costello’s introduction to Notes on Logic illustrates why that distinction matters. The result is a small, checkable piece of philosophical work that can develop into an essay rather than a collection of quotations."
+      }
+    ],
+    "takeaways": [
+      "Cite the work and its stable internal numbering.",
+      "Read objections together with their replies.",
+      "Separate paraphrase, interpretation, application, and criticism."
+    ],
+    "questions": [
+      "Which exact claim does this passage support?",
+      "What does the surrounding dialogue change?",
+      "How does my own example extend the text, and where might that extension fail?"
+    ],
+    "exercise": {
+      "title": "Repair a citation",
+      "prompt": "You write Wittgenstein says meaning is use, so every meaning is a use. What should you check?",
+      "options": [
+        {
+          "text": "The qualification in §43 and the inference from it to my stronger claim.",
+          "feedback": "Yes. Citation is more than attaching a number; the passage must support the scope of the argument."
+        },
+        {
+          "text": "Only whether the sentence sounds memorable.",
+          "feedback": "Memorability cannot establish textual accuracy or philosophical support."
+        }
+      ],
+      "reflection": "Choose a numbered passage. Save a four-part note: question, paraphrase, application, objection. Add the edition and exact locator."
+    },
+    "related": [
+      "begin",
+      "method",
+      "doubt",
+      "interpretation"
+    ],
+    "terms": [
+      "citation",
+      "translation",
+      "interpretation",
+      "surveyable"
+    ]
+  },
+  {
+    "id": "daily-life",
+    "title": "Take the thought into a day",
+    "subtitle": "A practice of attention, examples, and correction",
+    "period": "Later",
+    "category": "Ethics",
+    "readingMinutes": 4,
+    "accent": "sage",
+    "sourceRefs": [
+      {
+        "source": "pi",
+        "locator": "§§23; 43; 66–71; 123; 185–202; 217",
+        "note": "Activities, use, comparisons, orientation, and going on."
+      },
+      {
+        "source": "certainty",
+        "locator": "§§94–99; 341–343",
+        "note": "Background commitments in inquiry."
+      },
+      {
+        "source": "ethics",
+        "locator": "pp.4–12",
+        "note": "The difference between instrumental success and ethical importance."
+      }
+    ],
+    "summary": "Wittgenstein offers tools for noticing how a question is organized. Daily application can make a disagreement more precise while leaving room for evidence, ethical judgment, and another person’s reply.",
+    "sections": [
+      {
+        "title": "Notice a word doing too much",
+        "body": "Invented example: someone says a conversation was not meaningful. They might mean it was factually empty, emotionally distant, socially awkward, or irrelevant to a decision. Before defending the conversation, ask for the relevant contrast. This is not a trick to dissolve an uncomfortable complaint. It can make the complaint easier to hear and answer. The aim is to understand what matters in this situation, rather than win by producing the most flexible definition."
+      },
+      {
+        "title": "Look for a difference in activities",
+        "body": "A person may want acknowledgment while another supplies a factual correction. Both can use perfectly intelligible sentences, yet respond to different aspects of the situation. Language-games encourage attention to the activity, expectations, and possible replies. That does not mean truth is unimportant when someone is distressed. It means that accurate information and a fitting human response may be distinct requirements, and that a conversation may need both."
+      },
+      {
+        "title": "Go on with a capacity for correction",
+        "body": "When a new case falls outside familiar examples, do not imagine that a slogan already contains the entire answer. Describe the case, compare relevant examples, and ask what would count as a mistake. In ethical life, this also requires listening to affected people and examining the consequences of a practice. Rule-following passages illuminate the challenge of extension; they do not turn a learned convention into an unquestionable moral authority."
+      },
+      {
+        "title": "Know what your method can and cannot do",
+        "body": "If a disagreement turns on an unknown fact, seek evidence. If a concept is unclear, compare uses. If a practice is harmful, clarify the harm and the reasons for change. A single conversation may involve all three. Avoid converting Wittgenstein into either a motivational speaker or a universal solvent for every problem. His work can sharpen attention while medical, legal, historical, scientific, and moral questions still require their appropriate forms of inquiry."
+      },
+      {
+        "title": "Build a modest daily habit",
+        "body": "Choose one idea and one ordinary encounter. Write what happened without diagnosing anyone. Identify one word, its practical role, a possible alternative description, and a question you still have. Revisit the note later and record any correction. Academically, return to the source passage before attributing the insight to Wittgenstein. The most useful takeaway is not certainty that you have found the right picture once and for all, but an improved ability to notice when a picture needs another look."
+      }
+    ],
+    "takeaways": [
+      "Clarification can improve listening without replacing moral judgment.",
+      "Match the investigation to the question: concepts, facts, or reasons for action.",
+      "Keep a record of corrections as well as insights."
+    ],
+    "questions": [
+      "What is this person asking me to recognize?",
+      "Which part of our disagreement concerns facts, concepts, or values?",
+      "What would help me see the situation more accurately tomorrow?"
+    ],
+    "exercise": {
+      "title": "Choose a next move",
+      "prompt": "A friend says your apology was not real. What is a constructive opening?",
+      "options": [
+        {
+          "text": "Ask what was missing: acknowledgment, responsibility, repair, or sincerity.",
+          "feedback": "This seeks the relevant contrast and gives the ethical concern room to become specific."
+        },
+        {
+          "text": "Explain that real has many uses, so the criticism is invalid.",
+          "feedback": "That uses conceptual flexibility to evade the complaint rather than understand it."
+        }
+      ],
+      "reflection": "Save one note today: a word that caused friction, the activity around it, a fairer description, and an unresolved question."
+    },
+    "related": [
+      "ethics",
+      "going-on",
+      "meaning-use",
+      "hinges"
+    ],
+    "terms": [
+      "going-on",
+      "language-game",
+      "value",
+      "practice"
+    ]
+  }
+]

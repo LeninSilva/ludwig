@@ -1,0 +1,465 @@
+[
+  {
+    "id": "pi",
+    "title": "Philosophical Investigations",
+    "author": "Ludwig Wittgenstein",
+    "year": "1953; supplied English text: third edition, 1967 (later reprints)",
+    "edition": "Translated by G. E. M. Anscombe; Basil Blackwell. Supplied scan identifies the third edition and English-only reprints.",
+    "kind": "Primary text · English translation",
+    "description": "Investigations into the many activities language makes possible: asking, naming, counting, promising, expressing pain, and following rules. This is a sequence of experiments in looking at language, rather than a textbook laying down a single theory.",
+    "readStatus": "Readable text retrieved; selected passages and publication details checked",
+    "url": "https://drive.google.com/file/d/1lWm5U4gDOpRBILqdRwjhbp3lg72Lc-FI/view",
+    "sections": [
+      {
+        "label": "Meaning and language-games",
+        "locator": "Part I §§1–43",
+        "summary": "The builders' calls and the shopping example unsettle the idea that every word simply names a thing. §43 introduces meaning as use with an explicit qualification: it concerns a large class of cases, not every possible use of the word meaning."
+      },
+      {
+        "label": "Family resemblance",
+        "locator": "Part I §§65–71",
+        "summary": "Games are connected by overlapping similarities. A concept can function well without every instance sharing one defining feature."
+      },
+      {
+        "label": "Knowing how to continue",
+        "locator": "Part I §§143–155, 179–202, 217–219",
+        "summary": "A sudden feeling of understanding is not the whole of understanding. Training, applications, correction, and established practices give substance to being able to go on."
+      },
+      {
+        "label": "Private language and pain",
+        "locator": "Part I §§243–315",
+        "summary": "The issue is a language whose signs could in principle be understood only by their speaker. Wittgenstein questions the standard of correctness in such a language; he is not simply denying that people have private experiences."
+      }
+    ],
+    "caveat": "Cite Part I by numbered section, not PDF page. In this edition the material on aspect-perception is in Part II, especially xi; the fourth edition calls that material Philosophy of Psychology — A Fragment. Do not silently mix their pagination."
+  },
+  {
+    "id": "pi-bilingual",
+    "title": "Philosophische Untersuchungen / Philosophical Investigations",
+    "author": "Ludwig Wittgenstein",
+    "year": "2009",
+    "edition": "Revised fourth edition, P. M. S. Hacker and Joachim Schulte; translated by G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte; Wiley-Blackwell.",
+    "kind": "Primary text · German–English facing pages",
+    "description": "The main comparison text for German vocabulary and English choices. German is the original language of the Investigations. Different English editions sometimes bring different aspects of an ordinary German word into view.",
+    "readStatus": "German and English text retrieved; selected paired passages checked",
+    "url": "https://drive.google.com/file/d/1HRtyO7TsAPLr3sMJ6WnfXYgW180lHFJB/view",
+    "sections": [
+      {
+        "label": "Sprachspiel and Lebensform",
+        "locator": "Part I §§7, 19, 23",
+        "summary": "Sprachspiel is rendered language-game; §7 includes words and the activities into which they are woven. Lebensform is form of life; the phrase connects speaking to activities, rather than making all language a competitive game."
+      },
+      {
+        "label": "Übersichtliche Darstellung",
+        "locator": "Part I §122",
+        "summary": "The fourth edition uses surveyable representation where the older Anscombe translation uses perspicuous representation. Both concern arranging uses so that connections can be seen; neither licenses a final theory explaining everything."
+      },
+      {
+        "label": "Weiterwissen and practice",
+        "locator": "Part I §§151–155, 179–181, 217",
+        "summary": "The German cluster around weiterwissen concerns knowing how to continue. §217's So handle ich eben is rendered This is simply what I do, in a discussion of the point at which justifications end. It is not presented as a permission to act however one pleases."
+      },
+      {
+        "label": "Aspect-perception",
+        "locator": "Philosophy of Psychology — A Fragment §118 and following",
+        "summary": "The duck–rabbit discussion examines a change of aspect while the pictured lines remain the same. Seeing an aspect involves capacities and connections, not merely deciding that any description is equally good."
+      }
+    ],
+    "caveat": "The eBook explicitly warns that electronic page numbers differ from printed pagination. For Part I use section numbers; for the former Part II use the fourth edition's Fragment numbering with the edition named."
+  },
+  {
+    "id": "tractatus",
+    "title": "Tractatus logico-philosophicus / Logisch-philosophische Abhandlung",
+    "author": "Ludwig Wittgenstein",
+    "year": "1921 (German publication); 1922 (first bilingual edition)",
+    "edition": "The supplied file contains German text; its introductory note says the text follows the 1933 second edition with corrections. Exact publisher/year of this particular scan are not established.",
+    "kind": "Primary text · German original",
+    "description": "The early work connects world, thought, and language through the structure of propositions. It also asks what happens to philosophy, value, and the book's own sentences when the limits of factual representation are taken seriously.",
+    "readStatus": "German text retrieved; numbered propositions checked",
+    "url": "https://drive.google.com/file/d/1BcpaZuUh6gkKPkZUVRl180VBj2FfAkYJ/view",
+    "sections": [
+      {
+        "label": "Facts and possible arrangements",
+        "locator": "1–2.225; 4.01",
+        "summary": "The world is approached through facts rather than a mere list of objects. A picture or proposition represents a possible arrangement; it can agree or disagree with reality."
+      },
+      {
+        "label": "Logic and the limits of representation",
+        "locator": "4.0312; 4.46–4.461; 6.1",
+        "summary": "Logical constants are not names for special objects. Tautologies and contradictions have a limiting role: sinnlos is distinguished from unsinnig, so the English words senseless and nonsensical should not be treated as interchangeable."
+      },
+      {
+        "label": "Value, the ladder, and silence",
+        "locator": "6.4–6.522; 6.54; 7",
+        "summary": "Ethics and value are not added as further empirical facts. The ladder passage puts the status of the book itself in question. Whether the work points to ineffable truths or loosens the temptation to formulate such truths is a major interpretive dispute."
+      }
+    ],
+    "caveat": "The supplied source is German, despite its Latin catalogue title. English explanations in Ludwig are original paraphrases unless an English translator is expressly identified. Propositions are the stable citation unit."
+  },
+  {
+    "id": "certainty",
+    "title": "On Certainty",
+    "author": "Ludwig Wittgenstein",
+    "year": "1969",
+    "edition": "Edited by G. E. M. Anscombe and G. H. von Wright; translated by Denis Paul and G. E. M. Anscombe; Basil Blackwell, Oxford.",
+    "kind": "Primary text · Late notebooks in translation",
+    "description": "Notes from the final eighteen months of Wittgenstein's life examine knowledge, doubt, evidence, learning, and the background that makes an inquiry possible. The editors describe this as first-draft material, not a finished treatise.",
+    "readStatus": "Readable text retrieved; preface and selected numbered remarks checked",
+    "url": "https://drive.google.com/file/d/1ovBCLuAlX_gxeCyH1SHjRxv41ZwgTFUo/view",
+    "sections": [
+      {
+        "label": "Knowledge and its setting",
+        "locator": "§§1–10, 94–99",
+        "summary": "Moore's claim to know that he has hands raises questions about the role of a knowledge claim. A world-picture is learned as the background against which things are checked, and it may change."
+      },
+      {
+        "label": "Where reasons end",
+        "locator": "§§204–205",
+        "summary": "The end of giving evidence is connected with acting. This is not a general claim that evidence does not matter; it asks what enables a practice of evidence-giving in the first place."
+      },
+      {
+        "label": "Hinges",
+        "locator": "§§341–343",
+        "summary": "Questions and doubts turn on some things being exempt from doubt within that inquiry, as a door moves on fixed hinges. Later hinge epistemology develops this comparison into several competing accounts."
+      }
+    ],
+    "caveat": "Use numbered remarks, not PDF page. Hinge epistemology is a later family of interpretations; the notebook itself does not supply one settled foundational theory."
+  },
+  {
+    "id": "blue-brown",
+    "title": "The Blue and Brown Books: Preliminary Studies for the Philosophical Investigations",
+    "author": "Ludwig Wittgenstein",
+    "year": "1958; second edition 1969",
+    "edition": "Basil Blackwell; supplied EPUB includes print-page markers and the second edition's index. Preface by Rush Rhees.",
+    "kind": "Primary text · English dictations",
+    "description": "A particularly useful entrance into Wittgenstein's middle period. These were dictated in English in 1933–34 and 1934–35, so an English word here is not automatically a translator's rendering of a German technical term.",
+    "readStatus": "EPUB retrieved and locally extracted; publication details and selected passages checked",
+    "url": "https://drive.google.com/file/d/1m2YBYShmmTIyiRR2VFQCInoIdVTRgo3d/view",
+    "sections": [
+      {
+        "label": "Ask how meaning is explained",
+        "locator": "Blue Book pp.1–5",
+        "summary": "Instead of demanding a hidden thing called meaning, inspect the various ways people explain words. The comparison with measuring length changes the kind of question being asked."
+      },
+      {
+        "label": "Our craving for generality",
+        "locator": "Blue Book pp.17–18",
+        "summary": "The urge to find one feature common to every case can obstruct understanding. Games show overlapping family likenesses instead."
+      },
+      {
+        "label": "Constructing simpler practices",
+        "locator": "Brown Book, opening language-games, beginning p.77",
+        "summary": "Imagined simple communities and language-games let us inspect particular roles of words before projecting an all-purpose theory onto language."
+      }
+    ],
+    "caveat": "The EPUB's print-page markers are useful for citation, but its scrolling screen position is not a page reference. Do not describe these books as translations from a German original."
+  },
+  {
+    "id": "grammar",
+    "title": "Philosophical Grammar",
+    "author": "Ludwig Wittgenstein",
+    "year": "1974 (English edition)",
+    "edition": "Edited by Rush Rhees; translated by Anthony Kenny; Basil Blackwell, Oxford. Part I: The Proposition and its Sense; Part II: On Logic and Mathematics.",
+    "kind": "Primary text · Posthumous collection in translation",
+    "description": "An important bridge between the early work and the Investigations, examining understanding, propositions, rules, signs, and the logic of their use. Grammar here concerns the roles and possibilities of expressions, rather than just correct sentence construction.",
+    "readStatus": "Image-only PDF retrieved; front matter and contents selectively OCR’d; body pp.44–47 visually checked",
+    "url": "https://drive.google.com/file/d/15jZ1Xnij_l1LEIN9rj-g5C_1kR_uEpdz/view",
+    "sections": [
+      {
+        "label": "Understanding and action",
+        "locator": "Part I §§8–10, pp.45–47",
+        "summary": "The contents explicitly connect understanding a sentence with acting on it and understanding a word with being able to apply it. An interpretation cannot be a compulsory extra rider attached to every already meaningful sentence."
+      },
+      {
+        "label": "Rules constitute a use",
+        "locator": "Part I §§14–16, pp.52–53",
+        "summary": "The geometry-of-negation comparison presents grammatical rules as helping constitute what negation is, rather than reporting a hidden object's properties."
+      }
+    ],
+    "caveat": "This scan has no usable text layer. Coverage is selective OCR and visual inspection, not a claim to have checked all 247 scan pages. Printed pp.44–47 were inspected directly; §§14–16, pp.52–53 are locators verified from the contents."
+  },
+  {
+    "id": "colour",
+    "title": "Remarks on Colour",
+    "author": "Ludwig Wittgenstein",
+    "year": "1977",
+    "edition": "Edited by G. E. M. Anscombe; translated by Linda L. McAlister and Margarete Schättle; Basil Blackwell. Supplied EPUB retains part and remark numbering.",
+    "kind": "Primary text · Late remarks in translation",
+    "description": "Colour is a way into the difference between empirical discoveries and the relations built into our concepts. Comparing illuminated objects is not always the same activity as comparing colours in a palette or describing a painting.",
+    "readStatus": "EPUB retrieved and locally extracted; selected numbered remarks checked",
+    "url": "https://drive.google.com/file/d/14X4S-iLpMXR29pWU4sppfSP3PkOqG48J/view",
+    "sections": [
+      {
+        "label": "Two kinds of lighter than",
+        "locator": "Part I §1",
+        "summary": "Comparing two bodies under current conditions differs from comparing relations between shades. The same sentence form can conceal different activities."
+      },
+      {
+        "label": "White, grey, and context",
+        "locator": "Part I §§2–5",
+        "summary": "A white sheet can be called white in ordinary surroundings even if it looks grey beside snow. A refined laboratory standard is a distinct use, not automatically the only correct use."
+      },
+      {
+        "label": "Transparency and pictures",
+        "locator": "Part I §§17–20",
+        "summary": "White is discussed as opaque, while a green glass may be transparent. A painting of transparent glass uses opaque pigments; its colour vocabulary depends on the depicted configuration, not just a paint sample."
+      }
+    ],
+    "caveat": "These remarks investigate concepts, not a substitute for optics or neuroscience. Cite part and remark together because each part restarts its numbering."
+  },
+  {
+    "id": "voices",
+    "title": "The Voices of Wittgenstein: The Vienna Circle",
+    "author": "Ludwig Wittgenstein and Friedrich Waismann",
+    "year": "2003; supplied e-Library edition 2004",
+    "edition": "Transcribed, edited and introduced by Gordon Baker; translated by Gordon Baker, Michael Mackert, John Connolly and Vasilis Politis; Routledge. Original German texts and English translations.",
+    "kind": "Primary and mediated material · Bilingual edited collection",
+    "description": "Material transmitted through Waismann gives access to Wittgenstein's evolving investigations of language, rules, reasons, understanding, and method. The title should not obscure the collaborative and editorial history of the documents.",
+    "readStatus": "Bilingual text retrieved; publication details, contents and selected discussions checked",
+    "url": "https://drive.google.com/file/d/1lO4zMSZC-8GvRcrf3JISQ80DBftiJv9d/view",
+    "sections": [
+      {
+        "label": "Language in its surroundings",
+        "locator": "English pp.67–69",
+        "summary": "Language is considered in the activities and surroundings that make it intelligible. An isolated expression can invite a misleading account of what gives it sense."
+      },
+      {
+        "label": "Reasons and causes",
+        "locator": "English discussion corresponding to Grund und Ursache, pp.109–113",
+        "summary": "The grounds given for an action and a causal explanation of it have different roles. The distinction helps avoid treating every request for a reason as a search for a hidden mechanism."
+      },
+      {
+        "label": "An overview removes disquiet",
+        "locator": "English pp.309–311",
+        "summary": "Arranging a linguistic form among similar and related forms can remove a puzzlement. The Goethe comparison illustrates a synoptic presentation, rather than a claim to discover an invisible primal object."
+      }
+    ],
+    "caveat": "This is an edited Wittgenstein–Waismann collection, not a book whose every line should be cited as Wittgenstein's finished doctrine. Use its document titles and printed English pages."
+  },
+  {
+    "id": "ethics",
+    "title": "A Lecture on Ethics",
+    "author": "Ludwig Wittgenstein",
+    "year": "1965 (publication; lecture prepared 1929–1930)",
+    "edition": "The Philosophical Review 74(1), pp.3–12; supplied file includes editorial introduction and related Waismann material.",
+    "kind": "Primary text · English lecture",
+    "description": "Wittgenstein contrasts relative assessments, such as a chair being good for a purpose, with the aspiration to express absolute ethical value. His examples of wonder and absolute safety expose a tension between the importance of an experience and the grammar of its attempted description.",
+    "readStatus": "Article text retrieved; metadata, distinction and examples checked",
+    "url": "https://drive.google.com/file/d/1UVdqQuqn-7evsFUSZ0AJSxqySoKBeFFH/view",
+    "sections": [
+      {
+        "label": "Relative and absolute value",
+        "locator": "pp.5–7",
+        "summary": "Good relative to a purpose can be explained through a standard. An absolute ethical demand is not being treated as one more useful instrument for an independently fixed goal."
+      },
+      {
+        "label": "Wonder and the urge to exceed facts",
+        "locator": "pp.8–12",
+        "summary": "Wonder at the existence of the world and feeling absolutely safe are discussed as attempts to go beyond factual description. His criticism of those verbal forms does not simply dismiss ethical concern as worthless."
+      }
+    ],
+    "caveat": "This lecture was composed in English. Do not manufacture a German source term behind each English expression. The final pages of the supplied publication include Waismann's related notes, which must be identified separately when quoted."
+  },
+  {
+    "id": "free-will",
+    "title": "A Lecture on Freedom of the Will",
+    "author": "Ludwig Wittgenstein; lecture notes by Yorick Smythies",
+    "year": "1989 (publication; lecture probably 1945–1947)",
+    "edition": "Philosophical Investigations 12(2), April 1989, pp.85–100. The source's note gives an uncertain lecture date.",
+    "kind": "Primary material · Student's lecture notes",
+    "description": "A close inspection of what we mean by compulsion, natural law, prediction, choice, and freedom. The rail metaphor asks whether describing regularities should be confused with an external force compelling a decision.",
+    "readStatus": "Article text retrieved; opening argument and final examples checked",
+    "url": "https://drive.google.com/file/d/1Sm4PwGX9nsAhYUE6nluuTp3i6KsRmkB3/view",
+    "sections": [
+      {
+        "label": "Do natural laws compel?",
+        "locator": "pp.85–88",
+        "summary": "If saying that a law holds merely says that events follow its description, the additional image of the law forcing events can mislead. This is a conceptual question, not an empirical refutation of causal science."
+      },
+      {
+        "label": "Prediction and deliberation",
+        "locator": "pp.98–100",
+        "summary": "Being told what one will choose can change the situation in which deliberation occurs. A predictable game of chance would have a different point; the discussion examines these changing uses instead of announcing a simple solution to free will."
+      }
+    ],
+    "caveat": "The journal is named Philosophical Investigations; this article is not a section of Wittgenstein's book of that name. Smythies' notes are a mediated record, and the lecture's exact year is uncertain."
+  },
+  {
+    "id": "private-experience",
+    "title": "Notes for Lectures on ‘Private Experience’ and ‘Sense Data’",
+    "author": "Ludwig Wittgenstein; editorial material by Rush Rhees",
+    "year": "1968",
+    "edition": "The Philosophical Review 77(3), July 1968, pp.275–320. Supplied article includes German remarks with English translations in notes.",
+    "kind": "Primary text · Lecture notes",
+    "description": "Draft explorations of the temptation to posit a hidden object behind every expression of experience. Asking how an expression functions can change the problem without denying that someone feels fear, pain, or an elusive impression.",
+    "readStatus": "Article text retrieved; metadata and selected opening discussions checked",
+    "url": "https://drive.google.com/file/d/1CPpPJMQRxVQzFjG-JBsiDlwPUfsacgr5/view",
+    "sections": [
+      {
+        "label": "What is being said by these words?",
+        "locator": "pp.275–277",
+        "summary": "A claim about an indescribable inner impression invites a question about what the words are doing in a particular game. The contrast is between accepting someone's testimony and assuming a philosophical description of its content."
+      },
+      {
+        "label": "Private experience and expression",
+        "locator": "Article pp.275–320",
+        "summary": "The notes repeatedly examine expression, description, sensation, and the imagined distinction between a visible gesture and an essentially inaccessible accompaniment. They provide context for, rather than a replacement for, the later private-language discussion."
+      }
+    ],
+    "caveat": "These are working notes with repetitions, not a polished continuous argument. The supplied title's initial II is the publication's part label, not volume II of a Wittgenstein monograph."
+  },
+  {
+    "id": "philosophy",
+    "title": "Philosophy: Sections 86–93 of the ‘Big Typescript’",
+    "author": "Ludwig Wittgenstein",
+    "year": "1991",
+    "edition": "Edited by Heikki Nyman; translated by C. G. Luckhardt and M. A. E. Aue; Synthese 87, pp.3–22. Original typescript TS213 pp.405–435.",
+    "kind": "Primary text · Edited typescript chapter in translation",
+    "description": "An unusually explicit discussion of what philosophical work demands: changing one's attitude, exposing misleading analogies, assembling reminders, and patiently laying out linguistic facts. It also distinguishes what clarification can resolve from what requires learning a fact.",
+    "readStatus": "Text retrieved; metadata and §§86, 89, 92–93 checked",
+    "url": "https://drive.google.com/file/d/1z3DC_0Xp6KQlPgS7Si89hlpQX5JsdZYE/view",
+    "sections": [
+      {
+        "label": "A difficulty of attitude",
+        "locator": "§86, printed pp.5–6",
+        "summary": "Some philosophical difficulty involves resistance to giving up a tempting expression. Intellectual cleverness alone may not remove that attachment."
+      },
+      {
+        "label": "Clarification and factual discovery",
+        "locator": "§89, printed pp.9–13",
+        "summary": "The ship's steam-engine example separates a removable conceptual confusion from missing information about the actual ship. Rearranging concepts cannot itself reveal an unknown empirical fact."
+      },
+      {
+        "label": "Quiet progress",
+        "locator": "§§92–93, printed pp.19–22",
+        "summary": "The disorderly-drawer comparison recommends patient examination rather than frantic speculation. The next section connects philosophical method to ritual, figures of speech, and Frazer."
+      }
+    ],
+    "caveat": "The section numbers 86–93 belong to TS213, not the Investigations. The publication preserves alternatives and revisions; its wording should not be presented as one final, unqualified manifesto."
+  },
+  {
+    "id": "notes-logic",
+    "title": "Notes on Logic",
+    "author": "Ludwig Wittgenstein; introduction and transmission by Harry T. Costello",
+    "year": "1957 (publication; notes dated September 1913)",
+    "edition": "The Journal of Philosophy 54(9), 25 April 1957, pp.230–245; supplied JSTOR scan.",
+    "kind": "Primary material with editorial introduction",
+    "description": "Early notes about propositions and logical structure, preserved through Costello's copy of material Russell brought to Harvard. They illuminate the problems from which the Tractatus developed, without being identical to its final positions.",
+    "readStatus": "Article text retrieved; introductory transmission history and selected logical discussions checked",
+    "url": "https://drive.google.com/file/d/1xoCU39jJjFnuhHT6ttAHA-Q1Q5duu3TP/view",
+    "sections": [
+      {
+        "label": "How these notes survive",
+        "locator": "Costello's introduction, pp.230–231",
+        "summary": "Costello reports copying a manuscript dated September 1913 from Russell's materials. The historical framing belongs to Costello, not to Wittgenstein."
+      },
+      {
+        "label": "Propositions and logical form",
+        "locator": "Notes following the introduction, pp.231–245",
+        "summary": "The early project asks how a proposition can make a determinate claim and how logical relations differ from names for objects. Read it beside the Tractatus to trace a developing problem, not as a later language-game doctrine."
+      }
+    ],
+    "caveat": "The scan begins with the end of a preceding contribution by Bertrand Russell about universals. That opening material must not be attributed to Wittgenstein. Costello's introduction and comments also require separate attribution."
+  },
+  {
+    "id": "language-use",
+    "title": "Bemerkungen über Frazers ‘The Golden Bough’",
+    "author": "Ludwig Wittgenstein; introductory note by Rush Rhees",
+    "year": "1967",
+    "edition": "Synthese 17(3), September 1967, pp.233–253. German text. The file's longer title describes the special issue, not the entire contents of this PDF.",
+    "kind": "Primary text · German remarks with editorial introduction",
+    "description": "Remarks on James George Frazer's interpretations of ritual. Wittgenstein questions the assumption that ceremonial actions must be mistaken scientific explanations, and asks what other roles an action or symbol can have.",
+    "readStatus": "German text and English introductory note retrieved; selected remarks checked",
+    "url": "https://drive.google.com/file/d/1XFiuvkyB9w71GTA1AA438f5tssuajgqO/view",
+    "sections": [
+      {
+        "label": "Ritual and error",
+        "locator": "pp.234–236",
+        "summary": "Treating every religious or magical practice as a false hypothesis can miss its expressive role. An action can be significant without functioning as an attempted explanation of physical causes."
+      },
+      {
+        "label": "Comparison instead of a single origin story",
+        "locator": "Remarks throughout pp.233–253",
+        "summary": "Juxtaposing familiar expressions, ceremonies, and symbols may help us see connections without inventing a speculative causal history. This is a methodological comparison, not a claim that factual anthropology is unnecessary."
+      }
+    ],
+    "caveat": "The supplied PDF is the German Frazer article with Rhees' introduction, not the whole Language in Use symposium advertised in its catalogue filename. English app explanations are paraphrases, not quotations from an English translation."
+  },
+  {
+    "id": "peacocke",
+    "title": "Wittgenstein and Experience",
+    "author": "Christopher Peacocke",
+    "year": "1982",
+    "edition": "The Philosophical Quarterly 32(127), April 1982, pp.162–170; DOI 10.2307/2960080. A critical study of Remarks on the Philosophy of Psychology, volumes I and II.",
+    "kind": "Secondary source · Critical study",
+    "description": "A useful counterweight to uncritical admiration. Peacocke considers whether an account centred on expression must reject the idea that sensation words can designate real states. He also examines consciousness, dispositions, and imagination.",
+    "readStatus": "Full article text retrieved; metadata and main objections checked",
+    "url": "https://drive.google.com/file/d/1FMsaBTW2s3bvvW6MvVXEMVTLRSk6uzkN/view",
+    "sections": [
+      {
+        "label": "Expression does not settle reference",
+        "locator": "Section I, pp.163–166",
+        "summary": "Peacocke argues that mastering pain language and having non-inferential first-person authority do not by themselves establish that pain vocabulary is non-designative. He offers an alternative for consideration."
+      },
+      {
+        "label": "Experiences and dispositions",
+        "locator": "Section II, pp.166–167",
+        "summary": "Attention, duration, and intensity may help distinguish ongoing experiences from capacities, but Peacocke questions whether those criteria avoid circularity."
+      },
+      {
+        "label": "Imagination",
+        "locator": "Section III, pp.167–170",
+        "summary": "The critical study asks whether attending only to the description of imagining neglects experiences of imagining, attempts that fail, and the difference between an image's causal history and its intended subject."
+      }
+    ],
+    "caveat": "This PDF is Peacocke's review article. It is not the two volumes of Wittgenstein's Remarks named in its long filename. Statements about what Wittgenstein holds in this article are Peacocke's interpretation and should be identified as such."
+  },
+  {
+    "id": "teaching-purpose",
+    "title": "Teaching With Purpose: An Interview With Thomas E. Ludwig",
+    "author": "Timothy D. Ludwig and David J. Ludwig",
+    "year": "2010",
+    "edition": "Teaching of Psychology 37, pp.69–76; DOI 10.1080/00986280903425979.",
+    "kind": "Unrelated source · Included for transparent inventory",
+    "description": "An interview about teaching psychology with Thomas E. Ludwig. The surname Ludwig does not identify this interview as a source about Ludwig Wittgenstein.",
+    "readStatus": "Article retrieved and identity checked; excluded from philosophical evidence",
+    "url": "https://drive.google.com/file/d/11ybRxKUgVVJQv47wQ2Njad7Sai0sL8NI/view",
+    "sections": [
+      {
+        "label": "Why it is listed separately",
+        "locator": "pp.69–76",
+        "summary": "The interview concerns psychology teaching and instructional software. It cannot establish Wittgenstein's ideas, biography, German terminology, or historical influence."
+      }
+    ],
+    "caveat": "Kept in the inventory because it is present in your supplied folder. It is not used as evidence about Wittgenstein."
+  },
+  {
+    "id": "sep",
+    "title": "Ludwig Wittgenstein — Stanford Encyclopedia of Philosophy",
+    "author": "Anat Biletzki and Aloysius Martin",
+    "year": "Online entry; consult current page for revision history",
+    "edition": "Stanford Encyclopedia of Philosophy; supplied by the user as contextual reading.",
+    "kind": "Secondary source · Scholarly overview",
+    "description": "An overview of Wittgenstein's life, the Tractatus, later philosophy, the middle period, and debates about continuity and interpretation. It provides orientation and a route into further scholarship, alongside rather than in place of the primary texts.",
+    "readStatus": "Current entry consulted for overview and interpretive context",
+    "url": "https://plato.stanford.edu/entries/wittgenstein/",
+    "sections": [
+      {
+        "label": "Early project and its tensions",
+        "locator": "§§2.1–2.4",
+        "summary": "The entry maps the logical picture, sense and nonsense, philosophy as activity, and competing interpretations of the ladder and ineffability."
+      },
+      {
+        "label": "Later investigations",
+        "locator": "§3, especially Meaning as Use and Family Resemblance",
+        "summary": "The later work is placed against the assumption of one essential logical structure for language. Its discussion emphasizes the investigative character of examples and concepts."
+      },
+      {
+        "label": "Middle Wittgenstein",
+        "locator": "§4",
+        "summary": "The intervening work complicates a simple two-stage story. Development, continuity, and change require comparison across the texts."
+      }
+    ],
+    "caveat": "A secondary overview cannot decide every contested interpretation. Follow the numbered primary references in each lesson and distinguish the encyclopedia's framing from Wittgenstein's own wording."
+  }
+]

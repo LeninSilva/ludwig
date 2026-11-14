@@ -1,0 +1,13 @@
+{
+  "name": "ludwig",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An offline, local-first Wittgenstein reading companion",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check app.js && node --check storage.mjs && node --check experiments.mjs && node --check epub.mjs && npm test && npm run build"
+  },
+  "engines": { "node": ">=20" }
+}
