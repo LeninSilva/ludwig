@@ -34,3 +34,7 @@ test('backup merge retains newer local notes and independently restores missing 
  const later={...note,updated:'2026-11-15T12:00:00.000Z',body:'Restored later work'};
  assert.equal(mergeNotes([newer],[later])[0].body,'Restored later work');
 });
+test('backup keeps the list of readings already seen, for the "learn something new" card', () => {
+  const {preferences} = validateBackup({app:'ludwig',version:1,notes:[],preferences:{seen:['begin','picture','begin',7]}});
+  assert.deepEqual(preferences.seen, ['begin','picture']);
+});

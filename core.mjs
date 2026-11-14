@@ -1,5 +1,5 @@
 export const NAV = [
-  ['home','Your starting point','home'],['readings','Guided readings','book'],['explore','The workshop','spark'],['daily','A thought for today','sun'],['glossary','Words & meanings','type'],['sources','The bookshelf','library'],['notebook','Your notebook','pen']
+  ['home','Home','home'],['readings','Readings','book'],['explore','Experiments','spark'],['daily','Today','sun'],['glossary','Key words','type'],['sources','Sources','library'],['notebook','Notes','pen']
 ];
 export function localDate(date = new Date()) {
   return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;
@@ -23,7 +23,7 @@ export function validateBackup(data) {
   const clean={};
   if (['light','dark','system'].includes(p.theme)) clean.theme=p.theme;
   if (['normal','large','larger'].includes(p.font)) clean.font=p.font;
-  for(const key of ['completed','bookmarks']) if(Array.isArray(p[key])) clean[key]=[...new Set(p[key].filter(x=>typeof x==='string'&&x.length<200))];
+  for(const key of ['completed','bookmarks','seen']) if(Array.isArray(p[key])) clean[key]=[...new Set(p[key].filter(x=>typeof x==='string'&&x.length<200))];
   if(typeof p.lastLesson==='string'&&p.lastLesson.length<200) clean.lastLesson=p.lastLesson;
   return {notes:data.notes.map(n=>({id:n.id,title:n.title,body:n.body,updated:n.updated,created:typeof n.created==='string'?n.created:n.updated,lesson:n.lesson??null,section:n.section??null})),preferences:clean};
 }

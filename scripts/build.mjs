@@ -16,8 +16,18 @@ for(const l of lessons){
   if(l.sections.length<3||!l.exercise?.options?.length||!l.questions.length)throw new Error(`Incomplete lesson ${l.id}`);
 }
 for(const t of terms)for(const r of t.sourceRefs)if(!sourceIds.has(r.source))throw new Error(`Unknown glossary source ${r.source}`);
+const visuals=JSON.parse(await readFile(path.join(root,'data/visuals.json')));
+unique(visuals,'visual');
+for(const l of lessons){const v=visuals.find(x=>x.id===l.id);if(!v||!v.plain||!v.example?.text||!v.diagramCaption)throw new Error(`Missing plain words, example or diagram caption for ${l.id}`);try{await stat(path.join(root,'assets/diagrams',`${l.id}.svg`));}catch{throw new Error(`Missing diagram assets/diagrams/${l.id}.svg`);}}
+for(const v of visuals)if(!lessonIds.has(v.id))throw new Error(`Visual for unknown reading ${v.id}`);
 await rm(dist,{recursive:true,force:true});await mkdir(dist,{recursive:true});
 for(const file of ['index.html','app.js','core.mjs','storage.mjs','experiments.mjs','epub.mjs','styles.css','manifest.webmanifest','data','assets'])await cp(path.join(root,file),path.join(dist,file),{recursive:true});
+// Inline each diagram and record which illustrations exist (assets/illustrations/<id>-concept|example.webp).
+const findImage=async name=>{for(const ext of ['webp','jpg','png']){try{await stat(path.join(root,'assets/illustrations',`${name}.${ext}`));return `./assets/illustrations/${name}.${ext}`;}catch{}}return null;};
+const built=[];for(const v of visuals){const svg=(await readFile(path.join(root,'assets/diagrams',`${v.id}.svg`),'utf8')).trim();const ill={};for(const [k,i] of Object.entries(v.illustrations||{}))ill[k]={src:await findImage(i.file),alt:i.alt||''};built.push({id:v.id,plain:v.plain,diagramCaption:v.diagramCaption,diagram:svg,example:v.example,illustrations:ill});}
+await writeFile(path.join(dist,'data/visuals.json'),JSON.stringify(built));
+await rm(path.join(dist,'assets/diagrams'),{recursive:true,force:true});
+const illustrationCount=built.reduce((n,v)=>n+Object.values(v.illustrations).filter(i=>i.src).length,0);
 const walk=async dir=>{const files=[];for(const name of await readdir(dir)){const p=path.join(dir,name);if((await stat(p)).isDirectory())files.push(...await walk(p));else files.push(p);}return files;};
 const files=(await walk(dist)).filter(p=>!p.endsWith('.md')).sort();
 const hash=createHash('sha256');let bytes=0;for(const file of files){const data=await readFile(file);bytes+=data.length;hash.update(data);}const version=hash.digest('hex').slice(0,16);
@@ -44,4 +54,4 @@ self.addEventListener('message',event=>{
 `;
 await writeFile(path.join(dist,'sw.js'),serviceWorker);
 await writeFile(path.join(dist,'build-info.json'),JSON.stringify({version,readings:lessons.length,terms:terms.length,sources:sources.length,packBytes:bytes},null,2));
-console.log(`Built Ludwig ${version}: ${lessons.length} readings, ${terms.length} terms, ${sources.length} sources. Offline pack ${(bytes/1024/1024).toFixed(2)} MB.`);
+console.log(`Built Ludwig ${version}: ${lessons.length} readings, ${terms.length} terms, ${sources.length} sources. ${built.length} diagrams, ${illustrationCount} illustrations. Offline pack ${(bytes/1024/1024).toFixed(2)} MB.`);
