@@ -167,8 +167,13 @@ ids = [l['id'] for l in lessons]
 assert set(ids) == set(V), set(ids) ^ set(V)
 import sys; sys.path.insert(0, os.path.dirname(__file__))
 from insights import INSIGHT, QUESTION_WAYS
+from sections import S as SECTIONS, GUIDE
 alts = json.load(open(os.path.join(os.path.dirname(__file__), '..', 'data', 'illustration-alts.json')))
 assert set(INSIGHT) == set(V)
+import re
+def clean_stage(g):
+    g = re.sub(r'^(First|Then|Later still|Later|Deeper|With use|Living with it|At first)[:,]?\s+', '', g)
+    return g[0].upper() + g[1:]
 out = []
 for i in ids:
     v = V[i]
@@ -177,6 +182,8 @@ for i in ids:
                 'example': {'title': v['example'][0], 'text': v['example'][1], 'label': 'Invented example'},
                 'insight': {'misreading': ins['misreading'], 'matters': ins['matters']},
                 'askYourself': ins['ask'],
+                'sectionQuestions': [q for (_, q) in SECTIONS[i]],
+                'guide': {'say': GUIDE[i][0], 'read': GUIDE[i][1], 'grow': [clean_stage(g) for g in GUIDE[i][2]]},
                 'illustrations': {
                     'concept': {'file': f'{i}-concept', 'alt': alts.get(f'{i}-concept', ''), 'prompt': v['concept'] + ' ' + STYLE},
                     'example': {'file': f'{i}-example', 'alt': alts.get(f'{i}-example', ''), 'prompt': v['ex'] + ' ' + STYLE}}})

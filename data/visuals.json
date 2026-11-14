@@ -17,6 +17,22 @@
    "When I say I “don’t understand” something, is information missing, or am I unsure how the words are being used?",
    "What familiar thing would I describe differently if I looked at it slowly?"
   ],
+  "sectionQuestions": [
+   "When I feel lost in a big question, which ordinary situation would make its words work again?",
+   "What would count as evidence that the later work rejects the earlier, rather than develops it?",
+   "In an argument I had recently, were we using one word with two standards?",
+   "Is the question I care about most a question of fact, a question of concept, or both?",
+   "Which voice on the page did I take for Wittgenstein’s settled view when it may be an objection?"
+  ],
+  "guide": {
+   "say": "Many philosophical puzzles are not caused by missing facts but by words pulled out of the activities that give them sense. The cure he proposes is to return to examples and look again.",
+   "read": "Read him slowly and expect dialogue. A remark often stages a temptation and then examines it, so ask which voice is speaking before you underline anything.",
+   "grow": [
+    "It can sound like a refusal to answer big questions.",
+    "You start noticing how often a disagreement is about which use of a word is in play.",
+    "You may see the method as a discipline of attention, and also test where it falls short."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "begin-concept",
@@ -48,6 +64,22 @@
    "Which of my maps, charts or plans do I treat as reality rather than as a model of it?",
    "Do I understand this sentence, or do I only know that people say it?"
   ],
+  "sectionQuestions": [
+   "What exactly turns two buttons into a claim about cars?",
+   "Can I understand a claim fully and still not know whether it is true? What does that show?",
+   "What must a map share with a city, and what can it safely leave out?",
+   "Which symbol in my life claims something I have never checked?",
+   "Which kind of sentence I use every day does the picture model fit worst?"
+  ],
+  "guide": {
+   "say": "In the Tractatus a proposition says something by being a structured model of a possible situation. Sense comes from that shared structure; truth from whether the situation obtains.",
+   "read": "Hold on to the structural point, not the photograph image. Ask: what are the elements, what does each stand for, and how could the arrangement be wrong?",
+   "grow": [
+    "The picture idea seems obvious, even trivial.",
+    "The gap between sense and truth starts to look remarkable: you understand claims before you know if they’re true.",
+    "Reading the Investigations, you may feel the pressure on the theory from greetings, orders and grief."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "picture-concept",
@@ -79,6 +111,22 @@
    "When I describe a problem, am I listing things or saying how they stand to each other?",
    "Which arrangement around me would I change first, if I could change only one?"
   ],
+  "sectionQuestions": [
+   "Describe one situation in my life as facts, not as a list of things. What appears?",
+   "How does my picture of the Tractatus change if I read “state of affairs” instead of “atomic fact”?",
+   "What does it mean to know an object by knowing how it can combine?",
+   "Where is someone giving me an inventory when I need the facts?",
+   "Which reading do I find more natural, and what in the text pulls the other way?"
+  ],
+  "guide": {
+   "say": "The world is made of how things stand, not of the things themselves. An inventory of objects leaves open every arrangement that would make a world.",
+   "read": "Read the numbered propositions as a tree: 2.01 and 2.04 depend on 2. Treat the English nouns cautiously and compare the German.",
+   "grow": [
+    "A neat distinction between things and facts.",
+    "You catch inventories passing as descriptions, in reports and arguments.",
+    "You meet the interpretive debate about what the early ontology really claims."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "facts-concept",
@@ -110,6 +158,22 @@
    "In the last argument I heard, what new information was actually given?",
    "When I feel certain, is it because of the world or because of how I defined my terms?"
   ],
+  "sectionQuestions": [
+   "Can I find a sentence I hear often that is true whatever happens?",
+   "Why is it important that a tautology is “senseless” but not “nonsense”?",
+   "If “not” names no object, what kind of thing is it?",
+   "In the last persuasive argument I heard, which premise did the real work?",
+   "Why does a formally impressive argument still owe me its assumptions?"
+  ],
+  "guide": {
+   "say": "Logical truths are true whatever the world is like, so they carry no news; but they show the structure every meaningful proposition shares. Senseless is not nonsense.",
+   "read": "Keep sinnlos and unsinnig apart, and stay inside the classical setting the Tractatus assumes.",
+   "grow": [
+    "Tautologies look like empty word games.",
+    "You see them as displays of logical form, and stop expecting them to inform.",
+    "You ask how far this picture survives other logics and his own later remarks on mathematics."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "logic-concept",
@@ -141,6 +205,22 @@
    "Where have I tried to explain something that someone could only see for themselves?",
    "Which ladder (idea, habit, theory) have I already climbed and could now put down?"
   ],
+  "sectionQuestions": [
+   "What do I show in the way I speak that I could never state?",
+   "Which philosophical sentence that moves me might fail to say anything?",
+   "Can I say what each reading would lose if the other were right?",
+   "Which question about my own life would no list of facts answer?",
+   "How can a book coherently tell me that its own sentences are nonsense?"
+  ],
+  "guide": {
+   "say": "Some things cannot be said but show themselves, including the logical form of language. The book even suggests its own sentences are a ladder to throw away.",
+   "read": "Notice which reading you are bringing, traditional or resolute, and keep it separate from what 6.54 and 7 actually state.",
+   "grow": [
+    "The ending feels mystical or paradoxical.",
+    "You see the difference between a false map, a tautology and a failed representation.",
+    "You can argue for one reading while stating exactly what the other would say back."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "limits-concept",
@@ -172,6 +252,22 @@
    "What would I still care about even if every fact were settled?",
    "Which decision this week did I treat as a technical problem when it was really about value?"
   ],
+  "sectionQuestions": [
+   "When I call someone good, is there a purpose hidden in the word?",
+   "If I knew every fact about a decision, what would still be left to decide?",
+   "Have I had an experience that felt like it ran against the limits of language?",
+   "Where has a measure quietly replaced a moral question in my life?",
+   "Can ethical judgements be reasoned and true without being scientific reports?"
+  ],
+  "guide": {
+   "say": "Ethical language reaches for an absolute value that no description of facts, however complete, could contain. He treats that reaching with respect, without turning it into a theory.",
+   "read": "Separate “good for something” from “good” and watch for moments when one quietly replaces the other. Remember it is a lecture, not a treatise.",
+   "grow": [
+    "It can sound like ethics is being dismissed.",
+    "You notice how often a measure replaces a moral question.",
+    "You weigh whether ethical judgements can be reasoned and even true without being reports."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "ethics-concept",
@@ -203,6 +299,22 @@
    "Which single word at my work does the job of a whole sentence?",
    "What would someone new to my world need to see, not just hear, to understand our words?"
   ],
+  "sectionQuestions": [
+   "What would I need to see, not just hear, to understand the builders?",
+   "Which of §23’s uses fills most of my day?",
+   "What one word changes its whole job depending on where I say it?",
+   "When did someone answer the wrong game in a conversation with me?",
+   "What does the builders’ language leave out that matters most in real conversation?"
+  ],
+  "guide": {
+   "say": "Language is woven into activities. To understand words you have to see what people are doing with them: calling, bringing, warning, joking, praying.",
+   "read": "Take the builders as a deliberately tiny model, a lens for looking, not a full description of language.",
+   "grow": [
+    "Language-games seem like a playful metaphor.",
+    "You hear conversations as moves in activities and notice mismatched replies.",
+    "You test where the model breaks — irony, power, history — and why that matters."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "builders-concept",
@@ -234,6 +346,22 @@
    "If I stopped asking what a word means and asked what it does, what changes?",
    "What word causes friction between me and someone close to me, and how do we each use it?"
   ],
+  "sectionQuestions": [
+   "Which two words look alike on paper but work completely differently?",
+   "Why does the qualification “a large class of cases” matter so much?",
+   "How did I ever learn which feature someone was pointing at?",
+   "Which praise word at my work hides three different standards?",
+   "Does describing how a word is used ever tell me how it should be used?"
+  ],
+  "guide": {
+   "say": "For a large class of cases, the meaning of a word is its use in the language. Not a hidden object behind the word, but the work it does.",
+   "read": "Keep the qualification in §43 and remember that use includes correction, explanation and misuse.",
+   "grow": [
+    "A liberating slogan.",
+    "A practical tool for untangling words that cause friction.",
+    "You feel the hard question of what makes one use correct, and turn to rule-following."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "meaning-use-concept",
@@ -265,6 +393,22 @@
    "Where would a strict definition do more harm than a set of good examples?",
    "What are three very different things I call by the same name, and what links each pair?"
   ],
+  "sectionQuestions": [
+   "What concept have I assumed must have an essence without checking cases?",
+   "Which people in my family resemble each other, and through what chains?",
+   "When is a blurry concept more useful than a sharp one?",
+   "Who is affected by a definition I helped set or rely on?",
+   "How would I tell a fair extension of a concept from a strained one?"
+  ],
+  "guide": {
+   "say": "Many concepts hold together through overlapping similarities rather than one shared essence, and that is no defect. Look at cases before deciding what they must share.",
+   "read": "Do the exercise he asks for: list games and compare. Notice he doesn’t say definitions are never useful.",
+   "grow": [
+    "It frees you from hunting essences.",
+    "You notice how definitions are decisions with consequences.",
+    "You ask what makes a resemblance real rather than strained."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "family-concept",
@@ -296,6 +440,22 @@
    "What practice gives my most important words their sense?",
    "When I misunderstood someone recently, was it the words or the life around them?"
   ],
+  "sectionQuestions": [
+   "Which of my words would be empty to someone without my way of living?",
+   "What must I already share with someone before we can disagree?",
+   "Is what makes me understandable more human-general or more local?",
+   "What practice of mine looks obvious only because I was trained in it?",
+   "When someone appeals to “how we do things”, who is left out of the “we”?"
+  ],
+  "guide": {
+   "say": "Words make sense against a background of shared human activity — what he calls a form of life. Agreement in language comes before agreement in opinions.",
+   "read": "Read the few passages closely and treat the term as an emphasis, not a theory of culture.",
+   "grow": [
+    "A vivid way to say context matters.",
+    "A reason for patience with people trained in other practices.",
+    "The political question of who counts as “we” becomes central."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "life-concept",
@@ -327,6 +487,22 @@
    "Who taught me how to continue a practice I now take for granted?",
    "When someone surprises me by following a rule differently, what did our training leave open?"
   ],
+  "sectionQuestions": [
+   "What did the teacher’s examples actually fix, and what did they leave open?",
+   "When did a feeling of understanding turn out to be wrong for me?",
+   "What skill of mine was built by correction rather than explanation?",
+   "Where must I extend a rule I learned into a case it never mentioned?",
+   "Can a description of training ever explain why an answer is right?"
+  ],
+  "guide": {
+   "say": "Understanding a rule is an ability to go on correctly, sustained by training and practice, not a feeling or an inner formula that contains every future step.",
+   "read": "Read §185 with §§198–202. Watch for the move from “what we do” to “what is correct”.",
+   "grow": [
+    "The pupil seems merely stubborn.",
+    "You realise no finite set of examples forces a continuation.",
+    "You wrestle with whether practice can ground normativity at all."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "going-on-concept",
@@ -358,6 +534,22 @@
    "Which instructions do I follow perfectly without being able to justify them?",
    "When did a discussion of “what we really meant” stop helping?"
   ],
+  "sectionQuestions": [
+   "What sign do I follow every day without interpreting it?",
+   "Why does the paradox collapse if every action counts as agreement?",
+   "Where do my justifications run out, and is that bedrock or stubbornness?",
+   "Which definition I rely on just moves the difficulty in a circle?",
+   "Which reading of the rule-following remarks does the text itself support?"
+  ],
+  "guide": {
+   "say": "If every rule needed an interpretation to apply it, understanding would never begin. Grasping a rule shows in following it, and justification eventually ends in what we do.",
+   "read": "Never quote the paradox of §201 without its reply; read §217 for where reasons run out.",
+   "grow": [
+    "The paradox seems devastating.",
+    "You see it as a misunderstanding Wittgenstein exposes.",
+    "You weigh skeptical and dissolving readings and form your own."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "interpretation-concept",
@@ -389,6 +581,22 @@
    "When I say “no one could understand how I feel”, what exactly is out of reach?",
    "How do I check whether I am using a feeling word the same way as before?"
   ],
+  "sectionQuestions": [
+   "Is anything I keep private actually private in the §243 sense?",
+   "Without any outside check, what would make my memory of “S” correct?",
+   "How do I correct my own records of how I felt?",
+   "When I say “ouch”, am I reporting an observation?",
+   "Does the argument assume what it needs to prove? Where would I press?"
+  ],
+  "guide": {
+   "say": "A language whose words could only be understood by their speaker, fixed by inner impressions alone, would lack any standard of correctness. This does not deny inner experience.",
+   "read": "Keep the target exact: not diaries or secrets, but impressions that fix meaning by themselves (§243, §258).",
+   "grow": [
+    "It can sound like feelings are being denied.",
+    "You see how public our words for feelings are.",
+    "You press on whether the argument assumes its conclusion."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "private-concept",
@@ -420,6 +628,22 @@
    "Where do I assume others feel exactly as I do because we use the same word?",
    "What would it mean to understand someone’s pain without having it?"
   ],
+  "sectionQuestions": [
+   "If my beetle changed every day, would my word change?",
+   "Why is “the box is empty” the wrong lesson to draw?",
+   "How do I know a friend is upset when they haven’t said so?",
+   "When have I used “no one can really know” to avoid caring?",
+   "What question about consciousness does the beetle leave untouched?"
+  ],
+  "guide": {
+   "say": "If a word’s meaning depended on a private object no one else could see, the object would drop out of the word’s public use. Pain words work differently.",
+   "read": "Read §293 with its neighbours; notice the explicit refusal to say the box is empty.",
+   "grow": [
+    "A clever puzzle.",
+    "A corrective to “no one can know how I feel”.",
+    "You mark exactly what it leaves open about consciousness."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "beetle-concept",
@@ -451,6 +675,22 @@
    "What, for me, counts as someone being kind, honest or rested?",
    "Which of my judgements would change if I changed my criteria rather than gathering more evidence?"
   ],
+  "sectionQuestions": [
+   "In my work, which signs are evidence and which define the thing?",
+   "What would make my hope recognisable to someone watching my week?",
+   "How can a link be conceptual and still allow mistakes in particular cases?",
+   "Which assessment of me rests on a sign that doesn’t fit how I work?",
+   "Whose experience might our current criteria fail to recognise?"
+  ],
+  "guide": {
+   "say": "Some signs don’t merely suggest a psychological state; they are part of what we mean by it, while particular judgements can still be wrong.",
+   "read": "Treat the criterion/evidence distinction as a first approach; interpreters disagree about its details.",
+   "grow": [
+    "A tidy distinction.",
+    "A way to challenge assessments based on the wrong signs.",
+    "A question about whose experiences our criteria miss."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "criteria-concept",
@@ -482,6 +722,22 @@
    "Which aspect of a person close to me have I stopped being able to see?",
    "What would help someone see the aspect I see, without forcing them?"
   ],
+  "sectionQuestions": [
+   "What changes when the aspect flips, if nothing on the page does?",
+   "What is the difference between knowing an aspect and seeing it?",
+   "Which aspect could I not see until I learned something?",
+   "Which message from someone close to me deserves a second look?",
+   "When did seeing someone in a new light mislead me?"
+  ],
+  "guide": {
+   "say": "We can see the same figure differently without anything in it changing. Seeing-as sits between pure perception and interpretation.",
+   "read": "Cite by edition: Fragment §118 or Part II xi. Note how the remarks resist a single theory.",
+   "grow": [
+    "A fun optical puzzle.",
+    "A model of insight — seeing what was always there.",
+    "A caution that a new way of seeing is not yet a reason."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "aspects-concept",
@@ -513,6 +769,22 @@
    "Which of my hinges has moved over the years?",
    "In a deep disagreement, are we arguing about evidence or about what stands fast?"
   ],
+  "sectionQuestions": [
+   "What am I not testing while I test something else?",
+   "Can I name one hinge in my work that I have never questioned?",
+   "Which of my certainties has slowly moved from riverbed to river?",
+   "What would count as discovering an error in my sources?",
+   "How could I reason with someone whose hinges differ from mine?"
+  ],
+  "guide": {
+   "say": "Doubt and inquiry rest on certainties that stand fast in a practice. They are not proven, but they make proving possible, and they can shift over time.",
+   "read": "Read the riverbed image (§§96–99) alongside the hinges (§§341–343); interpreters disagree about what hinges are.",
+   "grow": [
+    "A reassuring image.",
+    "A tool for seeing what your checking relies on.",
+    "The hard problem of reasoning across differing hinges."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "hinges-concept",
@@ -544,6 +816,22 @@
    "What would count as settling my current doubt?",
    "Where am I checking far more, or far less, than the situation warrants?"
   ],
+  "sectionQuestions": [
+   "When does saying “I know” actually tell someone something?",
+   "What would count as discovering that my worry was justified?",
+   "What do I stand fast on that I could not give grounds for?",
+   "What check would actually satisfy this doubt of mine?",
+   "Does showing how doubt works answer the skeptic, or change the subject?"
+  ],
+  "guide": {
+   "say": "A real doubt needs a setting: a possible error, a way to find it, and standards that survive. Some certainties stand fast rather than being known by evidence.",
+   "read": "Read the opening remarks against Moore and ask what the sentence “I know I have a hand” is doing in each setting.",
+   "grow": [
+    "A refutation of skepticism.",
+    "A way to proportion checking and notice idle doubt.",
+    "An open question — dissolution or evasion?"
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "doubt-concept",
@@ -575,6 +863,22 @@
    "Which word do I use precisely in one setting and loosely in another?",
    "What colour (or taste, or sound) can I not put into words at all?"
   ],
+  "sectionQuestions": [
+   "When I say one thing is lighter, which question am I answering?",
+   "Must a precise measurement replace how I ordinarily describe colours?",
+   "Why does “transparent white” sound impossible?",
+   "Which colour disagreement was really about different tasks?",
+   "Could science make “reddish green” possible, or only change our concepts?"
+  ],
+  "guide": {
+   "say": "Colour shows how a factual question and a conceptual question can share words. Some colour puzzles are about the logic of colour concepts, not physics.",
+   "read": "Cite part and remark together; numbering restarts in each part.",
+   "grow": [
+    "Odd remarks about white and transparency.",
+    "A model for separating empirical and conceptual questions.",
+    "The difficult boundary between discovering facts and changing descriptions."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "colour-concept",
@@ -606,6 +910,22 @@
    "When someone predicts my choice, does that make it less mine?",
    "What do I mean when I say I “had no choice”?"
   ],
+  "sectionQuestions": [
+   "For one thing I did today, can I separate its causes from my reasons?",
+   "Where does the word “must” smuggle in a picture of force?",
+   "How would knowing a prediction about me change what I do?",
+   "The last time I said “I had no choice”, which of these did I mean?",
+   "Does clarifying “compelled” leave the free-will problem standing?"
+  ],
+  "guide": {
+   "say": "Talk of laws, predictions and compulsion is often confused. A law describes regularities; it doesn’t push. Being predictable is not being forced.",
+   "read": "Remember these are Smythies’s notes of a lecture; cite them as mediated.",
+   "grow": [
+    "Free will seems simply rescued.",
+    "You distinguish causes, reasons, coercion and prediction.",
+    "You see the traditional problem may remain, reframed."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "will-concept",
@@ -637,6 +957,22 @@
    "Which question of mine sounds deep but mixes the grammar of two different words?",
    "What would a beginner need to learn to use one of my professional terms correctly?"
   ],
+  "sectionQuestions": [
+   "What counts as breaking a promise, and what does that show about “promise”?",
+   "Do I understand a word I can define but cannot use?",
+   "Which rule in my life defines the activity rather than describing it?",
+   "Which label promises me more than its rules deliver?",
+   "When should a discovery about the world change how we use a word?"
+  ],
+  "guide": {
+   "say": "Philosophical grammar is the network of rules that gives an expression its use. Essence is expressed by grammar, not hidden behind it.",
+   "read": "Read PG §10 with PI §371–373; treat the chess comparison as this lesson’s analogy.",
+   "grow": [
+    "Grammar as a broader kind of rule.",
+    "Deep-sounding questions turn out to be about use.",
+    "You ask when the world should force our grammar to change."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "grammar-concept",
@@ -668,6 +1004,22 @@
    "Where have I judged someone’s practice as a mistake when it was an expression?",
    "What would be lost if I explained one of my rituals away?"
   ],
+  "sectionQuestions": [
+   "Which practice did I explain before I understood it?",
+   "What object do I keep for reasons that have nothing to do with effects?",
+   "What would I need to learn before judging an unfamiliar ritual?",
+   "What would my family’s rituals mean to someone outside them?",
+   "When does “it’s expressive, not causal” become my own projection?"
+  ],
+  "guide": {
+   "say": "Rituals are not always failed science. To understand an act, ask what it expresses in a life before asking whether it works.",
+   "read": "This is the German Frazer article; distinguish his remarks from Rhees’s introduction.",
+   "grow": [
+    "A defence of ritual.",
+    "A habit of understanding before judging.",
+    "Worry about projecting our own reactions onto others."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "ritual-concept",
@@ -699,6 +1051,22 @@
    "What circumstances make my feelings easy or hard for others to read?",
    "Is there an experience of mine that no expression seems to capture?"
   ],
+  "sectionQuestions": [
+   "What surroundings make my feelings what they are?",
+   "When do I describe a feeling, and when do I simply express it?",
+   "Does explaining how a word is learned tell me what it refers to?",
+   "Is my patience an experience, a disposition, or both?",
+   "Whose distress have I missed because it didn’t look the way I expected?"
+  ],
+  "guide": {
+   "say": "Psychological words are bound up with expression and circumstance. Peacocke argues this need not settle what such words refer to.",
+   "read": "Attribute carefully: keep Wittgenstein’s remarks, interpretations of them, and Peacocke’s critique distinct.",
+   "grow": [
+    "Feelings explained through behaviour.",
+    "A richer picture of expression and its surroundings.",
+    "The open question of reference and experience."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "psychology-concept",
@@ -730,6 +1098,22 @@
    "What is my fly-bottle: the familiar picture I keep bumping against?",
    "What reminder would help me most this week?"
   ],
+  "sectionQuestions": [
+   "Which picture do I understand is wrong but can’t give up?",
+   "How would I arrange examples to make one confusion visible?",
+   "Is my current problem missing a fact or tangled in a concept?",
+   "Which method fits the confusion I’m in right now?",
+   "What legitimate question remains after a confusion is cleared?"
+  ],
+  "guide": {
+   "say": "Philosophy clarifies; it does not discover new facts. It arranges what we know so a confusion dissolves, and often requires a change of will as well as intellect.",
+   "read": "Read §§109–133 as a whole; note there is no single method (§133).",
+   "grow": [
+    "Philosophy seems to shrink.",
+    "Clarification looks like real, difficult work.",
+    "You ask, case by case, what clarification can and cannot do."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "method-concept",
@@ -761,6 +1145,22 @@
    "Whose voice is speaking in the sentence I just read: the author’s, or an objector’s?",
    "What qualification in a text did I skip because it was inconvenient?"
   ],
+  "sectionQuestions": [
+   "Do I know which edition my favourite quotation comes from?",
+   "Can I hear two voices in the last remark I read?",
+   "Which qualification did I drop when I retold an idea?",
+   "Does knowing a German word change my reading, or only make it sound deeper?",
+   "What is the one objection I would raise to the remark I know best?"
+  ],
+  "guide": {
+   "say": "Remarks are compact dialogues with qualifications. Read them as part of an investigation, never as detachable slogans.",
+   "read": "Use the four moves: question, paraphrase, new case, objection.",
+   "grow": [
+    "Careful citation feels fussy.",
+    "You notice how often famous quotes drop a qualification.",
+    "Your notes start becoming small, checkable arguments."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "reading-lab-concept",
@@ -792,6 +1192,22 @@
    "What question would make tomorrow’s hardest conversation more precise?",
    "Which of today’s certainties should stay open to correction?"
   ],
+  "sectionQuestions": [
+   "Which word did someone use about me that needed its contrast spelled out?",
+   "When did I answer with facts when someone needed acknowledgement?",
+   "What new situation am I facing that my old examples don’t cover?",
+   "Which kind of problem am I treating with the wrong tool?",
+   "What did I notice today that I’ll want to revisit next week?"
+  ],
+  "guide": {
+   "say": "His tools sharpen attention: notice words doing too much, look at activities, and stay open to correction. They are not a complete guide to life.",
+   "read": "Match the tool to the problem: evidence, comparison of uses, or reasons for change.",
+   "grow": [
+    "A set of tips.",
+    "A habit of better questions.",
+    "An honest sense of what the method can’t do."
+   ]
+  },
   "illustrations": {
    "concept": {
     "file": "daily-life-concept",

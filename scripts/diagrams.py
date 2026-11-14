@@ -329,3 +329,79 @@ d.arrow(240, 45, 290, 88); d.arrow(290, 132, 240, 175); d.arrow(120, 175, 70, 13
 d.t(180, 115, 'a daily habit', 'tc')
 save(d, 'A daily cycle: notice a word, look at its use, compare cases, decide while staying open')
 print('wrote', len(os.listdir(OUT)), 'diagrams')
+
+# ---------- Section diagrams (one per section), from scripts/sections.py ----------
+import sys, textwrap
+sys.path.insert(0, os.path.dirname(__file__))
+from sections import S as SECTIONS
+SOUT = os.path.join(OUT, 'sections'); os.makedirs(SOUT, exist_ok=True)
+def wrap(txt, chars): return '\n'.join(textwrap.wrap(txt, chars, break_long_words=False)) or txt
+def tbox(d, x, y, w, h, txt, cls='b', tcls='t', chars=None, r=8):
+    d.add(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{r}" class="{cls}"/>')
+    lines = wrap(txt, chars or max(8, int(w/6.6))).split('\n')
+    y0 = y + h/2 - (len(lines)-1)*7.5 + 4.5
+    d.t(x+w/2, y0, '\n'.join(lines), tcls)
+def lines_of(txt, chars): return len(wrap(txt, chars).split('\n'))
+def render(sid, spec):
+    kind = spec[0]
+    if kind == 'vs':
+        _, ha, ta, hb, tb, note = spec
+        n = max(lines_of(ta, 21), lines_of(tb, 21)); bh = 30 + n*15
+        d = D(sid, 28 + bh + 16 + lines_of(note, 52)*15 + 6)
+        d.t(90, 18, ha.upper(), 'lab'); d.t(270, 18, hb.upper(), 'lab')
+        tbox(d, 15, 28, 150, bh, ta, 'b', 'tp', 21); tbox(d, 195, 28, 150, bh, tb, 'bc', 'tc', 21)
+        d.t(180, 28 + bh/2 + 4, 'vs', 's')
+        nl = wrap(note, 52); d.t(180, 28 + bh + 24, nl, 's')
+        return d
+    if kind == 'flow':
+        _, steps, note = spec
+        k = len(steps); gap = 14; w = (330 - gap*(k-1)) / k; ch = max(6, int(w/(6.0 if k >= 4 else 7.2)))
+        n = max(lines_of(s, ch) for s in steps); bh = 26 + n*15
+        d = D(sid, 20 + bh + 50)
+        for i, s in enumerate(steps):
+            x = 15 + i*(w+gap); tbox(d, x, 15, w, bh, s, 'b' if i < k-1 else 'bc', ('t' if i < k-1 else 'tc') + (' sm' if k >= 4 else ''), ch)
+            if i < k-1: d.arrow(x+w+1, 15+bh/2, x+w+gap-1, 15+bh/2)
+        d.t(180, 15 + bh + 26, wrap(note, 52), 's')
+        return d
+    if kind == 'hub':
+        _, center, spokes, note = spec
+        k = len(spokes); cols = 2 if k <= 4 else 3; rows = (k + cols - 1)//cols
+        w = (330 - (cols-1)*12)/cols; ch = max(8, int(w/7.2))
+        bh = 18 + max(lines_of(s, ch) for s in spokes)*15
+        top = 18 + 16 + lines_of(center, 40)*15
+        d = D(sid, top + 22 + rows*(bh+12) + 34)
+        tbox(d, 70, 10, 220, top-6, center, 'bc', 'tc', 36, 16)
+        for i, s in enumerate(spokes[:cols]):
+            x = 15 + i*(w+12); d.line(180, top+4, x+w/2, top+22, 'k', True)
+        if rows > 1: d.add(f'<rect x="8" y="{top+16}" width="344" height="{rows*(bh+12)}" rx="12" class="grp"/>')
+        for i, s in enumerate(spokes):
+            r, c = divmod(i, cols); x = 15 + c*(w+12); y = top + 22 + r*(bh+12)
+            tbox(d, x, y, w, bh, s, 'b', 't', ch)
+        d.t(180, top + 22 + rows*(bh+12) + 16, wrap(note, 52), 's')
+        return d
+    if kind == 'stack':
+        _, layers, note = spec
+        bh = 34; d = D(sid, 14 + len(layers)*(bh+8) + 40)
+        for i, s in enumerate(layers):
+            inset = (len(layers)-1-i)*14
+            tbox(d, 15+inset, 12+i*(bh+8), 330-2*inset, bh, s, 'b' if i < len(layers)-1 else 'bc', 'tp' if i < len(layers)-1 else 'tc', 48)
+        d.t(180, 12 + len(layers)*(bh+8) + 18, wrap(note, 52), 's')
+        return d
+    if kind == 'branch':
+        _, root, a, b, note = spec
+        n = max(lines_of(a, 21), lines_of(b, 21)); bh = 24 + n*15
+        rh = 24 + lines_of(root, 40)*15
+        d = D(sid, 12 + rh + 34 + bh + 46)
+        tbox(d, 60, 10, 240, rh, root, 'bc', 'tc', 38)
+        y = 10 + rh + 34
+        d.arrow(150, 12+rh, 90, y-2, 'p'); d.arrow(210, 12+rh, 270, y-2, 'c')
+        tbox(d, 15, y, 150, bh, a, 'b', 'tp', 21); tbox(d, 195, y, 150, bh, b, 'b', 't', 21)
+        d.t(180, y + bh + 26, wrap(note, 52), 's')
+        return d
+    raise ValueError(kind)
+count = 0
+for lid, secs in SECTIONS.items():
+    for i, (spec, q) in enumerate(secs):
+        d = render(f'{lid}-{i}', spec)
+        open(os.path.join(SOUT, f'{lid}-{i}.svg'), 'w').write(d.svg(spec[-1])); count += 1
+print('wrote', count, 'section diagrams')
