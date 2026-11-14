@@ -24,7 +24,7 @@ await rm(dist,{recursive:true,force:true});await mkdir(dist,{recursive:true});
 for(const file of ['index.html','app.js','core.mjs','storage.mjs','experiments.mjs','epub.mjs','styles.css','manifest.webmanifest','data','assets'])await cp(path.join(root,file),path.join(dist,file),{recursive:true});
 // Inline each diagram and record which illustrations exist (assets/illustrations/<id>-concept|example.webp).
 const findImage=async name=>{for(const ext of ['webp','jpg','png']){try{await stat(path.join(root,'assets/illustrations',`${name}.${ext}`));return `./assets/illustrations/${name}.${ext}`;}catch{}}return null;};
-const built=[];for(const v of visuals){const svg=(await readFile(path.join(root,'assets/diagrams',`${v.id}.svg`),'utf8')).trim();const ill={};for(const [k,i] of Object.entries(v.illustrations||{}))ill[k]={src:await findImage(i.file),alt:i.alt||''};built.push({id:v.id,plain:v.plain,diagramCaption:v.diagramCaption,diagram:svg,example:v.example,illustrations:ill});}
+const built=[];for(const v of visuals){const svg=(await readFile(path.join(root,'assets/diagrams',`${v.id}.svg`),'utf8')).trim();const ill={};for(const [k,i] of Object.entries(v.illustrations||{}))ill[k]={src:await findImage(i.file),alt:i.alt||''};if(!v.insight?.misreading||!v.insight?.matters||v.askYourself?.length!==3)throw new Error(`Missing insight or questions for ${v.id}`);built.push({id:v.id,plain:v.plain,diagram:svg,example:v.example,insight:v.insight,askYourself:v.askYourself,illustrations:ill});}
 await writeFile(path.join(dist,'data/visuals.json'),JSON.stringify(built));
 await rm(path.join(dist,'assets/diagrams'),{recursive:true,force:true});
 const illustrationCount=built.reduce((n,v)=>n+Object.values(v.illustrations).filter(i=>i.src).length,0);

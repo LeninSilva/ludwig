@@ -1,5 +1,5 @@
 export const NAV = [
-  ['home','Home','home'],['readings','Readings','book'],['explore','Experiments','spark'],['daily','Today','sun'],['glossary','Key words','type'],['sources','Sources','library'],['notebook','Notes','pen']
+  ['home','Home','home'],['readings','Readings','book'],['explore','Experiments','spark'],['daily','Today','sun'],['glossary','Key words','type'],['sources','Sources','library'],['questions','Questions','question'],['notebook','Notes','pen']
 ];
 export function localDate(date = new Date()) {
   return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;
@@ -25,11 +25,11 @@ export function validateBackup(data) {
   if (['normal','large','larger'].includes(p.font)) clean.font=p.font;
   for(const key of ['completed','bookmarks','seen']) if(Array.isArray(p[key])) clean[key]=[...new Set(p[key].filter(x=>typeof x==='string'&&x.length<200))];
   if(typeof p.lastLesson==='string'&&p.lastLesson.length<200) clean.lastLesson=p.lastLesson;
-  return {notes:data.notes.map(n=>({id:n.id,title:n.title,body:n.body,updated:n.updated,created:typeof n.created==='string'?n.created:n.updated,lesson:n.lesson??null,section:n.section??null})),preferences:clean};
+  return {notes:data.notes.map(n=>({id:n.id,title:n.title,body:n.body,updated:n.updated,created:typeof n.created==='string'?n.created:n.updated,lesson:n.lesson??null,section:n.section??null,edits:Array.isArray(n.edits)?n.edits.filter(e=>typeof e==='string'&&!Number.isNaN(Date.parse(e))).slice(-1000):[]})),preferences:clean};
 }
 export function mergeNotes(current, incoming) {
   const map=new Map(current.map(n=>[n.id,n]));
-  for(const n of incoming) { const old=map.get(n.id);if(!old||Date.parse(n.updated)>Date.parse(old.updated))map.set(n.id,n); }
+  for(const n of incoming) { const old=map.get(n.id);if(!old||Date.parse(n.updated)>Date.parse(old.updated)){const edits=[...new Set([...(old?.edits||[]),...(n.edits||[])])].sort();map.set(n.id,{...n,edits});} }
   return [...map.values()];
 }
-export function noteMarkdown(note) {return `# ${note.title||'Untitled thought'}\n\n${note.body}\n\n---\nUpdated: ${note.updated}\n${note.lesson?`Reading: ${note.lesson}${note.section?' · '+note.section:''}\n`:''}`;}
+export function noteMarkdown(note) {return `# ${note.title||'Untitled note'}\n\n${note.body}\n\n---\nStarted: ${note.created||note.updated}\n${(note.edits||[]).length?`Edited: ${note.edits.join(', ')}\n`:''}Last saved: ${note.updated}\n${note.lesson?`Reading: ${note.lesson}${note.section?' · '+note.section:''}\n`:''}`;}

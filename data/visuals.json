@@ -8,13 +8,24 @@
    "text": "Asked out of the blue, you are stuck. Yet you use “time” perfectly well every day: “Is it time to go?”, “That took a long time.” Looking at those uses helps more than hunting for a hidden essence of time.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein offers a set of wise sayings to collect. His later work is closer to a training in looking: the value is in the practice, not the quotations.",
+   "matters": "Many arguments stall because both sides share a hidden picture. Learning to spot that picture is useful in any field, from law to science to a family disagreement."
+  },
+  "askYourself": [
+   "Which question have I been stuck on because I assumed it must have one hidden answer?",
+   "When I say I “don’t understand” something, is information missing, or am I unsure how the words are being used?",
+   "What familiar thing would I describe differently if I looked at it slowly?"
+  ],
   "illustrations": {
    "concept": {
     "file": "begin-concept",
+    "alt": "A person standing in a cluttered study, gently untangling a large knotted ball of thread that becomes neat parallel lines as it leaves their hands; a window with soft daylight.",
     "prompt": "A person standing in a cluttered study, gently untangling a large knotted ball of thread that becomes neat parallel lines as it leaves their hands; a window with soft daylight. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "begin-example",
+    "alt": "A person at a kitchen table glancing at a wall clock and a calendar while putting on a coat, a small tangled ribbon-shaped thought cloud gently unravelling into a simple ribbon.",
     "prompt": "A person at a kitchen table glancing at a wall clock and a calendar while putting on a coat, a small thought cloud with a question mark that is unravelling into a simple ribbon. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -28,13 +39,24 @@
    "text": "You place the salt for your car and the pepper for the other car. Nobody thinks the shakers are cars, yet the layout shows what happened, and someone could say “No, it was the other way round.”",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That every sentence is literally a little photograph. The point is structural: parts that stand for things, arranged in a way that can match or fail to match.",
+   "matters": "It separates making sense from being true. You can understand a claim fully before you know whether it is correct, which is exactly what lets you test it."
+  },
+  "askYourself": [
+   "What would have to be the case for this claim I believe to be false?",
+   "Which of my maps, charts or plans do I treat as reality rather than as a model of it?",
+   "Do I understand this sentence, or do I only know that people say it?"
+  ],
   "illustrations": {
    "concept": {
     "file": "picture-concept",
+    "alt": "A tabletop model of a street junction made of buttons and matchsticks, with a faint ghostly image of real cars at the same junction hovering above it, dotted lines linking each button to a car.",
     "prompt": "A tabletop model of a street junction made of buttons and matchsticks, with a faint ghostly image of real cars at the same junction hovering above it, dotted lines linking each button to a car. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "picture-example",
+    "alt": "Two friends at a café table, one pushing a salt shaker and a pepper shaker across the tablecloth to re-enact a small car accident, the other leaning in to watch.",
     "prompt": "Two friends at a café table, one pushing a salt shaker and a pepper shaker across the tablecloth to re-enact a small car accident, the other leaning in to watch. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -48,13 +70,24 @@
    "text": "A cup, a book and a lamp sit on your desk. Move the cup from the book to the shelf: no new thing appeared, yet what is the case has changed.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That the world is simply the sum of objects in it. In the Tractatus, the world is made of facts: how objects are combined, not a catalogue of them.",
+   "matters": "Changes often happen in arrangements, not in things. Two situations with the same parts can be entirely different, a useful lens for teams, homes and systems."
+  },
+  "askYourself": [
+   "What in my life changed recently without anything new being added, only rearranged?",
+   "When I describe a problem, am I listing things or saying how they stand to each other?",
+   "Which arrangement around me would I change first, if I could change only one?"
+  ],
   "illustrations": {
    "concept": {
     "file": "facts-concept",
+    "alt": "Two side-by-side panels of the same desk with the same three objects (a cup, a book, a lamp); in one the cup rests on the book, in the other it sits on a shelf.",
     "prompt": "Two side-by-side panels of the same desk with the same three objects (a cup, a book, a lamp); in one the cup rests on the book, in the other it sits on a shelf. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "facts-example",
+    "alt": "A hand lifting a coffee cup off a closed book on a tidy desk and placing it on a shelf, motion suggested with soft curved lines.",
     "prompt": "A hand lifting a coffee cup off a closed book on a tidy desk and placing it on a shelf, motion suggested with soft curved lines. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -68,13 +101,24 @@
    "text": "A weather app that always says “Rain or no rain tomorrow” is never wrong, and never helpful. Its sentence is perfectly logical and completely empty of news.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That logical truths are pointless because they say nothing. For the Tractatus they are not failed information; they show the structure every informative sentence relies on.",
+   "matters": "It helps you tell when an argument has given you news and when it has only rearranged what you already assumed."
+  },
+  "askYourself": [
+   "Which of my firm statements could never turn out wrong, and is that a strength or a sign it says nothing?",
+   "In the last argument I heard, what new information was actually given?",
+   "When I feel certain, is it because of the world or because of how I defined my terms?"
+  ],
   "illustrations": {
    "concept": {
     "file": "logic-concept",
+    "alt": "A calm landscape split down the middle: rain on one side, sunshine on the other, with a single umbrella-shaped sign in the centre covering both halves equally.",
     "prompt": "A calm landscape split down the middle: rain on one side, sunshine on the other, with a single umbrella-shaped sign in the centre covering both halves equally. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "logic-example",
+    "alt": "A person looking at a phone whose screen shows half a raincloud and half a sun, shrugging with a gentle, amused expression.",
     "prompt": "A person looking at a phone whose screen shows half a raincloud and half a sun, shrugging with a gentle, amused expression. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -88,13 +132,24 @@
    "text": "You can describe every word of a joke and still not show why it is funny; the humour shows itself when someone gets it. Some understanding is reached rather than stated.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That what cannot be said is unimportant or unreal. The Tractatus suggests almost the opposite: some of what matters most shows itself rather than being stated.",
+   "matters": "It invites humility about explanation. Some understanding is reached by seeing, practising or living, not by adding one more sentence."
+  },
+  "askYourself": [
+   "What do I know that I have never managed to put into words?",
+   "Where have I tried to explain something that someone could only see for themselves?",
+   "Which ladder (idea, habit, theory) have I already climbed and could now put down?"
+  ],
   "illustrations": {
    "concept": {
     "file": "limits-concept",
+    "alt": "A wooden ladder leaning against a high stone wall in a meadow, a figure at the top looking out over a wide view, the ladder about to be set aside.",
     "prompt": "A wooden ladder leaning against a high stone wall in a meadow, a figure at the top looking out over a wide view, the ladder about to be set aside. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "limits-example",
+    "alt": "Two friends laughing together at a café table while a third person looks at a notebook of written-out explanations, puzzled.",
     "prompt": "Two friends laughing together at a café table while a third person looks at a notebook of written-out explanations, puzzled. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -108,13 +163,24 @@
    "text": "“That’s a good knife” means it cuts well, and you can test it. “He is a good person” isn’t settled by any test of that kind, though it matters far more.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein dismisses ethics as meaningless. In the Lecture on Ethics he treats the urge to speak about absolute value with deep respect, while doubting it can be stated as fact.",
+   "matters": "It keeps two questions apart: “does this work?” and “is this good?” Many decisions blur them."
+  },
+  "askYourself": [
+   "When I call something “good”, do I mean good for a purpose, or good, full stop?",
+   "What would I still care about even if every fact were settled?",
+   "Which decision this week did I treat as a technical problem when it was really about value?"
+  ],
   "illustrations": {
    "concept": {
     "file": "ethics-concept",
+    "alt": "A large old book open on a lectern, its pages filled with precise measurements and charts, while a small figure outside the window helps someone carry groceries; warm light falls on the helper, not the book.",
     "prompt": "A large old book open on a lectern, its pages filled with precise measurements and charts, while a small figure outside the window helps someone carry groceries; warm light falls on the helper, not the book. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "ethics-example",
+    "alt": "A kitchen knife slicing a tomato cleanly on one side of the image; on the other, a person holding a door open for an elderly neighbour.",
     "prompt": "A kitchen knife slicing a tomato cleanly on one side of the image; on the other, a person holding a door open for an elderly neighbour. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -128,13 +194,24 @@
    "text": "In surgery, one word is a complete order. Outside the operating room the same word might be a question, a joke or a spelling test. The activity sets its job.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That “language-game” means language is trivial play or that everything is a game. The word stresses activity: speaking is part of doing things together.",
+   "matters": "Before judging what someone said, ask what they were doing: ordering, joking, warning, reporting. Many misunderstandings are mismatched games."
+  },
+  "askYourself": [
+   "In my last disagreement, were we even playing the same language-game?",
+   "Which single word at my work does the job of a whole sentence?",
+   "What would someone new to my world need to see, not just hear, to understand our words?"
+  ],
   "illustrations": {
    "concept": {
     "file": "builders-concept",
+    "alt": "Two builders on a sunny building site: one calls out with a raised hand while the other carries a large stone slab toward them; stacks of blocks, pillars and beams around.",
     "prompt": "Two builders on a sunny building site: one calls out with a raised hand while the other carries a large stone slab toward them; stacks of blocks, pillars and beams around. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "builders-example",
+    "alt": "An operating theatre seen in soft muted colours: a surgeon extends an open hand and a nurse places an instrument in it, both focused and calm.",
     "prompt": "An operating theatre seen in soft muted colours: a surgeon extends an open hand and a nurse places an instrument in it, both focused and calm. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -148,13 +225,24 @@
    "text": "“I’m fine” can mean “I’m well”, “stop asking” or “I’m not fine at all”, depending on tone and situation. You learn what it means by seeing how it is used.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That meaning is “whatever people use a word for”, so anything goes. §43 says use explains meaning for a large class of cases, and use itself has standards.",
+   "matters": "It frees you from hunting for hidden definitions and turns you toward something you can observe: what a word does here."
+  },
+  "askYourself": [
+   "Which word do I use in two different ways without noticing?",
+   "If I stopped asking what a word means and asked what it does, what changes?",
+   "What word causes friction between me and someone close to me, and how do we each use it?"
+  ],
   "illustrations": {
    "concept": {
     "file": "meaning-use-concept",
+    "alt": "An open wooden toolbox in which the tools (hammer, screwdriver, ruler, glue pot) each have a small word-shaped tag, laid out neatly on a workbench.",
     "prompt": "An open wooden toolbox in which the tools (hammer, screwdriver, ruler, glue pot) each have a small word-shaped tag, laid out neatly on a workbench. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "meaning-use-example",
+    "alt": "Three small scenes in a row of the same person saying a word: smiling at a café, turning away from a nosy colleague, and staring at rain from a window with crossed arms.",
     "prompt": "Three small scenes in a row of the same person saying a word: smiling at a café, turning away from a nosy colleague, and staring at rain from a window with crossed arms. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -168,13 +256,24 @@
    "text": "Football has teams, golf doesn’t; chess has competition but little running; yoga has skill but no winner. There is no one common feature, yet we use “sport” without trouble.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That family resemblance means concepts are vague or useless. Blurred edges still guide us, the way a rough map still gets you home.",
+   "matters": "It warns against forcing a single definition where none exists, which matters whenever a label decides how people are treated."
+  },
+  "askYourself": [
+   "Which label do I apply as if it had one essential feature, when it really covers a family?",
+   "Where would a strict definition do more harm than a set of good examples?",
+   "What are three very different things I call by the same name, and what links each pair?"
+  ],
   "illustrations": {
    "concept": {
     "file": "family-concept",
+    "alt": "A family portrait of four generations: each person shares some features with a neighbour (the same nose, the same eyes, the same hair) but no single feature runs through them all.",
     "prompt": "A family portrait of four generations: each person shares some features with a neighbour (the same nose, the same eyes, the same hair) but no single feature runs through them all. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "family-example",
+    "alt": "A park scene with people playing chess on a bench, kids playing catch, someone playing solitaire, and a child playing pretend with a cardboard crown.",
     "prompt": "A park scene with people playing chess on a bench, kids playing catch, someone playing solitaire, and a child playing pretend with a cardboard crown. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -188,13 +287,24 @@
    "text": "A traveller can know the word for “tip” and still be lost about when to give one, how much, and what it means. The word only makes sense against a whole practice.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That “form of life” means each culture lives in a sealed bubble and cannot be judged or understood from outside. The term points to shared human background, not a license for relativism.",
+   "matters": "Understanding someone may require sharing more than vocabulary: their practices, timing, gestures and stakes."
+  },
+  "askYourself": [
+   "Which of my habits would make my words hard to understand for someone outside my life?",
+   "What practice gives my most important words their sense?",
+   "When I misunderstood someone recently, was it the words or the life around them?"
+  ],
   "illustrations": {
    "concept": {
     "file": "life-concept",
+    "alt": "A bustling village square: people greeting, a market stall weighing apples, children playing, a small funeral procession at the edge; speech is suggested only by gestures.",
     "prompt": "A bustling village square: people greeting, a market stall weighing apples, children playing, a small funeral procession at the edge; speech is suggested only by gestures. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "life-example",
+    "alt": "A traveller at a restaurant table holding coins over the bill, hesitating, while a waiter waits politely.",
     "prompt": "A traveller at a restaurant table holding coins over the bill, hesitating, while a waiter waits politely. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -208,13 +318,24 @@
    "text": "The pattern says “knit two, purl two”. You understand it when your hands can keep going row after row, not when you can recite it.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That rule-following is a mystery with no answer, so “anything could be correct”. The remarks show correctness lives in shared practice, training and correction.",
+   "matters": "It changes how you think about learning: understanding shows in what you can do next, not in a feeling of having got it."
+  },
+  "askYourself": [
+   "What do I “understand” in theory but can’t yet go on with in practice?",
+   "Who taught me how to continue a practice I now take for granted?",
+   "When someone surprises me by following a rule differently, what did our training leave open?"
+  ],
   "illustrations": {
    "concept": {
     "file": "going-on-concept",
+    "alt": "A teacher and a pupil at a blackboard showing a repeated geometric pattern of dots and paired strokes; the visual pattern runs smoothly then forks into two possible continuations at the edge of the board.",
     "prompt": "A teacher and a pupil at a blackboard covered with a number series; the series runs smoothly then forks into two paths at the edge of the board. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "going-on-example",
+    "alt": "Hands knitting a scarf, the pattern of stitches visibly repeating, a printed pattern card lying beside the yarn.",
     "prompt": "Hands knitting a scarf, the pattern of stitches visibly repeating, a printed pattern card lying beside the yarn. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -228,13 +349,24 @@
    "text": "Imagine a recipe that says “season to taste”, then a note explaining “to taste”, then a note explaining that note… A cook just tastes and adds salt.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That because any rule can be interpreted many ways, there is no right way to follow it. Wittgenstein’s point is that grasping a rule is not an interpretation at all.",
+   "matters": "It explains why endless clarification can make things worse. At some point action, not another explanation, shows understanding."
+  },
+  "askYourself": [
+   "Where am I asking for one more explanation instead of trying?",
+   "Which instructions do I follow perfectly without being able to justify them?",
+   "When did a discussion of “what we really meant” stop helping?"
+  ],
   "illustrations": {
    "concept": {
     "file": "interpretation-concept",
+    "alt": "A traveller standing at a wooden signpost in open country; the signpost points down a path, and the traveller is already walking that path.",
     "prompt": "A traveller standing at a wooden signpost in open country; the signpost points down a path, and the traveller is already walking that path. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "interpretation-example",
+    "alt": "A cook tasting soup from a wooden spoon over a pot, a recipe card on the counter with a long trail of tiny footnotes spilling off its edge.",
     "prompt": "A cook tasting soup from a wooden spoon over a pot, a recipe card on the counter with a long trail of tiny footnotes spilling off its edge. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -248,13 +380,24 @@
    "text": "Someone writes “S” in a diary whenever a certain feeling comes back. But what decides whether today’s feeling is really the same one? If only memory decides, “seems right” and “is right” can’t come apart.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein denies private feelings or inner life. The target is a language whose meaning could be fixed only by one person’s inner impressions.",
+   "matters": "It shows how deeply public our words for feelings are, which can make us both more careful and more confident when we speak about what we feel."
+  },
+  "askYourself": [
+   "How did I learn the word for the feeling I find hardest to describe?",
+   "When I say “no one could understand how I feel”, what exactly is out of reach?",
+   "How do I check whether I am using a feeling word the same way as before?"
+  ],
   "illustrations": {
    "concept": {
     "file": "private-concept",
+    "alt": "A small open diary on a nightstand, with the same small non-alphabetic ink mark repeated in several cells of an unlabelled diary grid, lit by a bedside lamp at night.",
     "prompt": "A small open diary on a nightstand, with the letter S written on several days of a calendar page, lit by a bedside lamp at night. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "private-example",
+    "alt": "A person sitting on the edge of a bed in the morning, pen in hand over a diary, pausing with a thoughtful, unsure expression.",
     "prompt": "A person sitting on the edge of a bed in the morning, pen in hand over a diary, pausing with a thoughtful, unsure expression. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -268,13 +411,24 @@
    "text": "You can’t compare your taste experience with mine directly, yet we both say coriander is soapy or fresh and argue about it. The shared word lives in what we say and do.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That the beetle example says experiences don’t exist. It says the private object drops out of the word’s public meaning, not out of life.",
+   "matters": "We can talk meaningfully about feelings without comparing hidden contents, which can ease worries about whether anyone ever truly understands us."
+  },
+  "askYourself": [
+   "Which of my words would still work even if what “is in my box” were different?",
+   "Where do I assume others feel exactly as I do because we use the same word?",
+   "What would it mean to understand someone’s pain without having it?"
+  ],
   "illustrations": {
    "concept": {
     "file": "beetle-concept",
+    "alt": "A row of people each holding a small closed wooden box close to their chest, each peeking into their own box; one of them is speaking to the others.",
     "prompt": "A row of people each holding a small closed wooden box close to their chest, each peeking into their own box; one of them is speaking to the others. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "beetle-example",
+    "alt": "Two friends at a market stall smelling fresh coriander, one wrinkling their nose, the other smiling.",
     "prompt": "Two friends at a market stall smelling fresh coriander, one wrinkling their nose, the other smiling. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -288,13 +442,24 @@
    "text": "A clean toothpick is evidence that the cake is baked. Being cooked through is what being done means. Evidence can mislead; that is why we still sometimes cut into a raw cake.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That criteria are infallible proofs. Wittgenstein’s view is debated, but criteria concern what counts as something, and circumstances can still defeat a judgement.",
+   "matters": "Separating “what counts as X” from “what suggests X” sharpens decisions in medicine, hiring, grading and everyday trust."
+  },
+  "askYourself": [
+   "What am I treating as proof that is only evidence?",
+   "What, for me, counts as someone being kind, honest or rested?",
+   "Which of my judgements would change if I changed my criteria rather than gathering more evidence?"
+  ],
   "illustrations": {
    "concept": {
     "file": "criteria-concept",
+    "alt": "A city street in two panels: one with rain visibly falling on umbrellas, the other dry sky but wet pavement and a street-cleaning truck around the corner.",
     "prompt": "A city street in two panels: one with rain visibly falling on umbrellas, the other dry sky but wet pavement and a street-cleaning truck around the corner. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "criteria-example",
+    "alt": "A person pulling a toothpick out of a cake in an oven, examining it in warm kitchen light.",
     "prompt": "A person pulling a toothpick out of a cake in an oven, examining it in warm kitchen light. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -308,13 +473,24 @@
    "text": "You look at a stranger and suddenly see your brother’s smile in them. Their face hasn’t changed, but now you can’t unsee the likeness.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That seeing an aspect is just adding an interpretation in words. The change is in the seeing itself, though it depends on concepts and abilities.",
+   "matters": "Insight often means seeing the same material differently. Nothing new arrives, yet everything looks changed."
+  },
+  "askYourself": [
+   "What in my life have I suddenly seen differently, though nothing about it changed?",
+   "Which aspect of a person close to me have I stopped being able to see?",
+   "What would help someone see the aspect I see, without forcing them?"
+  ],
   "illustrations": {
    "concept": {
     "file": "aspects-concept",
+    "alt": "A large wire-frame cube drawn on paper on an easel, with two faint viewers on either side seeing it from above and from below.",
     "prompt": "A large wire-frame cube drawn on paper on an easel, with two faint viewers on either side seeing it from above and from below. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "aspects-example",
+    "alt": "A person on a train looking up from a book, struck by a passenger across the aisle, with a small inset memory-frame showing a sibling with the same smile.",
     "prompt": "A person on a train looking up from a book, struck by a passenger across the aisle, with a small inset memory-frame showing a sibling with the same smile. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -328,13 +504,24 @@
    "text": "You can doubt one charge and check it, but only because you take for granted that the numbers on the page don’t change while you read them.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That hinge certainties are proven truths or arbitrary dogmas. They function as the background that makes checking possible, and that role can shift over time.",
+   "matters": "Knowing which beliefs are hinges for you helps you argue honestly: some disagreements are about evidence, others about what stands fast."
+  },
+  "askYourself": [
+   "What do I never check because checking anything depends on it?",
+   "Which of my hinges has moved over the years?",
+   "In a deep disagreement, are we arguing about evidence or about what stands fast?"
+  ],
   "illustrations": {
    "concept": {
     "file": "hinges-concept",
+    "alt": "A heavy wooden door swinging open on two large iron hinges, the hinges lit warmly and the door slightly blurred as it moves.",
     "prompt": "A heavy wooden door swinging open on two large iron hinges, the hinges lit warmly and the door slightly blurred as it moves. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "hinges-example",
+    "alt": "A person at a kitchen table holding a paper bank statement, circling one line with a pencil, a calculator nearby.",
     "prompt": "A person at a kitchen table holding a paper bank statement, circling one line with a pencil, a calculator nearby. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -348,13 +535,24 @@
    "text": "Halfway to work, you wonder if you locked the door. You can go back, try the handle and settle it. Doubting whether the door exists at all would leave you nothing to check.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein refutes skepticism with a knock-down proof. He asks what doubting needs in order to be real doubt, which changes the question rather than ending it.",
+   "matters": "It helps you match checking to stakes: doubt where a mistake is possible and testable, and notice when anxiety imitates doubt."
+  },
+  "askYourself": [
+   "Which of my worries has a way to check, and which has none?",
+   "What would count as settling my current doubt?",
+   "Where am I checking far more, or far less, than the situation warrants?"
+  ],
   "illustrations": {
    "concept": {
     "file": "doubt-concept",
+    "alt": "A person walking back up a garden path to try a front-door handle, while a second, faint version of the same person stands confused in an empty, featureless space.",
     "prompt": "A person walking back up a garden path to try a front-door handle, while a second, faint version of the same person stands confused in an empty, featureless space. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "doubt-example",
+    "alt": "A person on a bus checking their keys and looking back over their shoulder toward home.",
     "prompt": "A person on a bus checking their keys and looking back over their shoulder toward home. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -368,13 +566,24 @@
    "text": "Green glass makes things look green. But a “white glass” would just look milky; things behind it wouldn’t look white. The puzzle is about how “white” works, not about physics.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That the colour remarks are amateur optics. They investigate the logic of colour words, which no experiment alone can settle.",
+   "matters": "Learning to separate a factual question from a conceptual one saves time and confusion, in science and in arguments."
+  },
+  "askYourself": [
+   "Is the question I’m stuck on answered by finding out, or by clarifying what I mean?",
+   "Which word do I use precisely in one setting and loosely in another?",
+   "What colour (or taste, or sound) can I not put into words at all?"
+  ],
   "illustrations": {
    "concept": {
     "file": "colour-concept",
+    "alt": "A painter’s table with paint tubes, a sheet of white paper beside snow outside a window, and a pane of tinted glass casting coloured light.",
     "prompt": "A painter’s table with paint tubes, a sheet of white paper beside snow outside a window, and a pane of tinted glass casting coloured light. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "colour-example",
+    "alt": "Hands holding up a pane of green glass and a pane of milky glass in front of a window, the view through one green, through the other cloudy.",
     "prompt": "Hands holding up a pane of green glass and a pane of milky glass in front of a window, the view through one green, through the other cloudy. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -388,13 +597,24 @@
    "text": "Your friend can predict you’ll order coffee at 8 a.m. That prediction doesn’t make you order it; you do, for your own reasons.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That because behaviour can be predicted, it must be forced. The lecture separates regularity, prediction and compulsion, though the debate stays open.",
+   "matters": "It frees ordinary talk of choosing from a picture of invisible hands pushing us, while staying honest about patterns."
+  },
+  "askYourself": [
+   "Which of my habits do I describe as if I were forced?",
+   "When someone predicts my choice, does that make it less mine?",
+   "What do I mean when I say I “had no choice”?"
+  ],
   "illustrations": {
    "concept": {
     "file": "will-concept",
+    "alt": "A calm figure walking along a path of evenly spaced footprints, contrasted with a faint second figure being shoved by a large hand, the two separated by a clear line.",
     "prompt": "A calm figure walking along a path of evenly spaced footprints, contrasted with a faint second figure being shoved by a large hand, the two separated by a clear line. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "will-example",
+    "alt": "A person ordering coffee at a café counter at 8 a.m. while a friend nearby smiles knowingly, holding up a clock.",
     "prompt": "A person ordering coffee at a café counter at 8 a.m. while a friend nearby smiles knowingly, holding up a clock. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -408,13 +628,24 @@
    "text": "Lose the king from a chess set and use a bottle cap instead. It works perfectly, because what makes it the king is the moves allowed, not the carving.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein’s grammar is school grammar. It is the network of rules for using a word: what follows from it, what makes sense to say with it.",
+   "matters": "Many “deep” puzzles turn out to be grammatical: they come from using a word outside the setting that gives it sense."
+  },
+  "askYourself": [
+   "What can and can’t sensibly be said with a word I care about, like “love” or “success”?",
+   "Which question of mine sounds deep but mixes the grammar of two different words?",
+   "What would a beginner need to learn to use one of my professional terms correctly?"
+  ],
   "illustrations": {
    "concept": {
     "file": "grammar-concept",
+    "alt": "A chessboard seen from above with a carved king, soft arrows showing its possible one-square moves, and the other pieces at rest.",
     "prompt": "A chessboard seen from above with a carved king, soft arrows showing its possible one-square moves, and the other pieces at rest. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "grammar-example",
+    "alt": "Two people playing chess on a porch where one king has been replaced by a bottle cap, both players perfectly serious.",
     "prompt": "Two people playing chess on a porch where one king has been replaced by a bottle cap, both players perfectly serious. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -428,13 +659,24 @@
    "text": "No one thinks the candles physically grant wishes, yet the act is full of meaning. Asking “does it work?” misses what it means.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein simply defends rituals as beyond criticism. He questions one interpreter’s assumption that all ritual is failed science; criticism remains possible.",
+   "matters": "It invites respect before judgement: ask what an act expresses in a life before asking whether it works."
+  },
+  "askYourself": [
+   "Which of my own rituals would look irrational to an outsider, and what do they express?",
+   "Where have I judged someone’s practice as a mistake when it was an expression?",
+   "What would be lost if I explained one of my rituals away?"
+  ],
   "illustrations": {
    "concept": {
     "file": "ritual-concept",
+    "alt": "A person by a window gently kissing a framed photograph, a candle and flowers on the sill, evening light.",
     "prompt": "A person by a window gently kissing a framed photograph, a candle and flowers on the sill, evening light. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "ritual-example",
+    "alt": "A family around a birthday cake as a child blows out the candles, everyone clapping.",
     "prompt": "A family around a birthday cake as a child blows out the candles, everyone clapping. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -448,13 +690,24 @@
    "text": "A toddler bumps a knee, cries, and a parent says “Ouch! That hurts.” The child learns “hurt” from the bump, the crying and the comfort together, not by pointing inward.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That feelings are “just behaviour”. The remarks connect experience with expression and circumstances without reducing one to the other, and critics like Peacocke press on the gaps.",
+   "matters": "It makes room for both your inner life and the public ways we come to understand it."
+  },
+  "askYourself": [
+   "How do I usually show a feeling I rarely name?",
+   "What circumstances make my feelings easy or hard for others to read?",
+   "Is there an experience of mine that no expression seems to capture?"
+  ],
   "illustrations": {
    "concept": {
     "file": "psychology-concept",
+    "alt": "Three overlapping circles drawn on paper on a desk, with a small figure in each: one holding their hand after touching a stove, one wincing, one with a calm inner glow.",
     "prompt": "Three overlapping circles drawn on paper on a desk, with a small figure in each: one holding their hand after touching a stove, one wincing, one with a calm inner glow. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "psychology-example",
+    "alt": "A parent kneeling to comfort a toddler with a bumped knee on a playground, the toddler mid-cry.",
     "prompt": "A parent kneeling to comfort a toddler with a bumped knee on a playground, the toddler mid-cry. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -468,13 +721,24 @@
    "text": "In a dark room you bump into furniture you know well. Turning on the light adds nothing new to the room; it lets you see what was already there.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That philosophy, for Wittgenstein, is pointless or merely negative. Clarification is the work: arranging what we know so a confusion dissolves.",
+   "matters": "Not every problem needs more data. Some need a better arrangement of what is already in front of us."
+  },
+  "askYourself": [
+   "Which problem of mine needs a clearer view rather than more information?",
+   "What is my fly-bottle: the familiar picture I keep bumping against?",
+   "What reminder would help me most this week?"
+  ],
   "illustrations": {
    "concept": {
     "file": "method-concept",
+    "alt": "A glass bottle on a windowsill with a fly inside; the bottle’s neck is open to the sky and a soft beam of light shows the way out.",
     "prompt": "A glass bottle on a windowsill with a fly inside; the bottle’s neck is open to the sky and a soft beam of light shows the way out. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "method-example",
+    "alt": "A hand switching on a lamp in a familiar living room, the furniture becoming clear, a person who had bumped a chair now smiling.",
     "prompt": "A hand switching on a lamp in a familiar living room, the furniture becoming clear, a person who had bumped a chair now smiling. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -488,13 +752,24 @@
    "text": "Note the hedge: meaning is use “for a large class of cases”, not for all. Dropping those words turns a careful remark into a slogan.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That a famous line can be quoted on its own. Remarks are often dialogues with qualifications; lifting them out can reverse their sense.",
+   "matters": "Close reading is a transferable skill: it protects you from slogans in any field."
+  },
+  "askYourself": [
+   "Which quotation do I repeat without knowing its context?",
+   "Whose voice is speaking in the sentence I just read: the author’s, or an objector’s?",
+   "What qualification in a text did I skip because it was inconvenient?"
+  ],
   "illustrations": {
    "concept": {
     "file": "reading-lab-concept",
+    "alt": "A reading desk with an open book, a pencil, small plain sticky tabs marking different sections and a magnifying glass resting on one paragraph.",
     "prompt": "A reading desk with an open book, a pencil, small sticky tabs marking numbered sections and a magnifying glass resting on one paragraph. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "reading-lab-example",
+    "alt": "A close-up of a page rendered as abstract, non-legible lines of ink: one line is underlined, and a pencil bracket carefully draws attention to a small qualifying introductory phrase; a hand pauses with a pencil nearby.",
     "prompt": "A close-up of a page with one sentence underlined and a margin note circling the words “a large class of cases”. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }
@@ -508,13 +783,24 @@
    "text": "Your team argues about whether a week was “productive”. Ask: productive in which sense? Shipped work, learning, rest? The argument often turns out to be several smaller, answerable questions.",
    "label": "Invented example"
   },
+  "insight": {
+   "misreading": "That Wittgenstein provides a complete method for living well. He offers tools for clearer seeing, which leave room for evidence, ethics and other people.",
+   "matters": "Small habits of attention to words make disagreements more precise and kinder."
+  },
+  "askYourself": [
+   "Which word did too much work in my day today?",
+   "What question would make tomorrow’s hardest conversation more precise?",
+   "Which of today’s certainties should stay open to correction?"
+  ],
   "illustrations": {
    "concept": {
     "file": "daily-life-concept",
+    "alt": "A person walking through an ordinary day (breakfast, a bus, an office, a park) with a small notebook, pausing to jot down a word at each stop.",
     "prompt": "A person walking through an ordinary day (breakfast, a bus, an office, a park) with a small notebook, pausing to jot down a word at each stop. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    },
    "example": {
     "file": "daily-life-example",
+    "alt": "A team around a whiteboard where a blank central circle splits into three branches ending in simple pictorial task icons, people nodding.",
     "prompt": "A team around a whiteboard where the word “productive” is circled and split into three branches, people nodding. Style: mid-century modernist print illustration, flat shapes with subtle paper grain, ivory paper background, pine green, muted terracotta, sand and sage accents, calm and inviting, no text, letters or numbers in the image, 4:3 landscape, 1600×1200 pixels."
    }
   }

@@ -1,0 +1,52 @@
+[
+ {
+  "question": "What job is this word doing here?",
+  "how": "Instead of “What does X mean?”, look at the situation it is used in.",
+  "example": "“Fair” in a game, a grade and a wage do different jobs."
+ },
+ {
+  "question": "What would count as being wrong?",
+  "how": "If nothing could show a claim false, ask whether it says anything.",
+  "example": "“Everything happens for a reason”: what event would count against it?"
+ },
+ {
+  "question": "Is this a question for finding out, or for clarifying?",
+  "how": "Some questions need evidence; others need a clearer grip on the words.",
+  "example": "“Is a virus alive?” is partly a question about how we use “alive”."
+ },
+ {
+  "question": "What picture is holding me captive?",
+  "how": "Notice the image behind a puzzle, then look for cases where it fails.",
+  "example": "The picture of the mind as a private room makes understanding others seem impossible."
+ },
+ {
+  "question": "Can I find an intermediate case?",
+  "how": "Fill the gap between two extremes with examples; the sharp line often blurs.",
+  "example": "Between a heap of sand and a few grains, where exactly does a heap begin?"
+ },
+ {
+  "question": "What stands fast for me here?",
+  "how": "Find the beliefs your doubt depends on before doubting.",
+  "example": "To doubt a news story you rely on dates, places and the meaning of words."
+ },
+ {
+  "question": "How did I learn this word?",
+  "how": "Recall the setting in which you first used it; meaning often lives there.",
+  "example": "You learned “sorry” from scraped knees and broken toys, not from a definition."
+ },
+ {
+  "question": "Who is speaking in this sentence?",
+  "how": "In dialogues and in your own thinking, separate the voice of temptation from the voice of reply.",
+  "example": "“But surely meaning is something in my head!” is the voice Wittgenstein answers."
+ },
+ {
+  "question": "What would I say to someone from a different form of life?",
+  "how": "Imagine explaining your practice to an outsider; what needs showing, not saying?",
+  "example": "Explaining tipping, queueing or a family holiday to someone who has never seen one."
+ },
+ {
+  "question": "What would change if I saw it as…?",
+  "how": "Try a different aspect deliberately and notice what shifts.",
+  "example": "Seeing a colleague’s silence as concentration rather than disapproval."
+ }
+]

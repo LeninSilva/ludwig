@@ -165,13 +165,21 @@ STYLE = ("Style: mid-century modernist print illustration, flat shapes with subt
 lessons = json.load(open(os.path.join(os.path.dirname(__file__), '..', 'data', 'lessons.json')))
 ids = [l['id'] for l in lessons]
 assert set(ids) == set(V), set(ids) ^ set(V)
+import sys; sys.path.insert(0, os.path.dirname(__file__))
+from insights import INSIGHT, QUESTION_WAYS
+alts = json.load(open(os.path.join(os.path.dirname(__file__), '..', 'data', 'illustration-alts.json')))
+assert set(INSIGHT) == set(V)
 out = []
 for i in ids:
     v = V[i]
+    ins = INSIGHT[i]; assert len(ins['ask']) == 3
     out.append({'id': i, 'plain': v['plain'], 'diagramCaption': v['caption'],
                 'example': {'title': v['example'][0], 'text': v['example'][1], 'label': 'Invented example'},
+                'insight': {'misreading': ins['misreading'], 'matters': ins['matters']},
+                'askYourself': ins['ask'],
                 'illustrations': {
-                    'concept': {'file': f'{i}-concept', 'prompt': v['concept'] + ' ' + STYLE},
-                    'example': {'file': f'{i}-example', 'prompt': v['ex'] + ' ' + STYLE}}})
+                    'concept': {'file': f'{i}-concept', 'alt': alts.get(f'{i}-concept', ''), 'prompt': v['concept'] + ' ' + STYLE},
+                    'example': {'file': f'{i}-example', 'alt': alts.get(f'{i}-example', ''), 'prompt': v['ex'] + ' ' + STYLE}}})
 json.dump(out, open(os.path.join(os.path.dirname(__file__), '..', 'data', 'visuals.json'), 'w'), ensure_ascii=False, indent=1)
-print('wrote', len(out), 'visual entries')
+json.dump([{'question': q, 'how': h, 'example': e} for q, h, e in QUESTION_WAYS], open(os.path.join(os.path.dirname(__file__), '..', 'data', 'questions.json'), 'w'), ensure_ascii=False, indent=1)
+print('wrote', len(out), 'visual entries and', len(QUESTION_WAYS), 'question ways')
